@@ -1,0 +1,20 @@
+CREATE TABLE `created_agents` (
+	`id` text PRIMARY KEY NOT NULL,
+	`name` text NOT NULL,
+	`client_name` text DEFAULT '' NOT NULL,
+	`business_name` text DEFAULT '' NOT NULL,
+	`industry` text DEFAULT '' NOT NULL,
+	`agent_type` text NOT NULL,
+	`primary_goal` text NOT NULL,
+	`languages` text DEFAULT 'English' NOT NULL,
+	`voice` text DEFAULT 'marin' NOT NULL,
+	`tone` text DEFAULT 'professional' NOT NULL,
+	`channels` text DEFAULT 'web' NOT NULL,
+	`capabilities` text DEFAULT '' NOT NULL,
+	`integrations` text DEFAULT '' NOT NULL,
+	`instructions` text NOT NULL,
+	`welcome_message` text NOT NULL,
+	`status` text DEFAULT 'draft' NOT NULL,
+	`source` text DEFAULT 'studio' NOT NULL,
+	`created_at` text DEFAULT CURRENT_TIMESTAMP NOT NULL
+);

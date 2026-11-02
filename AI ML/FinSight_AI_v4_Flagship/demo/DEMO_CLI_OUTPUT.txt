@@ -1,0 +1,32 @@
+
+=== FINSIGHT AI V4 FLAGSHIP DEMO ===
+Features: 52 | Graph: 108 entities / 180 relations
+
+=== EXECUTIVE SUMMARY ===
+ASTER SYSTEMS - INVESTOR DAY NOTES Management described cloud security subscriptions, enterprise renewals and channel partnerships as the primary growth pillars for the next fiscal year. [S1]
+ASTER SYSTEMS — Q4 MANAGEMENT BRIEF Q4 revenue was $184 million, up 18% year over year, led by cloud security subscriptions and enterprise renewals. [S3]
+Management believes renewal performance and support automation can partly offset these pressures, but customer acquisition efficiency remains a key near-term risk. [S2]
+ASTER SYSTEMS - RISK AND OPERATING UPDATE European enterprise sales cycles remain longer than the company target, creating timing risk for large contract conversions. [S2]
+
+Confidence: 88 % | Sources: 3 | Workflow: 1896 ms
+
+=== AGENT TRACE ===
+- Research Planner Agent: completed (0.01 ms)
+- Evidence Retrieval Agent: completed (8.8 ms)
+- Graph Reasoning Agent: completed (4.48 ms)
+- Financial Fundamentals Agent: completed (4.16 ms)
+- Structured XBRL Agent: completed (0.07 ms)
+- Financial Sentiment Agent: completed (5.98 ms)
+- Risk & Guidance Agent: completed (2.81 ms)
+- Earnings Intelligence Agent: completed (1.14 ms)
+- Event Intelligence Agent: completed (1.2 ms)
+- Forecast Agent: completed (1706.95 ms)
+- Scenario Agent: completed (0.01 ms)
+- Anomaly Detection Agent: completed (156.09 ms)
+- Research Synthesis Agent: completed (0.3 ms)
+- Verification Agent: completed (0.0 ms)
+
+=== EVALUATION ===
+Recommended retrieval: graph_hybrid | MRR: 1.0 | Citation precision: 1.0
+
+Saved: DEMO_OUTPUT.json

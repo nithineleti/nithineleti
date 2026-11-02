@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1785101581882,
+      "tag": "0000_huge_leo",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1785131391260,
+      "tag": "0001_icy_tigra",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1785132455840,
+      "tag": "0002_fearless_carnage",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1785134294110,
+      "tag": "0003_glorious_shatterstar",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1785878008355,
+      "tag": "0004_bent_tyrannus",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1787542486558,
+      "tag": "0005_omniscient_randall_flagg",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1788890000000,
+      "tag": "0006_request_limit_guard",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1789025290702,
+      "tag": "0007_amused_zaladane",
+      "breakpoints": true
+    }
+  ]
+}

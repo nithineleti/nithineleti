@@ -1,0 +1,32 @@
+
+=== CodePilot Autonomous Demo ===
+Run: 1 | Status: completed
+Baseline tests: FAIL (defect reproduced)
+Patch strategy: inclusive-boundary
+Verification tests: PASS
+Review: approved_for_human_review | Score: 100/100
+
+Diff:
+diff --git a/shop/invoice_service.py b/shop/invoice_service.py
+index d6fb27d..336b2e8 100644
+--- a/shop/invoice_service.py
++++ b/shop/invoice_service.py
+@@ -8,6 +8,6 @@ def loyalty_discount(subtotal: float, loyal_customer: bool) -> float:
+         raise ValueError("subtotal must be non-negative")
+ 
+     # Intentional demo defect: the threshold should be inclusive.
+-    if loyal_customer and subtotal > 100:
++    if loyal_customer and subtotal >= 100:
+         return round(subtotal * 0.10, 2)
+     return 0.0
+
+PR preview:
+{
+  "title": "Fix: Loyal customers should receive a 10% discount when the invoice subtotal is at or above 100",
+  "body": "## Summary\nThe report describes an inclusive lower boundary at 100; the implementation used an exclusive comparison.\n\n## Validation\n- Test command: `python -m pytest -q`\n- Verification: PASS\n- Automated review: approved_for_human_review\n- Review score: 100/100\n\n## Changed files\n- `shop/invoice_service.py`\n\nHuman approval is required before merge.",
+  "branch": "codepilot/fix-run-1",
+  "changed_files": [
+    "shop/invoice_service.py"
+  ],
+  "ready": true
+}

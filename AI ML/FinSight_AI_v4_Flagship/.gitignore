@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+runtime/*.db
+runtime/*.log
+runtime/*.pid
+runtime/uploads/*
+runtime/reports/*
+tests/test_finsight.db
+.DS_Store
+_report_render/

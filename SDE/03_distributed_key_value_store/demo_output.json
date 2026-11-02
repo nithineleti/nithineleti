@@ -1,0 +1,53 @@
+[
+  {
+    "step": "PUT /kv/cart:101",
+    "response": {
+      "key": "cart:101",
+      "stored_on": [
+        "node-3",
+        "node-4"
+      ],
+      "replication_factor": 2
+    }
+  },
+  {
+    "step": "GET /kv/cart:101",
+    "response": {
+      "key": "cart:101",
+      "value": "keyboard",
+      "served_by": "node-3",
+      "replicas": [
+        "node-3",
+        "node-4"
+      ]
+    }
+  },
+  {
+    "step": "GET /nodes",
+    "response": {
+      "nodes": {
+        "node-1": {
+          "status": "UP",
+          "keys": []
+        },
+        "node-2": {
+          "status": "UP",
+          "keys": []
+        },
+        "node-3": {
+          "status": "UP",
+          "keys": [
+            "cart:101"
+          ]
+        },
+        "node-4": {
+          "status": "UP",
+          "keys": [
+            "cart:101"
+          ]
+        }
+      },
+      "ring_virtual_nodes": 128
+    }
+  }
+]

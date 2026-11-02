@@ -1,0 +1,88 @@
+[
+  {
+    "step": "POST /notifications",
+    "response": {
+      "deduplicated": false,
+      "notification": {
+        "id": "864f61e5",
+        "recipient": "u@example.com",
+        "channel": "email",
+        "message": "fail once then deliver",
+        "priority": 9,
+        "attempts": 0,
+        "status": "QUEUED"
+      }
+    }
+  },
+  {
+    "step": "POST /workers/process-next",
+    "response": {
+      "id": "864f61e5",
+      "recipient": "u@example.com",
+      "channel": "email",
+      "message": "fail once then deliver",
+      "priority": 9,
+      "attempts": 1,
+      "status": "RETRY",
+      "result": "temporary provider failure"
+    }
+  },
+  {
+    "step": "POST /workers/process-next again",
+    "response": {
+      "id": "864f61e5",
+      "recipient": "u@example.com",
+      "channel": "email",
+      "message": "fail once then deliver",
+      "priority": 9,
+      "attempts": 2,
+      "status": "DELIVERED",
+      "result": "sent via email"
+    }
+  },
+  {
+    "step": "GET /events",
+    "response": {
+      "events": [
+        {
+          "type": "NOTIFICATION_QUEUED",
+          "payload": {
+            "notification_id": "864f61e5",
+            "channel": "email"
+          },
+          "ts": 1787678958.848
+        },
+        {
+          "type": "DELIVERY_STARTED",
+          "payload": {
+            "notification_id": "864f61e5",
+            "attempt": 1
+          },
+          "ts": 1787678958.85
+        },
+        {
+          "type": "RETRY_QUEUED",
+          "payload": {
+            "notification_id": "864f61e5"
+          },
+          "ts": 1787678958.85
+        },
+        {
+          "type": "DELIVERY_STARTED",
+          "payload": {
+            "notification_id": "864f61e5",
+            "attempt": 2
+          },
+          "ts": 1787678958.851
+        },
+        {
+          "type": "DELIVERED",
+          "payload": {
+            "notification_id": "864f61e5"
+          },
+          "ts": 1787678958.851
+        }
+      ]
+    }
+  }
+]

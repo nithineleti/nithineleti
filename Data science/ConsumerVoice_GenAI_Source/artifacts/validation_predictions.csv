@@ -1,0 +1,596 @@
+feedback_id,date,product,text,sentiment,topic,urgent,predicted_sentiment,predicted_topic,predicted_urgent
+FB-00621,2026-02-17,StayEase Hotel,Packaging quality was poor and wasteful. I need this resolved soon. This is urgent and needs immediate attention.,negative,packaging,1,negative,packaging,1
+FB-01254,2026-02-17,Harvest Crunch Biscuits,The flavour was fresh and genuinely enjoyable. Highly recommended.,positive,taste,0,positive,taste,0
+FB-02131,2026-02-17,HomeCart Delivery,The flavour was fresh and genuinely enjoyable. Please keep this standard.,positive,taste,0,positive,taste,0
+FB-01715,2026-02-17,PureLeaf Tea,The flavour was unpleasant and I could not finish it. I am considering another brand.,negative,taste,0,negative,taste,0
+FB-01194,2026-02-17,Harvest Crunch Biscuits,Loved the balanced taste and would buy it again. I plan to purchase again. Contact me at customer1193@example.com.,positive,taste,0,positive,taste,0
+FB-01434,2026-02-18,GlowCare Soap,My basic question was answered. Overall it was an average experience.,neutral,service,0,neutral,service,0
+FB-01960,2026-02-18,StayEase Hotel,"The taste exceeded my expectations. I plan to purchase again. However, the response was unhelpful and frustrating.",positive,product_quality,0,positive,service,0
+FB-00404,2026-02-18,GlowCare Soap,Quality was inconsistent with my previous purchase. Please investigate this issue. This is urgent and needs immediate attention.,negative,product_quality,1,negative,product_quality,1
+FB-00100,2026-02-18,FreshSip Juice,The shipment took the usual amount of time. I may try it again.,neutral,delivery,0,neutral,delivery,0
+FB-00889,2026-02-19,FreshSip Juice,The new packaging feels premium and practical. I plan to purchase again.,positive,packaging,0,positive,packaging,0
+FB-00622,2026-02-19,HomeCart Delivery,"Excellent value for the quality provided. Highly recommended. However, the service was adequate.",positive,price,0,positive,service,0
+FB-00489,2026-02-19,HomeCart Delivery,"The price is too high for the quality. I need this resolved soon. However, the pack arrived perfectly sealed.",negative,packaging,0,negative,packaging,0
+FB-02121,2026-02-19,FreshSip Juice,Delivery was faster than promised. I plan to purchase again.,positive,delivery,0,positive,delivery,0
+FB-02035,2026-02-20,Harvest Crunch Biscuits,The order arrived safely and on time. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-00264,2026-02-20,StayEase Hotel,The response was unhelpful and frustrating. I need this resolved soon. This is urgent and needs immediate attention.,neutral,service,1,negative,service,1
+FB-01760,2026-02-20,StayEase Hotel,The shipment is still missing. I am considering another brand. This is urgent and needs immediate attention.,negative,delivery,1,negative,delivery,1
+FB-00294,2026-02-20,HomeCart Delivery,Everything felt fresh and well made. I plan to purchase again.,positive,product_quality,0,positive,product_quality,0
+FB-00280,2026-02-21,PureLeaf Tea,This no longer feels worth the money. I need this resolved soon.,negative,price,0,negative,price,0
+FB-02382,2026-02-21,HomeCart Delivery,Delivery was adequate. There is room for improvement.,neutral,delivery,0,neutral,delivery,0
+FB-01919,2026-02-21,FreshSip Juice,Taste quality has clearly declined. I am considering another brand.,negative,taste,1,negative,taste,0
+FB-00791,2026-02-21,StayEase Hotel,"The order arrived safely and on time. I plan to purchase again. However, the response was unhelpful and frustrating.",positive,delivery,0,positive,delivery,0
+FB-02189,2026-02-21,HomeCart Delivery,"Everything felt fresh and well made. Highly recommended. However, packaging was secure, clean and easy to open.",positive,product_quality,0,positive,product_quality,0
+FB-01284,2026-02-21,PureLeaf Tea,It is priced around what I expected. Overall it was an average experience.,positive,price,0,neutral,price,0
+FB-01128,2026-02-22,GlowCare Soap,Support was professional and helpful. Highly recommended.,positive,service,0,positive,service,0
+FB-01298,2026-02-22,GlowCare Soap,The product was defective and unusable. I am considering another brand. Contact me at customer1297@example.com. This is urgent and needs immediate attention.,neutral,product_quality,1,negative,product_quality,1
+FB-02331,2026-02-22,FreshSip Juice,The shipment is still missing. I need this resolved soon. This is urgent and needs immediate attention.,negative,delivery,1,negative,delivery,1
+FB-00789,2026-02-23,GlowCare Soap,The container leaked inside the box. Please investigate this issue.,negative,packaging,0,negative,packaging,0
+FB-02313,2026-02-23,StayEase Hotel,"Everything felt fresh and well made. Highly recommended. However, delivery was completed within the expected window.",positive,product_quality,0,positive,product_quality,0
+FB-00165,2026-02-23,PureLeaf Tea,The response was unhelpful and frustrating. I need this resolved soon.,negative,service,0,negative,service,0
+FB-01609,2026-02-24,Harvest Crunch Biscuits,"Support was professional and helpful. Please keep this standard. However, the container leaked inside the box.",positive,service,0,positive,service,0
+FB-01605,2026-02-24,HomeCart Delivery,The new packaging feels premium and practical. Highly recommended.,positive,packaging,0,positive,packaging,0
+FB-02273,2026-02-24,GlowCare Soap,Price feels fair and competitive. Highly recommended.,positive,price,0,positive,price,0
+FB-02290,2026-02-24,GlowCare Soap,"No one took ownership of the problem. Please investigate this issue. However, the shipment is still missing. Contact me at customer2289@example.com. This is urgent and needs immediate attention.",negative,service,1,negative,service,1
+FB-01716,2026-02-24,GlowCare Soap,The pack design was ordinary. I may try it again.,neutral,packaging,0,neutral,packaging,0
+FB-00927,2026-02-24,FreshSip Juice,The taste exceeded my expectations. Highly recommended. Contact me at customer926@example.com.,positive,taste,0,positive,taste,0
+FB-00876,2026-02-24,GlowCare Soap,"Support ignored my complaint repeatedly. I need this resolved soon. However, the price is too high for the quality. Contact me at customer875@example.com. This is urgent and needs immediate attention.",negative,service,1,negative,service,1
+FB-00875,2026-02-25,Harvest Crunch Biscuits,Excellent delivery experience and useful updates. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-00231,2026-02-25,GlowCare Soap,"The quality has improved noticeably. I plan to purchase again. However, delivery was faster than promised.",positive,product_quality,0,positive,delivery,0
+FB-01604,2026-02-26,GlowCare Soap,The order arrived very late with no useful update. I need this resolved soon.,negative,delivery,0,negative,delivery,0
+FB-01608,2026-02-26,Harvest Crunch Biscuits,The flavour was acceptable but not memorable. Overall it was an average experience.,neutral,taste,0,neutral,taste,0
+FB-00444,2026-02-26,HomeCart Delivery,Pricing is acceptable but not exceptional. There is room for improvement.,neutral,price,0,neutral,price,0
+FB-01457,2026-02-26,FreshSip Juice,"The shipment took the usual amount of time. There is room for improvement. However, it was neither impressive nor disappointing.",neutral,delivery,1,neutral,delivery,0
+FB-02186,2026-02-26,PureLeaf Tea,My basic question was answered. There is room for improvement.,neutral,service,0,neutral,service,0
+FB-01703,2026-02-26,PureLeaf Tea,The taste felt stale and disappointing. Please investigate this issue.,negative,taste,0,negative,taste,0
+FB-00519,2026-02-26,PureLeaf Tea,Pricing is acceptable but not exceptional. There is room for improvement.,neutral,price,0,neutral,price,0
+FB-00902,2026-02-27,HomeCart Delivery,"Delivery was faster than promised. I plan to purchase again. However, the taste felt stale and disappointing.",positive,delivery,0,positive,taste,0
+FB-01314,2026-02-27,PureLeaf Tea,"Quality was standard for this type of product. Overall it was an average experience. However, the packaging did its job.",neutral,product_quality,0,neutral,packaging,0
+FB-01975,2026-02-27,Harvest Crunch Biscuits,The new packaging feels premium and practical. Highly recommended.,positive,packaging,0,positive,packaging,0
+FB-00704,2026-02-28,HomeCart Delivery,Taste quality has clearly declined. I need this resolved soon. This is urgent and needs immediate attention.,negative,taste,1,negative,taste,1
+FB-01884,2026-02-28,PureLeaf Tea,Everything felt fresh and well made. I plan to purchase again.,positive,product_quality,0,positive,product_quality,0
+FB-00062,2026-02-28,HomeCart Delivery,"Packaging was secure, clean and easy to open. Please keep this standard. However, the order arrived very late with no useful update.",positive,packaging,0,positive,delivery,0
+FB-02317,2026-02-28,HomeCart Delivery,Packaging quality was poor and wasteful. I am considering another brand.,negative,packaging,0,negative,packaging,0
+FB-00982,2026-02-28,PureLeaf Tea,"The order arrived safely and on time. Please keep this standard. However, the quality has improved noticeably.",positive,delivery,0,positive,delivery,0
+FB-01792,2026-02-28,StayEase Hotel,The taste exceeded my expectations. Highly recommended.,positive,taste,0,positive,taste,0
+FB-00944,2026-02-28,Harvest Crunch Biscuits,The container leaked inside the box. I need this resolved soon.,negative,packaging,0,negative,packaging,0
+FB-00941,2026-02-28,HomeCart Delivery,The offer made this a very good purchase. Please keep this standard.,positive,price,0,positive,price,0
+FB-01015,2026-03-01,HomeCart Delivery,The taste felt stale and disappointing. I am considering another brand. This is urgent and needs immediate attention.,negative,price,1,negative,taste,1
+FB-00016,2026-03-01,PureLeaf Tea,The staff resolved my issue quickly and politely. Please keep this standard.,positive,service,0,positive,service,0
+FB-00809,2026-03-01,GlowCare Soap,The packaging did its job. I may try it again.,neutral,packaging,0,neutral,packaging,0
+FB-00662,2026-03-01,HomeCart Delivery,"The offer made this a very good purchase. Highly recommended. However, the order arrived very late with no useful update.",positive,price,0,positive,delivery,0
+FB-00648,2026-03-01,GlowCare Soap,Support ignored my complaint repeatedly. Please investigate this issue. This is urgent and needs immediate attention.,neutral,service,1,negative,service,1
+FB-00462,2026-03-02,StayEase Hotel,Delivery was faster than promised. Please keep this standard.,positive,delivery,0,positive,delivery,0
+FB-00364,2026-03-02,Harvest Crunch Biscuits,Excellent value for the quality provided. I plan to purchase again. Contact me at customer363@example.com.,positive,price,0,positive,price,0
+FB-01624,2026-03-02,PureLeaf Tea,The package was damaged and the seal was broken. Please investigate this issue. This is urgent and needs immediate attention.,negative,packaging,1,negative,packaging,1
+FB-01265,2026-03-02,FreshSip Juice,"It was neither impressive nor disappointing. There is room for improvement. However, the quality has improved noticeably.",positive,taste,1,neutral,taste,0
+FB-01073,2026-03-03,GlowCare Soap,This no longer feels worth the money. I am considering another brand.,negative,price,0,negative,price,0
+FB-00005,2026-03-03,GlowCare Soap,Quality was reasonably consistent. I may try it again.,neutral,product_quality,0,neutral,product_quality,0
+FB-00001,2026-03-03,GlowCare Soap,This no longer feels worth the money. Please investigate this issue.,negative,price,0,negative,price,0
+FB-02306,2026-03-04,Harvest Crunch Biscuits,Loved the balanced taste and would buy it again. I plan to purchase again.,positive,taste,0,positive,taste,0
+FB-01829,2026-03-04,FreshSip Juice,"The response was unhelpful and frustrating. Please investigate this issue. However, the shipment took the usual amount of time.",negative,service,0,negative,service,0
+FB-00709,2026-03-04,PureLeaf Tea,"Product quality was consistent and excellent. I plan to purchase again. However, packaging quality was poor and wasteful.",positive,product_quality,1,positive,packaging,0
+FB-00471,2026-03-05,FreshSip Juice,"Packaging was secure, clean and easy to open. Please keep this standard.",positive,packaging,0,positive,packaging,0
+FB-00612,2026-03-05,PureLeaf Tea,The offer made this a very good purchase. Please keep this standard.,positive,price,0,positive,price,0
+FB-01504,2026-03-05,PureLeaf Tea,Delivery was adequate. I may try it again.,neutral,delivery,0,neutral,delivery,0
+FB-01475,2026-03-05,PureLeaf Tea,The order arrived very late with no useful update. I am considering another brand. This is urgent and needs immediate attention.,neutral,delivery,1,negative,delivery,1
+FB-00037,2026-03-05,HomeCart Delivery,Delivery was completed within the expected window. I may try it again.,neutral,delivery,0,neutral,delivery,0
+FB-00981,2026-03-05,PureLeaf Tea,Excellent value for the quality provided. Please keep this standard.,positive,price,0,positive,price,0
+FB-01286,2026-03-06,StayEase Hotel,"Product quality was consistent and excellent. I plan to purchase again. However, taste was average for this category.",positive,product_quality,0,positive,product_quality,0
+FB-02183,2026-03-06,HomeCart Delivery,Product quality was consistent and excellent. Highly recommended.,positive,product_quality,0,positive,product_quality,0
+FB-01616,2026-03-07,Harvest Crunch Biscuits,Excellent value for the quality provided. Highly recommended.,positive,price,0,positive,price,0
+FB-01071,2026-03-07,PureLeaf Tea,The product was defective and unusable. Please investigate this issue.,negative,product_quality,0,negative,product_quality,0
+FB-01903,2026-03-07,Harvest Crunch Biscuits,Packaging was functional but could be improved. There is room for improvement. Contact me at customer1902@example.com.,neutral,packaging,0,neutral,packaging,0
+FB-02232,2026-03-07,HomeCart Delivery,Taste quality has clearly declined. Please investigate this issue. Contact me at customer2231@example.com.,negative,taste,0,negative,taste,0
+FB-00734,2026-03-07,GlowCare Soap,Delivery was delayed and support could not help. Please investigate this issue.,negative,delivery,0,negative,delivery,0
+FB-00776,2026-03-07,Harvest Crunch Biscuits,Excellent delivery experience and useful updates. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-01667,2026-03-08,StayEase Hotel,Quality was inconsistent with my previous purchase. I need this resolved soon.,negative,product_quality,0,negative,product_quality,0
+FB-01079,2026-03-09,StayEase Hotel,"Support was professional and helpful. I plan to purchase again. However, quality was standard for this type of product.",positive,service,0,positive,service,0
+FB-02329,2026-03-09,StayEase Hotel,The service was adequate. Overall it was an average experience.,neutral,service,0,neutral,service,0
+FB-01874,2026-03-10,GlowCare Soap,Delivery was faster than promised. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-00044,2026-03-10,PureLeaf Tea,"Packaging was secure, clean and easy to open. I plan to purchase again.",positive,packaging,0,positive,packaging,0
+FB-01053,2026-03-10,StayEase Hotel,"Taste was average for this category. There is room for improvement. However, packaging was functional but could be improved.",neutral,taste,0,neutral,packaging,0
+FB-00345,2026-03-10,GlowCare Soap,The staff resolved my issue quickly and politely. I plan to purchase again.,positive,service,0,positive,service,0
+FB-02242,2026-03-10,FreshSip Juice,Price feels fair and competitive. Please keep this standard.,positive,product_quality,0,positive,price,0
+FB-01678,2026-03-10,FreshSip Juice,Excellent value for the quality provided. Please keep this standard. Contact me at customer1677@example.com.,positive,price,0,positive,price,0
+FB-01257,2026-03-11,StayEase Hotel,Packaging quality was poor and wasteful. Please investigate this issue.,negative,packaging,0,negative,packaging,0
+FB-02327,2026-03-11,HomeCart Delivery,The service was adequate. Overall it was an average experience.,neutral,service,0,neutral,service,0
+FB-01140,2026-03-11,StayEase Hotel,Support answered after a normal waiting time. I may try it again. Contact me at customer1139@example.com.,neutral,service,0,neutral,service,0
+FB-02218,2026-03-12,PureLeaf Tea,The taste felt stale and disappointing. I am considering another brand. This is urgent and needs immediate attention.,negative,taste,1,negative,taste,1
+FB-00619,2026-03-12,HomeCart Delivery,The staff resolved my issue quickly and politely. I plan to purchase again.,positive,service,0,positive,service,0
+FB-00589,2026-03-12,PureLeaf Tea,"Product quality was consistent and excellent. Highly recommended. However, the pack arrived perfectly sealed.",positive,product_quality,0,positive,packaging,0
+FB-01304,2026-03-12,GlowCare Soap,The recent price increase is disappointing. I am considering another brand.,negative,price,0,negative,price,0
+FB-01185,2026-03-12,PureLeaf Tea,Pricing is acceptable but not exceptional. I may try it again.,neutral,price,0,neutral,price,1
+FB-00432,2026-03-12,PureLeaf Tea,Taste was average for this category. I may try it again.,neutral,taste,0,neutral,taste,0
+FB-00286,2026-03-13,StayEase Hotel,Service made the entire experience easy. Please keep this standard.,positive,service,0,positive,service,0
+FB-01147,2026-03-13,Harvest Crunch Biscuits,"Packaging quality was poor and wasteful. Please investigate this issue. However, quality was reasonably consistent.",negative,packaging,0,negative,packaging,0
+FB-02175,2026-03-13,Harvest Crunch Biscuits,Packaging was functional but could be improved. There is room for improvement.,neutral,packaging,0,neutral,packaging,0
+FB-00827,2026-03-13,GlowCare Soap,Support ignored my complaint repeatedly. Please investigate this issue.,negative,service,0,negative,service,0
+FB-01714,2026-03-13,StayEase Hotel,Taste quality has clearly declined. I need this resolved soon.,negative,taste,0,negative,taste,0
+FB-02152,2026-03-13,PureLeaf Tea,No one took ownership of the problem. Please investigate this issue. Contact me at customer2151@example.com.,negative,service,0,negative,service,0
+FB-00454,2026-03-13,PureLeaf Tea,The recent price increase is disappointing. I need this resolved soon.,negative,price,0,negative,price,0
+FB-00089,2026-03-14,PureLeaf Tea,Excellent delivery experience and useful updates. Please keep this standard.,positive,delivery,0,positive,delivery,0
+FB-01100,2026-03-14,Harvest Crunch Biscuits,No one took ownership of the problem. I am considering another brand.,negative,service,0,negative,service,0
+FB-00027,2026-03-14,HomeCart Delivery,Service made the entire experience easy. Highly recommended.,positive,service,0,positive,service,0
+FB-01486,2026-03-15,StayEase Hotel,The flavour was unpleasant and I could not finish it. I need this resolved soon.,negative,taste,0,negative,taste,0
+FB-01158,2026-03-15,PureLeaf Tea,The offer made this a very good purchase. Highly recommended.,positive,price,0,positive,price,0
+FB-01973,2026-03-15,HomeCart Delivery,Excellent delivery experience and useful updates. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-00147,2026-03-15,GlowCare Soap,Delivery was faster than promised. I plan to purchase again. Contact me at customer146@example.com.,positive,delivery,0,positive,delivery,0
+FB-01974,2026-03-15,HomeCart Delivery,The order arrived very late with no useful update. I need this resolved soon.,negative,delivery,0,negative,delivery,0
+FB-01972,2026-03-15,FreshSip Juice,"Support was professional and helpful. Please keep this standard. However, product quality was consistent and excellent.",positive,service,0,positive,service,0
+FB-00842,2026-03-16,HomeCart Delivery,Everything felt fresh and well made. I plan to purchase again.,positive,product_quality,0,positive,product_quality,0
+FB-00970,2026-03-16,FreshSip Juice,The shipment took the usual amount of time. I may try it again.,neutral,delivery,0,neutral,delivery,0
+FB-00004,2026-03-16,StayEase Hotel,Loved the balanced taste and would buy it again. Please keep this standard.,positive,taste,0,positive,taste,0
+FB-01402,2026-03-16,PureLeaf Tea,The package was damaged and the seal was broken. I am considering another brand. This is urgent and needs immediate attention.,negative,packaging,1,negative,packaging,1
+FB-00205,2026-03-16,PureLeaf Tea,The order arrived safely and on time. I plan to purchase again. Contact me at customer204@example.com.,positive,delivery,0,positive,delivery,0
+FB-01757,2026-03-16,FreshSip Juice,Support was professional and helpful. I plan to purchase again.,positive,service,0,positive,service,0
+FB-00616,2026-03-17,GlowCare Soap,Excellent delivery experience and useful updates. Highly recommended.,positive,delivery,1,positive,delivery,0
+FB-01841,2026-03-17,PureLeaf Tea,This no longer feels worth the money. I need this resolved soon.,negative,price,0,negative,price,0
+FB-01253,2026-03-17,GlowCare Soap,Delivery was completed within the expected window. Overall it was an average experience.,neutral,delivery,0,neutral,delivery,0
+FB-02347,2026-03-17,HomeCart Delivery,Packaging was functional but could be improved. Overall it was an average experience. Contact me at customer2346@example.com.,neutral,packaging,0,neutral,packaging,0
+FB-01054,2026-03-17,HomeCart Delivery,The price is too high for the quality. I need this resolved soon. This is urgent and needs immediate attention.,negative,price,1,negative,price,1
+FB-01355,2026-03-17,GlowCare Soap,"It is priced around what I expected. There is room for improvement. However, delivery was completed within the expected window.",neutral,price,0,neutral,price,0
+FB-01370,2026-03-18,HomeCart Delivery,The pack design was ordinary. There is room for improvement.,neutral,delivery,0,neutral,packaging,0
+FB-00883,2026-03-18,FreshSip Juice,The price is similar to other brands. There is room for improvement.,neutral,price,0,neutral,price,0
+FB-01409,2026-03-18,FreshSip Juice,Excellent value for the quality provided. I plan to purchase again.,positive,price,0,positive,price,0
+FB-00239,2026-03-19,PureLeaf Tea,Delivery was completed within the expected window. Overall it was an average experience.,neutral,delivery,0,neutral,delivery,0
+FB-02116,2026-03-19,FreshSip Juice,Delivery was faster than promised. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-01572,2026-03-19,StayEase Hotel,The product was defective and unusable. Please investigate this issue.,negative,product_quality,0,negative,product_quality,0
+FB-00208,2026-03-20,Harvest Crunch Biscuits,The product met basic expectations. Overall it was an average experience.,neutral,product_quality,0,neutral,product_quality,0
+FB-01430,2026-03-20,PureLeaf Tea,Delivery was faster than promised. Highly recommended. Contact me at customer1429@example.com.,positive,delivery,0,positive,delivery,0
+FB-01293,2026-03-21,PureLeaf Tea,Pricing is acceptable but not exceptional. Overall it was an average experience.,neutral,price,0,neutral,price,0
+FB-01922,2026-03-21,FreshSip Juice,Everything felt fresh and well made. I plan to purchase again.,positive,product_quality,1,positive,product_quality,0
+FB-02155,2026-03-21,PureLeaf Tea,"Quality was inconsistent with my previous purchase. Please investigate this issue. However, the pack arrived perfectly sealed. This is urgent and needs immediate attention.",negative,product_quality,1,negative,packaging,1
+FB-00893,2026-03-22,FreshSip Juice,Loved the balanced taste and would buy it again. Highly recommended.,positive,taste,0,positive,taste,0
+FB-01653,2026-03-22,StayEase Hotel,The order arrived safely and on time. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-00591,2026-03-22,StayEase Hotel,The shipment took the usual amount of time. There is room for improvement.,neutral,delivery,0,neutral,delivery,0
+FB-01941,2026-03-22,GlowCare Soap,"The order arrived safely and on time. Highly recommended. However, the item looked old and poorly handled.",positive,delivery,0,positive,product_quality,0
+FB-01632,2026-03-22,FreshSip Juice,Taste was average for this category. Overall it was an average experience.,neutral,taste,0,neutral,taste,0
+FB-00236,2026-03-22,FreshSip Juice,Excellent delivery experience and useful updates. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-01999,2026-03-23,GlowCare Soap,The offer made this a very good purchase. Highly recommended.,positive,price,0,positive,price,0
+FB-01138,2026-03-23,Harvest Crunch Biscuits,The package was damaged and the seal was broken. I am considering another brand. This is urgent and needs immediate attention.,negative,packaging,1,negative,packaging,1
+FB-00868,2026-03-24,FreshSip Juice,Delivery was faster than promised. I plan to purchase again.,positive,delivery,0,positive,delivery,0
+FB-00119,2026-03-25,PureLeaf Tea,Quality was inconsistent with my previous purchase. I am considering another brand. This is urgent and needs immediate attention.,negative,product_quality,1,negative,product_quality,1
+FB-02067,2026-03-25,PureLeaf Tea,Delivery was faster than promised. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-01411,2026-03-25,FreshSip Juice,It was neither impressive nor disappointing. Overall it was an average experience.,neutral,taste,0,neutral,taste,0
+FB-01037,2026-03-26,HomeCart Delivery,Product quality was consistent and excellent. I plan to purchase again.,positive,product_quality,0,positive,product_quality,0
+FB-01065,2026-03-26,Harvest Crunch Biscuits,Support ignored my complaint repeatedly. Please investigate this issue.,negative,service,0,negative,service,0
+FB-00090,2026-03-26,GlowCare Soap,"The taste exceeded my expectations. Please keep this standard. However, delivery was adequate.",positive,taste,0,positive,taste,0
+FB-00436,2026-03-26,FreshSip Juice,The package was damaged and the seal was broken. I need this resolved soon. This is urgent and needs immediate attention.,negative,delivery,1,negative,packaging,1
+FB-00552,2026-03-26,PureLeaf Tea,Service made the entire experience easy. Please keep this standard.,positive,service,0,positive,service,0
+FB-01546,2026-03-26,FreshSip Juice,Quality was inconsistent with my previous purchase. I am considering another brand. This is urgent and needs immediate attention.,negative,product_quality,1,negative,product_quality,1
+FB-01258,2026-03-26,StayEase Hotel,The quality has improved noticeably. Highly recommended.,positive,product_quality,0,positive,product_quality,0
+FB-00706,2026-03-27,HomeCart Delivery,The shipment is still missing. I need this resolved soon. This is urgent and needs immediate attention.,negative,delivery,1,negative,delivery,1
+FB-01021,2026-03-27,Harvest Crunch Biscuits,Product quality was consistent and excellent. I plan to purchase again.,positive,product_quality,0,positive,product_quality,0
+FB-00772,2026-03-27,GlowCare Soap,Support was professional and helpful. I plan to purchase again.,negative,packaging,0,positive,service,0
+FB-00647,2026-03-28,PureLeaf Tea,"The taste exceeded my expectations. Please keep this standard. However, support was professional and helpful.",positive,taste,0,positive,taste,0
+FB-00561,2026-03-28,GlowCare Soap,It was neither impressive nor disappointing. There is room for improvement.,neutral,taste,0,neutral,taste,0
+FB-01991,2026-03-28,StayEase Hotel,Excellent delivery experience and useful updates. Please keep this standard.,positive,delivery,0,positive,delivery,0
+FB-01839,2026-03-28,PureLeaf Tea,Excellent value for the quality provided. Highly recommended. Contact me at customer1838@example.com.,positive,price,0,positive,price,0
+FB-02364,2026-03-28,StayEase Hotel,The shipment took the usual amount of time. Overall it was an average experience.,neutral,delivery,0,neutral,delivery,0
+FB-00136,2026-03-28,Harvest Crunch Biscuits,The staff resolved my issue quickly and politely. I plan to purchase again.,positive,service,0,positive,service,0
+FB-00840,2026-03-28,Harvest Crunch Biscuits,The new packaging feels premium and practical. Please keep this standard.,positive,service,0,positive,packaging,0
+FB-01868,2026-03-28,HomeCart Delivery,The pack design was ordinary. There is room for improvement.,neutral,packaging,0,neutral,packaging,0
+FB-01503,2026-03-29,FreshSip Juice,"Packaging was secure, clean and easy to open. I plan to purchase again.",positive,packaging,0,positive,packaging,0
+FB-01541,2026-03-29,StayEase Hotel,The shipment is still missing. Please investigate this issue. This is urgent and needs immediate attention.,negative,delivery,1,negative,delivery,1
+FB-00093,2026-03-29,StayEase Hotel,The product met basic expectations. There is room for improvement. Contact me at customer92@example.com.,neutral,product_quality,0,neutral,product_quality,0
+FB-01891,2026-03-29,PureLeaf Tea,"The offer made this a very good purchase. Highly recommended. However, the taste felt stale and disappointing.",positive,price,0,positive,price,0
+FB-02103,2026-03-29,HomeCart Delivery,The flavour was fresh and genuinely enjoyable. I plan to purchase again.,positive,taste,0,positive,taste,0
+FB-00365,2026-03-29,GlowCare Soap,The new packaging feels premium and practical. Please keep this standard.,positive,packaging,0,positive,packaging,0
+FB-02370,2026-03-29,FreshSip Juice,The pack arrived perfectly sealed. Please keep this standard.,positive,packaging,0,positive,packaging,0
+FB-00019,2026-03-29,FreshSip Juice,Product quality was consistent and excellent. Highly recommended.,positive,product_quality,0,positive,product_quality,0
+FB-00340,2026-03-30,StayEase Hotel,The taste exceeded my expectations. Please keep this standard.,positive,taste,0,positive,taste,1
+FB-02344,2026-03-31,StayEase Hotel,"Taste was average for this category. Overall it was an average experience. However, quality was inconsistent with my previous purchase.",neutral,taste,0,neutral,taste,0
+FB-01864,2026-03-31,GlowCare Soap,The item looked old and poorly handled. I need this resolved soon.,negative,product_quality,0,negative,product_quality,0
+FB-01840,2026-03-31,FreshSip Juice,No one took ownership of the problem. Please investigate this issue.,negative,service,0,negative,service,0
+FB-00938,2026-04-01,HomeCart Delivery,Product quality was consistent and excellent. Highly recommended.,positive,product_quality,0,positive,product_quality,0
+FB-01386,2026-04-01,GlowCare Soap,"The flavour was unpleasant and I could not finish it. I need this resolved soon. However, quality was reasonably consistent.",negative,taste,0,negative,taste,0
+FB-02216,2026-04-01,HomeCart Delivery,The new packaging feels premium and practical. Please keep this standard.,positive,packaging,0,positive,packaging,0
+FB-02224,2026-04-01,Harvest Crunch Biscuits,The response was unhelpful and frustrating. I am considering another brand. This is urgent and needs immediate attention.,negative,service,1,negative,service,1
+FB-00174,2026-04-01,Harvest Crunch Biscuits,The shipment is still missing. I am considering another brand. This is urgent and needs immediate attention.,negative,delivery,1,negative,delivery,1
+FB-00630,2026-04-01,StayEase Hotel,Excellent delivery experience and useful updates. I plan to purchase again.,positive,delivery,0,positive,delivery,0
+FB-01264,2026-04-02,PureLeaf Tea,The product met basic expectations. I may try it again.,neutral,product_quality,0,neutral,product_quality,0
+FB-01150,2026-04-02,FreshSip Juice,It was neither impressive nor disappointing. Overall it was an average experience.,neutral,taste,0,neutral,taste,0
+FB-00390,2026-04-02,GlowCare Soap,"Everything felt fresh and well made. I plan to purchase again. However, the shipment is still missing.",positive,product_quality,0,positive,product_quality,0
+FB-00247,2026-04-02,FreshSip Juice,Loved the balanced taste and would buy it again. Highly recommended.,negative,taste,0,positive,taste,0
+FB-02324,2026-04-02,StayEase Hotel,"The container leaked inside the box. I am considering another brand. However, excellent delivery experience and useful updates. This is urgent and needs immediate attention.",negative,packaging,1,negative,packaging,1
+FB-00668,2026-04-03,StayEase Hotel,The package was damaged and the seal was broken. I need this resolved soon. This is urgent and needs immediate attention.,negative,packaging,1,negative,packaging,1
+FB-01045,2026-04-03,Harvest Crunch Biscuits,"The new packaging feels premium and practical. Highly recommended. However, the shipment took the usual amount of time.",positive,packaging,0,positive,packaging,1
+FB-02203,2026-04-03,HomeCart Delivery,The order arrived very late with no useful update. Please investigate this issue.,negative,delivery,0,negative,delivery,0
+FB-02199,2026-04-03,FreshSip Juice,"Excellent delivery experience and useful updates. Highly recommended. However, support ignored my complaint repeatedly.",positive,delivery,0,positive,service,0
+FB-00370,2026-04-03,PureLeaf Tea,The new packaging feels premium and practical. I plan to purchase again.,positive,packaging,0,positive,packaging,0
+FB-01634,2026-04-04,Harvest Crunch Biscuits,Support answered after a normal waiting time. Overall it was an average experience.,neutral,service,0,neutral,service,0
+FB-02375,2026-04-04,PureLeaf Tea,The staff resolved my issue quickly and politely. Highly recommended.,positive,service,0,positive,service,0
+FB-01213,2026-04-04,Harvest Crunch Biscuits,"The flavour was fresh and genuinely enjoyable. I plan to purchase again. However, the quality has improved noticeably.",positive,taste,0,positive,taste,0
+FB-01857,2026-04-04,HomeCart Delivery,Support was professional and helpful. Highly recommended. Contact me at customer1856@example.com.,positive,service,0,positive,service,0
+FB-02328,2026-04-04,HomeCart Delivery,The product was defective and unusable. Please investigate this issue.,negative,product_quality,0,negative,product_quality,0
+FB-01159,2026-04-04,PureLeaf Tea,The quality has improved noticeably. Highly recommended.,positive,product_quality,0,positive,product_quality,0
+FB-01640,2026-04-05,HomeCart Delivery,Taste quality has clearly declined. Please investigate this issue.,negative,taste,0,negative,taste,0
+FB-02330,2026-04-05,GlowCare Soap,This no longer feels worth the money. Please investigate this issue. Contact me at customer2329@example.com.,negative,price,0,negative,price,0
+FB-02228,2026-04-05,PureLeaf Tea,"The taste felt stale and disappointing. I am considering another brand. However, excellent delivery experience and useful updates. This is urgent and needs immediate attention.",negative,product_quality,1,negative,taste,1
+FB-01824,2026-04-05,Harvest Crunch Biscuits,The recent price increase is disappointing. Please investigate this issue.,negative,price,0,negative,price,0
+FB-00175,2026-04-05,GlowCare Soap,It is priced around what I expected. There is room for improvement. Contact me at customer174@example.com.,neutral,price,0,neutral,price,0
+FB-01322,2026-04-06,StayEase Hotel,Loved the balanced taste and would buy it again. Highly recommended. Contact me at customer1321@example.com.,positive,taste,0,positive,taste,0
+FB-01341,2026-04-06,HomeCart Delivery,Quality was reasonably consistent. I may try it again.,neutral,product_quality,0,neutral,product_quality,0
+FB-01093,2026-04-06,GlowCare Soap,The shipment is still missing. I am considering another brand. This is urgent and needs immediate attention.,negative,delivery,1,negative,delivery,1
+FB-00326,2026-04-06,HomeCart Delivery,Delivery was faster than promised. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-01132,2026-04-07,Harvest Crunch Biscuits,The order arrived safely and on time. I plan to purchase again.,positive,delivery,0,positive,delivery,0
+FB-01136,2026-04-07,FreshSip Juice,The staff resolved my issue quickly and politely. I plan to purchase again.,positive,service,0,positive,service,0
+FB-00716,2026-04-07,StayEase Hotel,"The order arrived very late with no useful update. I need this resolved soon. However, the pack design was ordinary. This is urgent and needs immediate attention.",negative,delivery,1,negative,packaging,1
+FB-00154,2026-04-07,FreshSip Juice,Everything felt fresh and well made. Highly recommended.,positive,product_quality,0,positive,product_quality,0
+FB-01797,2026-04-07,GlowCare Soap,"Excellent delivery experience and useful updates. Highly recommended. However, the recent price increase is disappointing.",positive,delivery,0,positive,delivery,0
+FB-00892,2026-04-07,PureLeaf Tea,"Packaging was secure, clean and easy to open. I plan to purchase again.",positive,packaging,0,positive,packaging,0
+FB-02075,2026-04-08,PureLeaf Tea,The taste felt stale and disappointing. I need this resolved soon. This is urgent and needs immediate attention.,negative,taste,1,negative,taste,1
+FB-02253,2026-04-08,HomeCart Delivery,"It was neither impressive nor disappointing. I may try it again. However, the price is similar to other brands.",neutral,taste,0,neutral,taste,0
+FB-02017,2026-04-08,PureLeaf Tea,The package was damaged and the seal was broken. I need this resolved soon. This is urgent and needs immediate attention.,negative,packaging,1,negative,packaging,1
+FB-01244,2026-04-08,PureLeaf Tea,Everything felt fresh and well made. Please keep this standard.,positive,product_quality,0,positive,product_quality,0
+FB-00880,2026-04-08,GlowCare Soap,Support was professional and helpful. Please keep this standard.,positive,service,0,positive,service,0
+FB-01545,2026-04-08,Harvest Crunch Biscuits,The taste felt stale and disappointing. I need this resolved soon.,negative,taste,0,negative,taste,0
+FB-01262,2026-04-09,StayEase Hotel,Support was professional and helpful. Please keep this standard.,positive,service,0,positive,service,0
+FB-01998,2026-04-09,GlowCare Soap,"The order arrived very late with no useful update. I am considering another brand. However, the item looked old and poorly handled.",negative,delivery,0,negative,product_quality,0
+FB-00112,2026-04-09,PureLeaf Tea,The product met basic expectations. Overall it was an average experience.,neutral,product_quality,0,neutral,product_quality,0
+FB-01728,2026-04-10,GlowCare Soap,"Delivery was completed within the expected window. There is room for improvement. However, it is priced around what i expected.",neutral,delivery,0,neutral,delivery,0
+FB-01778,2026-04-10,Harvest Crunch Biscuits,"Loved the balanced taste and would buy it again. Please keep this standard. However, the order arrived safely and on time.",positive,taste,0,positive,taste,0
+FB-01279,2026-04-10,HomeCart Delivery,The pack design was ordinary. Overall it was an average experience.,neutral,packaging,0,neutral,packaging,0
+FB-02262,2026-04-10,HomeCart Delivery,The order arrived very late with no useful update. Please investigate this issue.,negative,delivery,0,negative,delivery,0
+FB-02084,2026-04-11,PureLeaf Tea,It is priced around what I expected. Overall it was an average experience.,neutral,price,0,neutral,price,0
+FB-01748,2026-04-11,Harvest Crunch Biscuits,Quality was reasonably consistent. Overall it was an average experience.,neutral,product_quality,0,neutral,product_quality,0
+FB-01470,2026-04-11,StayEase Hotel,The staff resolved my issue quickly and politely. Highly recommended.,positive,product_quality,0,positive,service,0
+FB-02011,2026-04-12,HomeCart Delivery,The order arrived very late with no useful update. Please investigate this issue.,negative,delivery,0,negative,delivery,0
+FB-00475,2026-04-12,FreshSip Juice,The offer made this a very good purchase. Please keep this standard.,positive,price,0,positive,price,0
+FB-00259,2026-04-12,PureLeaf Tea,It was neither impressive nor disappointing. I may try it again.,negative,taste,0,neutral,taste,0
+FB-01133,2026-04-12,StayEase Hotel,Quality was standard for this type of product. There is room for improvement.,neutral,product_quality,0,neutral,product_quality,0
+FB-00707,2026-04-13,GlowCare Soap,Packaging quality was poor and wasteful. Please investigate this issue. This is urgent and needs immediate attention.,negative,product_quality,1,negative,packaging,1
+FB-01709,2026-04-13,Harvest Crunch Biscuits,The packaging did its job. Overall it was an average experience.,neutral,packaging,0,neutral,packaging,0
+FB-01492,2026-04-13,HomeCart Delivery,No one took ownership of the problem. Please investigate this issue. This is urgent and needs immediate attention.,negative,service,1,negative,service,1
+FB-01832,2026-04-13,FreshSip Juice,"Pricing is acceptable but not exceptional. I may try it again. However, the taste felt stale and disappointing.",neutral,price,0,neutral,price,0
+FB-00872,2026-04-13,GlowCare Soap,Excellent value for the quality provided. Highly recommended.,positive,product_quality,0,positive,price,0
+FB-01519,2026-04-13,HomeCart Delivery,The service was adequate. Overall it was an average experience.,neutral,service,0,neutral,service,0
+FB-01039,2026-04-14,HomeCart Delivery,"It is priced around what I expected. I may try it again. However, support was professional and helpful.",neutral,price,0,neutral,price,0
+FB-01970,2026-04-14,StayEase Hotel,The product was defective and unusable. I am considering another brand.,negative,product_quality,0,negative,product_quality,0
+FB-02148,2026-04-14,PureLeaf Tea,Support was professional and helpful. Highly recommended.,positive,service,0,positive,service,0
+FB-00274,2026-04-15,PureLeaf Tea,Packaging quality was poor and wasteful. Please investigate this issue. This is urgent and needs immediate attention.,negative,packaging,1,negative,packaging,1
+FB-01499,2026-04-15,PureLeaf Tea,The order arrived safely and on time. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-00555,2026-04-15,StayEase Hotel,This no longer feels worth the money. I need this resolved soon. Contact me at customer554@example.com. This is urgent and needs immediate attention.,negative,price,1,negative,price,1
+FB-01011,2026-04-15,Harvest Crunch Biscuits,This no longer feels worth the money. I am considering another brand. This is urgent and needs immediate attention.,negative,price,1,negative,price,1
+FB-01481,2026-04-15,Harvest Crunch Biscuits,Excellent delivery experience and useful updates. Please keep this standard.,positive,service,0,positive,delivery,0
+FB-00253,2026-04-16,Harvest Crunch Biscuits,The flavour was fresh and genuinely enjoyable. I plan to purchase again.,positive,taste,0,positive,taste,0
+FB-01559,2026-04-16,Harvest Crunch Biscuits,No one took ownership of the problem. I am considering another brand.,negative,service,0,negative,service,0
+FB-02151,2026-04-16,PureLeaf Tea,"The service was adequate. Overall it was an average experience. However, the pack arrived perfectly sealed.",neutral,product_quality,0,neutral,packaging,0
+FB-00287,2026-04-16,PureLeaf Tea,The container leaked inside the box. Please investigate this issue. This is urgent and needs immediate attention.,negative,packaging,1,negative,packaging,1
+FB-00738,2026-04-17,PureLeaf Tea,"The response was unhelpful and frustrating. I need this resolved soon. However, the shipment is still missing. This is urgent and needs immediate attention.",negative,service,1,negative,service,1
+FB-01120,2026-04-17,StayEase Hotel,Delivery was delayed and support could not help. I am considering another brand.,negative,delivery,0,negative,delivery,0
+FB-01378,2026-04-17,FreshSip Juice,Service made the entire experience easy. Please keep this standard.,positive,service,0,positive,service,0
+FB-01645,2026-04-17,FreshSip Juice,Delivery was faster than promised. I plan to purchase again.,positive,delivery,0,positive,delivery,0
+FB-00032,2026-04-17,Harvest Crunch Biscuits,This no longer feels worth the money. Please investigate this issue.,negative,price,0,negative,price,0
+FB-01313,2026-04-17,Harvest Crunch Biscuits,"The package was damaged and the seal was broken. I am considering another brand. However, the order arrived safely and on time. This is urgent and needs immediate attention.",negative,packaging,1,negative,delivery,1
+FB-00344,2026-04-17,StayEase Hotel,The price is too high for the quality. I am considering another brand. This is urgent and needs immediate attention.,negative,price,1,negative,price,1
+FB-01696,2026-04-17,StayEase Hotel,This no longer feels worth the money. Please investigate this issue. This is urgent and needs immediate attention.,negative,price,1,negative,price,1
+FB-01049,2026-04-18,FreshSip Juice,The staff resolved my issue quickly and politely. Highly recommended.,positive,service,0,positive,service,0
+FB-01377,2026-04-18,Harvest Crunch Biscuits,This no longer feels worth the money. I need this resolved soon. Contact me at customer1376@example.com.,neutral,price,0,negative,price,0
+FB-01163,2026-04-19,HomeCart Delivery,The order arrived safely and on time. Please keep this standard.,positive,delivery,0,positive,delivery,0
+FB-01592,2026-04-19,GlowCare Soap,The staff resolved my issue quickly and politely. Please keep this standard.,positive,service,0,positive,service,0
+FB-02307,2026-04-19,Harvest Crunch Biscuits,The product met basic expectations. Overall it was an average experience.,neutral,product_quality,0,neutral,product_quality,0
+FB-02072,2026-04-19,StayEase Hotel,"The taste exceeded my expectations. Highly recommended. However, pricing is acceptable but not exceptional.",positive,taste,1,positive,taste,1
+FB-00784,2026-04-20,PureLeaf Tea,"Packaging quality was poor and wasteful. I need this resolved soon. However, excellent value for the quality provided.",negative,packaging,0,negative,price,0
+FB-02089,2026-04-20,FreshSip Juice,The recent price increase is disappointing. Please investigate this issue.,positive,price,0,negative,price,0
+FB-01274,2026-04-20,Harvest Crunch Biscuits,Quality was standard for this type of product. Overall it was an average experience.,neutral,product_quality,0,neutral,product_quality,0
+FB-00212,2026-04-20,GlowCare Soap,Taste quality has clearly declined. Please investigate this issue.,negative,taste,0,negative,taste,0
+FB-00655,2026-04-21,Harvest Crunch Biscuits,The pack design was ordinary. Overall it was an average experience.,neutral,delivery,0,neutral,packaging,0
+FB-01679,2026-04-21,FreshSip Juice,This no longer feels worth the money. Please investigate this issue.,negative,price,0,negative,price,0
+FB-02188,2026-04-21,PureLeaf Tea,"Everything felt fresh and well made. Please keep this standard. However, the flavour was acceptable but not memorable. Contact me at customer2187@example.com.",positive,product_quality,0,positive,product_quality,0
+FB-02094,2026-04-21,StayEase Hotel,"This no longer feels worth the money. I am considering another brand. However, the flavour was unpleasant and i could not finish it.",negative,price,0,negative,price,0
+FB-01105,2026-04-21,PureLeaf Tea,The product was defective and unusable. I am considering another brand.,negative,product_quality,0,negative,product_quality,0
+FB-01965,2026-04-22,FreshSip Juice,The product was defective and unusable. I am considering another brand. This is urgent and needs immediate attention.,negative,product_quality,1,negative,product_quality,1
+FB-00263,2026-04-22,GlowCare Soap,"The pack arrived perfectly sealed. Highly recommended. However, the quality has improved noticeably.",positive,packaging,0,positive,packaging,0
+FB-01576,2026-04-22,StayEase Hotel,The flavour was acceptable but not memorable. There is room for improvement. Contact me at customer1575@example.com.,neutral,taste,0,neutral,taste,0
+FB-01759,2026-04-22,GlowCare Soap,"Quality was inconsistent with my previous purchase. Please investigate this issue. However, the new packaging feels premium and practical.",negative,product_quality,0,negative,product_quality,0
+FB-02019,2026-04-23,GlowCare Soap,Support was professional and helpful. Please keep this standard.,positive,service,0,positive,service,0
+FB-00083,2026-04-23,FreshSip Juice,Everything felt fresh and well made. Please keep this standard.,positive,product_quality,0,positive,product_quality,0
+FB-00229,2026-04-23,PureLeaf Tea,The recent price increase is disappointing. I am considering another brand. This is urgent and needs immediate attention.,negative,price,1,negative,price,1
+FB-00022,2026-04-23,HomeCart Delivery,The order arrived safely and on time. Please keep this standard. Contact me at customer21@example.com.,positive,delivery,0,positive,delivery,0
+FB-01514,2026-04-23,PureLeaf Tea,The pack arrived perfectly sealed. I plan to purchase again.,positive,packaging,0,positive,packaging,0
+FB-00055,2026-04-23,PureLeaf Tea,"Packaging was secure, clean and easy to open. I plan to purchase again.",positive,packaging,0,positive,packaging,0
+FB-02376,2026-04-23,HomeCart Delivery,The flavour was fresh and genuinely enjoyable. Highly recommended.,positive,delivery,0,positive,taste,0
+FB-00874,2026-04-23,FreshSip Juice,Delivery was completed within the expected window. Overall it was an average experience.,neutral,delivery,0,neutral,delivery,0
+FB-01836,2026-04-24,StayEase Hotel,"Loved the balanced taste and would buy it again. Highly recommended. However, product quality was consistent and excellent.",positive,taste,0,positive,taste,0
+FB-01680,2026-04-24,GlowCare Soap,"Packaging was secure, clean and easy to open. I plan to purchase again. However, the service was adequate.",positive,packaging,0,positive,service,0
+FB-01729,2026-04-24,HomeCart Delivery,The order arrived safely and on time. I plan to purchase again.,positive,delivery,1,positive,delivery,0
+FB-02352,2026-04-24,Harvest Crunch Biscuits,"The taste felt stale and disappointing. I need this resolved soon. However, support ignored my complaint repeatedly.",negative,taste,0,negative,taste,0
+FB-02008,2026-04-24,FreshSip Juice,The shipment is still missing. Please investigate this issue. This is urgent and needs immediate attention.,negative,delivery,1,negative,delivery,1
+FB-02271,2026-04-25,HomeCart Delivery,Excellent delivery experience and useful updates. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-01390,2026-04-25,StayEase Hotel,The new packaging feels premium and practical. Highly recommended.,positive,packaging,0,positive,packaging,0
+FB-00443,2026-04-26,Harvest Crunch Biscuits,Service made the entire experience easy. Please keep this standard.,positive,service,0,positive,service,0
+FB-02258,2026-04-26,FreshSip Juice,No one took ownership of the problem. I need this resolved soon. This is urgent and needs immediate attention.,negative,service,0,negative,service,1
+FB-01639,2026-04-26,PureLeaf Tea,Delivery was adequate. There is room for improvement.,neutral,delivery,0,neutral,delivery,0
+FB-01650,2026-04-26,HomeCart Delivery,"Product quality was consistent and excellent. Please keep this standard. However, the staff resolved my issue quickly and politely.",positive,product_quality,0,positive,service,0
+FB-01914,2026-04-26,FreshSip Juice,"The container leaked inside the box. I need this resolved soon. However, the price is similar to other brands.",negative,packaging,0,negative,packaging,0
+FB-01362,2026-04-26,StayEase Hotel,"The flavour was fresh and genuinely enjoyable. I plan to purchase again. However, support ignored my complaint repeatedly.",positive,taste,0,positive,taste,0
+FB-00672,2026-04-26,PureLeaf Tea,Taste quality has clearly declined. Please investigate this issue.,negative,taste,0,negative,taste,0
+FB-01527,2026-04-26,GlowCare Soap,"The new packaging feels premium and practical. I plan to purchase again. However, the flavour was fresh and genuinely enjoyable.",positive,packaging,0,positive,taste,0
+FB-00764,2026-04-26,PureLeaf Tea,The taste felt stale and disappointing. Please investigate this issue.,negative,taste,0,negative,taste,0
+FB-01568,2026-04-26,StayEase Hotel,Excellent delivery experience and useful updates. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-00137,2026-04-27,PureLeaf Tea,Loved the balanced taste and would buy it again. Please keep this standard.,positive,taste,0,positive,taste,0
+FB-01089,2026-04-27,HomeCart Delivery,The recent price increase is disappointing. I am considering another brand.,negative,price,0,negative,price,0
+FB-00529,2026-04-27,HomeCart Delivery,Excellent value for the quality provided. Highly recommended.,positive,price,0,positive,price,0
+FB-00312,2026-04-27,GlowCare Soap,The flavour was unpleasant and I could not finish it. Please investigate this issue. This is urgent and needs immediate attention.,negative,taste,1,negative,taste,1
+FB-00686,2026-04-27,Harvest Crunch Biscuits,Support was professional and helpful. Highly recommended.,positive,service,0,positive,service,0
+FB-00512,2026-04-28,PureLeaf Tea,"The offer made this a very good purchase. I plan to purchase again. However, the service was adequate.",positive,price,0,positive,service,0
+FB-01794,2026-04-28,StayEase Hotel,The shipment took the usual amount of time. I may try it again.,negative,service,0,neutral,delivery,0
+FB-01162,2026-04-28,GlowCare Soap,The flavour was unpleasant and I could not finish it. Please investigate this issue. This is urgent and needs immediate attention.,negative,taste,1,negative,taste,1
+FB-00284,2026-04-28,PureLeaf Tea,"The pack arrived perfectly sealed. Highly recommended. However, it was neither impressive nor disappointing.",positive,packaging,0,positive,packaging,0
+FB-00877,2026-04-29,StayEase Hotel,The offer made this a very good purchase. Please keep this standard.,positive,price,0,positive,price,0
+FB-00528,2026-04-29,Harvest Crunch Biscuits,The recent price increase is disappointing. Please investigate this issue. This is urgent and needs immediate attention.,negative,price,1,negative,price,1
+FB-02378,2026-04-29,FreshSip Juice,The taste exceeded my expectations. Please keep this standard.,positive,taste,0,positive,taste,1
+FB-00921,2026-04-29,Harvest Crunch Biscuits,Service made the entire experience easy. Please keep this standard.,positive,service,0,positive,service,0
+FB-00213,2026-04-30,HomeCart Delivery,"It was neither impressive nor disappointing. Overall it was an average experience. However, the order arrived very late with no useful update. Contact me at customer212@example.com.",neutral,taste,0,neutral,taste,0
+FB-01844,2026-04-30,FreshSip Juice,Service made the entire experience easy. I plan to purchase again. Contact me at customer1843@example.com.,positive,service,0,positive,service,0
+FB-02037,2026-04-30,Harvest Crunch Biscuits,The package was damaged and the seal was broken. I need this resolved soon. This is urgent and needs immediate attention.,negative,packaging,1,negative,packaging,1
+FB-00564,2026-04-30,FreshSip Juice,The staff resolved my issue quickly and politely. Highly recommended.,negative,service,0,positive,service,0
+FB-02302,2026-05-01,HomeCart Delivery,Support ignored my complaint repeatedly. Please investigate this issue.,negative,service,0,negative,service,0
+FB-00464,2026-05-01,PureLeaf Tea,Loved the balanced taste and would buy it again. Highly recommended. Contact me at customer463@example.com.,positive,taste,0,positive,taste,0
+FB-01419,2026-05-01,FreshSip Juice,Pricing is acceptable but not exceptional. Overall it was an average experience.,neutral,price,0,neutral,price,0
+FB-00272,2026-05-01,PureLeaf Tea,"The recent price increase is disappointing. I am considering another brand. However, the pack arrived perfectly sealed.",negative,price,0,negative,price,0
+FB-01557,2026-05-01,FreshSip Juice,The container leaked inside the box. I need this resolved soon.,negative,packaging,0,negative,packaging,0
+FB-02027,2026-05-02,StayEase Hotel,"The quality has improved noticeably. I plan to purchase again. However, the new packaging feels premium and practical.",positive,product_quality,0,positive,product_quality,0
+FB-00851,2026-05-02,HomeCart Delivery,Everything felt fresh and well made. Please keep this standard. Contact me at customer850@example.com.,positive,product_quality,0,positive,product_quality,0
+FB-01582,2026-05-02,GlowCare Soap,"Support answered after a normal waiting time. There is room for improvement. However, it was neither impressive nor disappointing.",neutral,service,0,neutral,service,0
+FB-00510,2026-05-02,GlowCare Soap,"The shipment took the usual amount of time. Overall it was an average experience. However, the packaging did its job. Contact me at customer509@example.com.",neutral,delivery,0,neutral,packaging,0
+FB-01588,2026-05-03,Harvest Crunch Biscuits,Quality was inconsistent with my previous purchase. I am considering another brand. This is urgent and needs immediate attention.,negative,product_quality,1,negative,product_quality,1
+FB-00843,2026-05-03,PureLeaf Tea,The taste felt stale and disappointing. I need this resolved soon.,negative,taste,0,negative,taste,0
+FB-01131,2026-05-03,GlowCare Soap,Support was professional and helpful. Highly recommended.,positive,service,0,positive,service,0
+FB-01428,2026-05-03,Harvest Crunch Biscuits,The price is too high for the quality. I need this resolved soon. This is urgent and needs immediate attention.,negative,price,1,negative,price,1
+FB-01770,2026-05-04,PureLeaf Tea,The order arrived very late with no useful update. I need this resolved soon. This is urgent and needs immediate attention.,neutral,delivery,1,negative,delivery,1
+FB-01856,2026-05-04,HomeCart Delivery,The product met basic expectations. I may try it again.,neutral,product_quality,0,neutral,product_quality,0
+FB-01282,2026-05-04,FreshSip Juice,The service was adequate. There is room for improvement.,neutral,service,0,neutral,service,0
+FB-00117,2026-05-04,Harvest Crunch Biscuits,The packaging did its job. I may try it again.,neutral,packaging,0,neutral,packaging,0
+FB-01083,2026-05-04,GlowCare Soap,Taste quality has clearly declined. I am considering another brand. This is urgent and needs immediate attention.,negative,taste,1,negative,taste,1
+FB-02119,2026-05-04,HomeCart Delivery,The staff resolved my issue quickly and politely. Highly recommended.,positive,service,0,positive,service,0
+FB-00429,2026-05-05,GlowCare Soap,Delivery was completed within the expected window. I may try it again.,neutral,delivery,0,neutral,delivery,0
+FB-01036,2026-05-05,PureLeaf Tea,The pack design was ordinary. Overall it was an average experience.,negative,packaging,0,neutral,packaging,0
+FB-02393,2026-05-05,PureLeaf Tea,The price is similar to other brands. Overall it was an average experience.,neutral,price,0,neutral,price,0
+FB-00115,2026-05-05,Harvest Crunch Biscuits,The flavour was unpleasant and I could not finish it. I am considering another brand. Contact me at customer114@example.com.,negative,taste,0,negative,taste,0
+FB-00051,2026-05-05,FreshSip Juice,"The staff resolved my issue quickly and politely. Please keep this standard. However, it is priced around what i expected.",positive,service,0,positive,price,0
+FB-01225,2026-05-05,HomeCart Delivery,The quality has improved noticeably. Highly recommended.,positive,product_quality,0,positive,product_quality,0
+FB-00968,2026-05-06,Harvest Crunch Biscuits,The taste exceeded my expectations. I plan to purchase again.,positive,taste,0,positive,taste,0
+FB-01125,2026-05-06,HomeCart Delivery,The shipment is still missing. I am considering another brand. This is urgent and needs immediate attention.,negative,taste,1,negative,delivery,1
+FB-00878,2026-05-06,GlowCare Soap,Everything felt fresh and well made. Please keep this standard.,positive,delivery,0,positive,product_quality,0
+FB-01055,2026-05-07,Harvest Crunch Biscuits,Service made the entire experience easy. I plan to purchase again.,positive,service,0,positive,service,0
+FB-00792,2026-05-07,FreshSip Juice,"The product met basic expectations. There is room for improvement. However, the shipment took the usual amount of time.",neutral,product_quality,0,neutral,delivery,0
+FB-02041,2026-05-07,GlowCare Soap,The price is similar to other brands. There is room for improvement.,neutral,price,0,neutral,price,0
+FB-01080,2026-05-07,Harvest Crunch Biscuits,No one took ownership of the problem. I am considering another brand.,negative,service,0,negative,service,0
+FB-02013,2026-05-08,StayEase Hotel,Excellent delivery experience and useful updates. Please keep this standard.,positive,delivery,0,positive,delivery,0
+FB-00560,2026-05-08,FreshSip Juice,The shipment took the usual amount of time. Overall it was an average experience.,neutral,delivery,0,neutral,delivery,0
+FB-01078,2026-05-08,Harvest Crunch Biscuits,Support was professional and helpful. I plan to purchase again.,positive,service,0,positive,service,0
+FB-00401,2026-05-08,GlowCare Soap,The package was damaged and the seal was broken. I am considering another brand. This is urgent and needs immediate attention.,negative,packaging,1,negative,packaging,1
+FB-01966,2026-05-09,HomeCart Delivery,My basic question was answered. Overall it was an average experience. Contact me at customer1965@example.com.,neutral,service,0,neutral,service,0
+FB-00952,2026-05-09,StayEase Hotel,Price feels fair and competitive. Please keep this standard.,negative,price,0,positive,price,0
+FB-01788,2026-05-09,Harvest Crunch Biscuits,Product quality was consistent and excellent. Please keep this standard.,positive,product_quality,0,positive,product_quality,0
+FB-01532,2026-05-09,HomeCart Delivery,Excellent delivery experience and useful updates. Highly recommended.,positive,packaging,0,positive,delivery,0
+FB-00849,2026-05-10,StayEase Hotel,The item looked old and poorly handled. I am considering another brand.,negative,product_quality,0,negative,product_quality,0
+FB-01522,2026-05-10,StayEase Hotel,Packaging quality was poor and wasteful. I am considering another brand.,negative,packaging,0,negative,packaging,0
+FB-00088,2026-05-10,StayEase Hotel,Product quality was consistent and excellent. Please keep this standard.,positive,product_quality,0,positive,product_quality,0
+FB-01691,2026-05-10,PureLeaf Tea,Delivery was faster than promised. I plan to purchase again.,positive,taste,0,positive,delivery,0
+FB-00331,2026-05-10,StayEase Hotel,Support answered after a normal waiting time. I may try it again. Contact me at customer330@example.com.,neutral,service,0,neutral,service,0
+FB-00570,2026-05-10,StayEase Hotel,Delivery was completed within the expected window. There is room for improvement. Contact me at customer569@example.com.,neutral,delivery,0,neutral,delivery,0
+FB-01218,2026-05-10,HomeCart Delivery,Pricing is acceptable but not exceptional. There is room for improvement.,neutral,price,0,neutral,price,0
+FB-00534,2026-05-11,Harvest Crunch Biscuits,The flavour was fresh and genuinely enjoyable. Please keep this standard.,positive,taste,0,positive,taste,0
+FB-00476,2026-05-11,GlowCare Soap,The pack arrived perfectly sealed. I plan to purchase again.,positive,packaging,0,positive,packaging,0
+FB-00600,2026-05-11,PureLeaf Tea,The new packaging feels premium and practical. Please keep this standard.,positive,packaging,1,positive,packaging,0
+FB-01087,2026-05-11,FreshSip Juice,The new packaging feels premium and practical. I plan to purchase again. Contact me at customer1086@example.com.,positive,taste,0,positive,packaging,0
+FB-00895,2026-05-11,GlowCare Soap,"The product was defective and unusable. Please investigate this issue. However, packaging quality was poor and wasteful.",negative,product_quality,0,negative,product_quality,0
+FB-01583,2026-05-11,StayEase Hotel,The taste exceeded my expectations. I plan to purchase again.,positive,taste,0,positive,taste,0
+FB-01498,2026-05-12,StayEase Hotel,The order arrived safely and on time. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-02250,2026-05-12,PureLeaf Tea,The pack design was ordinary. I may try it again.,neutral,taste,0,neutral,packaging,0
+FB-00138,2026-05-12,GlowCare Soap,The new packaging feels premium and practical. I plan to purchase again.,positive,packaging,0,positive,packaging,0
+FB-01574,2026-05-12,GlowCare Soap,It was neither impressive nor disappointing. Overall it was an average experience.,neutral,taste,0,neutral,taste,0
+FB-01305,2026-05-13,FreshSip Juice,The recent price increase is disappointing. I need this resolved soon.,positive,price,0,negative,price,0
+FB-00373,2026-05-13,HomeCart Delivery,Loved the balanced taste and would buy it again. I plan to purchase again. Contact me at customer372@example.com.,positive,taste,0,positive,taste,0
+FB-00441,2026-05-13,GlowCare Soap,"Everything felt fresh and well made. Highly recommended. However, excellent value for the quality provided.",positive,product_quality,0,positive,product_quality,0
+FB-02198,2026-05-13,StayEase Hotel,The quality has improved noticeably. Please keep this standard.,positive,product_quality,0,positive,product_quality,0
+FB-00163,2026-05-14,PureLeaf Tea,"The product met basic expectations. There is room for improvement. However, the flavour was unpleasant and i could not finish it. Contact me at customer162@example.com.",positive,product_quality,0,neutral,taste,0
+FB-01646,2026-05-14,HomeCart Delivery,It was neither impressive nor disappointing. There is room for improvement.,neutral,taste,0,neutral,taste,0
+FB-00420,2026-05-14,Harvest Crunch Biscuits,Excellent delivery experience and useful updates. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-02096,2026-05-14,HomeCart Delivery,The order arrived safely and on time. Please keep this standard. Contact me at customer2095@example.com.,positive,delivery,0,positive,delivery,0
+FB-01220,2026-05-14,HomeCart Delivery,"The flavour was fresh and genuinely enjoyable. Please keep this standard. However, the service was adequate.",positive,taste,0,positive,taste,0
+FB-00490,2026-05-14,Harvest Crunch Biscuits,Support answered after a normal waiting time. There is room for improvement.,neutral,service,0,neutral,service,0
+FB-00278,2026-05-15,PureLeaf Tea,The staff resolved my issue quickly and politely. Please keep this standard.,positive,service,0,positive,service,0
+FB-01205,2026-05-15,StayEase Hotel,The flavour was unpleasant and I could not finish it. Please investigate this issue.,positive,taste,0,negative,taste,0
+FB-02061,2026-05-16,Harvest Crunch Biscuits,No one took ownership of the problem. I am considering another brand.,negative,service,0,negative,service,0
+FB-01082,2026-05-16,Harvest Crunch Biscuits,Delivery was faster than promised. I plan to purchase again.,positive,delivery,0,positive,delivery,0
+FB-00514,2026-05-16,PureLeaf Tea,"Packaging was secure, clean and easy to open. Please keep this standard.",positive,packaging,1,positive,packaging,0
+FB-01723,2026-05-16,FreshSip Juice,Packaging was functional but could be improved. Overall it was an average experience.,neutral,packaging,0,neutral,packaging,0
+FB-00653,2026-05-16,StayEase Hotel,The service was adequate. I may try it again.,neutral,service,0,neutral,service,0
+FB-01186,2026-05-17,FreshSip Juice,The taste exceeded my expectations. Please keep this standard.,positive,taste,0,positive,taste,1
+FB-01550,2026-05-17,HomeCart Delivery,No one took ownership of the problem. I need this resolved soon.,negative,service,0,negative,service,0
+FB-02141,2026-05-17,Harvest Crunch Biscuits,Excellent value for the quality provided. Highly recommended.,positive,price,0,positive,price,0
+FB-01223,2026-05-17,Harvest Crunch Biscuits,The service was adequate. I may try it again.,neutral,service,0,neutral,service,0
+FB-00833,2026-05-17,GlowCare Soap,The pack arrived perfectly sealed. I plan to purchase again.,positive,packaging,0,positive,packaging,0
+FB-00689,2026-05-17,GlowCare Soap,Loved the balanced taste and would buy it again. I plan to purchase again.,positive,taste,0,positive,taste,0
+FB-00408,2026-05-18,HomeCart Delivery,Loved the balanced taste and would buy it again. Highly recommended.,positive,taste,0,positive,taste,0
+FB-00977,2026-05-18,PureLeaf Tea,Price feels fair and competitive. Highly recommended.,positive,price,0,positive,price,0
+FB-00769,2026-05-18,FreshSip Juice,Excellent value for the quality provided. Please keep this standard. Contact me at customer768@example.com.,positive,price,0,positive,price,0
+FB-02229,2026-05-19,GlowCare Soap,Support was professional and helpful. Please keep this standard.,positive,service,0,positive,service,0
+FB-02356,2026-05-19,Harvest Crunch Biscuits,The flavour was fresh and genuinely enjoyable. Please keep this standard.,positive,service,0,positive,taste,0
+FB-01117,2026-05-19,PureLeaf Tea,The price is too high for the quality. I need this resolved soon.,negative,price,0,negative,price,0
+FB-01208,2026-05-20,StayEase Hotel,Excellent value for the quality provided. I plan to purchase again.,positive,price,0,positive,price,0
+FB-01178,2026-05-20,GlowCare Soap,Loved the balanced taste and would buy it again. I plan to purchase again.,positive,taste,0,positive,taste,0
+FB-01589,2026-05-20,GlowCare Soap,Excellent delivery experience and useful updates. Please keep this standard.,positive,delivery,0,positive,delivery,0
+FB-00818,2026-05-20,Harvest Crunch Biscuits,The price is similar to other brands. Overall it was an average experience.,neutral,price,0,neutral,price,0
+FB-00822,2026-05-21,PureLeaf Tea,Service made the entire experience easy. Please keep this standard.,positive,service,0,positive,service,0
+FB-01806,2026-05-21,Harvest Crunch Biscuits,The package was damaged and the seal was broken. I am considering another brand. This is urgent and needs immediate attention.,negative,packaging,1,negative,packaging,1
+FB-01671,2026-05-21,PureLeaf Tea,The new packaging feels premium and practical. I plan to purchase again.,positive,packaging,0,positive,packaging,0
+FB-01321,2026-05-22,StayEase Hotel,Support ignored my complaint repeatedly. Please investigate this issue.,negative,taste,0,negative,service,0
+FB-02353,2026-05-22,FreshSip Juice,"Pricing is acceptable but not exceptional. There is room for improvement. However, the product met basic expectations.",neutral,price,0,neutral,price,0
+FB-00046,2026-05-22,FreshSip Juice,Support was professional and helpful. Highly recommended.,positive,price,0,positive,service,0
+FB-02389,2026-05-22,GlowCare Soap,Packaging quality was poor and wasteful. I need this resolved soon.,negative,packaging,0,negative,packaging,0
+FB-00604,2026-05-23,Harvest Crunch Biscuits,"The product met basic expectations. Overall it was an average experience. However, the response was unhelpful and frustrating.",negative,product_quality,0,neutral,product_quality,0
+FB-00226,2026-05-23,HomeCart Delivery,The taste exceeded my expectations. Highly recommended.,positive,taste,0,positive,taste,0
+FB-02221,2026-05-23,HomeCart Delivery,Support was professional and helpful. Please keep this standard.,positive,service,0,positive,service,0
+FB-01209,2026-05-23,PureLeaf Tea,Excellent value for the quality provided. I plan to purchase again.,positive,price,0,positive,price,0
+FB-00997,2026-05-23,StayEase Hotel,The product was defective and unusable. I need this resolved soon. This is urgent and needs immediate attention.,negative,product_quality,1,negative,product_quality,1
+FB-01227,2026-05-24,StayEase Hotel,Loved the balanced taste and would buy it again. Please keep this standard.,positive,taste,0,positive,taste,0
+FB-00470,2026-05-24,StayEase Hotel,Packaging quality was poor and wasteful. Please investigate this issue. This is urgent and needs immediate attention.,neutral,delivery,1,negative,packaging,1
+FB-01512,2026-05-25,GlowCare Soap,Packaging quality was poor and wasteful. Please investigate this issue.,negative,packaging,0,negative,packaging,0
+FB-02231,2026-05-25,PureLeaf Tea,"Packaging quality was poor and wasteful. I am considering another brand. However, the flavour was unpleasant and i could not finish it. Contact me at customer2230@example.com. This is urgent and needs immediate attention.",negative,packaging,1,negative,packaging,1
+FB-02299,2026-05-25,PureLeaf Tea,Delivery was faster than promised. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-00574,2026-05-26,StayEase Hotel,Everything felt fresh and well made. Please keep this standard.,positive,product_quality,0,positive,product_quality,0
+FB-01118,2026-05-26,PureLeaf Tea,Support ignored my complaint repeatedly. I am considering another brand.,negative,service,0,negative,service,0
+FB-02028,2026-05-26,StayEase Hotel,Delivery was delayed and support could not help. I am considering another brand. This is urgent and needs immediate attention.,negative,delivery,1,negative,delivery,1
+FB-00586,2026-05-26,PureLeaf Tea,The price is too high for the quality. Please investigate this issue.,negative,price,0,negative,price,0
+FB-01989,2026-05-26,Harvest Crunch Biscuits,Everything felt fresh and well made. Highly recommended.,positive,product_quality,0,positive,product_quality,0
+FB-00949,2026-05-26,Harvest Crunch Biscuits,Everything felt fresh and well made. Please keep this standard.,positive,product_quality,0,positive,product_quality,0
+FB-01496,2026-05-26,Harvest Crunch Biscuits,"The container leaked inside the box. I need this resolved soon. However, the flavour was unpleasant and i could not finish it.",negative,packaging,0,negative,packaging,0
+FB-00521,2026-05-27,GlowCare Soap,The flavour was unpleasant and I could not finish it. Please investigate this issue. Contact me at customer520@example.com.,negative,taste,0,negative,taste,0
+FB-00207,2026-05-27,GlowCare Soap,Everything felt fresh and well made. Highly recommended.,positive,service,0,positive,product_quality,0
+FB-01595,2026-05-27,GlowCare Soap,The price is too high for the quality. I am considering another brand.,negative,price,0,negative,price,0
+FB-01571,2026-05-27,GlowCare Soap,The order arrived safely and on time. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-01485,2026-05-27,FreshSip Juice,Packaging was functional but could be improved. I may try it again.,neutral,packaging,0,neutral,packaging,0
+FB-00065,2026-05-28,StayEase Hotel,It is priced around what I expected. There is room for improvement.,neutral,price,0,neutral,price,0
+FB-01613,2026-05-28,PureLeaf Tea,"The pack arrived perfectly sealed. Please keep this standard. However, the price is too high for the quality.",positive,packaging,0,positive,packaging,0
+FB-01700,2026-05-28,Harvest Crunch Biscuits,Excellent delivery experience and useful updates. Please keep this standard.,positive,delivery,0,positive,delivery,0
+FB-01521,2026-05-28,FreshSip Juice,"The product was defective and unusable. I am considering another brand. However, packaging quality was poor and wasteful. This is urgent and needs immediate attention.",negative,product_quality,0,negative,packaging,1
+FB-01785,2026-05-28,FreshSip Juice,The item looked old and poorly handled. Please investigate this issue. This is urgent and needs immediate attention.,negative,product_quality,0,negative,product_quality,1
+FB-00260,2026-05-28,HomeCart Delivery,The offer made this a very good purchase. I plan to purchase again.,positive,price,0,positive,price,0
+FB-01910,2026-05-29,GlowCare Soap,Delivery was faster than promised. Please keep this standard.,negative,delivery,0,positive,delivery,0
+FB-00733,2026-05-29,Harvest Crunch Biscuits,The taste exceeded my expectations. Highly recommended.,positive,taste,0,positive,taste,0
+FB-00104,2026-05-29,FreshSip Juice,The item looked old and poorly handled. I am considering another brand. This is urgent and needs immediate attention.,negative,product_quality,0,negative,product_quality,1
+FB-01892,2026-05-29,HomeCart Delivery,The taste felt stale and disappointing. I need this resolved soon. This is urgent and needs immediate attention.,negative,taste,1,negative,taste,1
+FB-00550,2026-05-30,Harvest Crunch Biscuits,Support was professional and helpful. Please keep this standard.,positive,service,0,positive,service,0
+FB-00732,2026-05-31,StayEase Hotel,Product quality was consistent and excellent. I plan to purchase again.,positive,product_quality,0,positive,product_quality,0
+FB-02085,2026-05-31,PureLeaf Tea,The shipment took the usual amount of time. I may try it again.,neutral,delivery,0,neutral,delivery,0
+FB-01606,2026-05-31,StayEase Hotel,"Loved the balanced taste and would buy it again. I plan to purchase again. However, service made the entire experience easy.",positive,taste,0,positive,taste,0
+FB-01719,2026-05-31,GlowCare Soap,Loved the balanced taste and would buy it again. I plan to purchase again.,positive,taste,0,positive,taste,0
+FB-00836,2026-05-31,StayEase Hotel,"Packaging quality was poor and wasteful. I am considering another brand. However, pricing is acceptable but not exceptional.",negative,packaging,0,negative,price,0
+FB-00654,2026-05-31,GlowCare Soap,Quality was inconsistent with my previous purchase. Please investigate this issue.,negative,product_quality,0,negative,product_quality,0
+FB-02114,2026-06-01,Harvest Crunch Biscuits,The shipment is still missing. I need this resolved soon. This is urgent and needs immediate attention.,negative,packaging,1,negative,delivery,1
+FB-01531,2026-06-01,GlowCare Soap,Support was professional and helpful. Please keep this standard.,neutral,service,0,positive,service,0
+FB-01297,2026-06-01,HomeCart Delivery,Product quality was consistent and excellent. Highly recommended.,positive,product_quality,0,positive,product_quality,0
+FB-00092,2026-06-01,Harvest Crunch Biscuits,"The container leaked inside the box. Please investigate this issue. However, the response was unhelpful and frustrating.",negative,packaging,0,negative,service,0
+FB-00793,2026-06-01,FreshSip Juice,The service was adequate. I may try it again. Contact me at customer792@example.com.,neutral,service,0,neutral,service,0
+FB-00133,2026-06-01,GlowCare Soap,"Excellent delivery experience and useful updates. Please keep this standard. However, the service was adequate. Contact me at customer132@example.com.",positive,delivery,0,positive,delivery,0
+FB-00480,2026-06-02,StayEase Hotel,"The taste felt stale and disappointing. Please investigate this issue. However, the shipment is still missing. This is urgent and needs immediate attention.",negative,taste,1,negative,delivery,1
+FB-01166,2026-06-02,StayEase Hotel,Support ignored my complaint repeatedly. Please investigate this issue. This is urgent and needs immediate attention.,negative,service,1,negative,service,1
+FB-02312,2026-06-02,PureLeaf Tea,The staff resolved my issue quickly and politely. Please keep this standard.,positive,service,0,positive,service,0
+FB-01721,2026-06-02,GlowCare Soap,The quality has improved noticeably. Please keep this standard. Contact me at customer1720@example.com.,positive,product_quality,0,positive,product_quality,0
+FB-00845,2026-06-02,PureLeaf Tea,The product met basic expectations. Overall it was an average experience.,neutral,product_quality,0,neutral,product_quality,0
+FB-00924,2026-06-02,PureLeaf Tea,The order arrived very late with no useful update. Please investigate this issue. This is urgent and needs immediate attention.,negative,delivery,1,negative,delivery,1
+FB-01466,2026-06-03,FreshSip Juice,The taste exceeded my expectations. I plan to purchase again.,neutral,taste,0,positive,taste,0
+FB-01823,2026-06-03,GlowCare Soap,This no longer feels worth the money. I need this resolved soon.,negative,price,0,negative,price,0
+FB-00458,2026-06-03,StayEase Hotel,"Price feels fair and competitive. I plan to purchase again. However, the shipment took the usual amount of time.",positive,price,0,positive,delivery,0
+FB-01684,2026-06-03,PureLeaf Tea,Pricing is acceptable but not exceptional. Overall it was an average experience.,neutral,price,0,neutral,price,0
+FB-01967,2026-06-04,Harvest Crunch Biscuits,The item looked old and poorly handled. Please investigate this issue.,neutral,product_quality,0,negative,product_quality,0
+FB-00736,2026-06-04,GlowCare Soap,"The item looked old and poorly handled. I need this resolved soon. However, the shipment is still missing. This is urgent and needs immediate attention.",negative,product_quality,1,negative,product_quality,1
+FB-01072,2026-06-04,GlowCare Soap,The taste exceeded my expectations. I plan to purchase again.,positive,taste,0,positive,taste,0
+FB-00178,2026-06-05,HomeCart Delivery,The recent price increase is disappointing. I need this resolved soon.,negative,price,0,negative,price,0
+FB-02348,2026-06-06,HomeCart Delivery,The container leaked inside the box. I am considering another brand.,negative,packaging,0,negative,packaging,0
+FB-00936,2026-06-07,HomeCart Delivery,Price feels fair and competitive. Please keep this standard.,positive,price,0,positive,price,0
+FB-01781,2026-06-07,GlowCare Soap,Excellent value for the quality provided. Please keep this standard.,positive,price,0,positive,price,0
+FB-02168,2026-06-07,PureLeaf Tea,The flavour was fresh and genuinely enjoyable. I plan to purchase again.,positive,taste,0,positive,taste,0
+FB-02130,2026-06-07,PureLeaf Tea,"Packaging was secure, clean and easy to open. Please keep this standard.",positive,packaging,0,positive,packaging,0
+FB-00609,2026-06-08,StayEase Hotel,The item looked old and poorly handled. I am considering another brand.,negative,product_quality,0,negative,product_quality,0
+FB-00953,2026-06-08,Harvest Crunch Biscuits,This no longer feels worth the money. I am considering another brand.,negative,packaging,0,negative,price,0
+FB-01221,2026-06-08,StayEase Hotel,"Packaging was secure, clean and easy to open. Please keep this standard.",positive,packaging,0,positive,packaging,0
+FB-00806,2026-06-08,Harvest Crunch Biscuits,Product quality was consistent and excellent. Please keep this standard.,positive,product_quality,0,positive,product_quality,0
+FB-00327,2026-06-08,HomeCart Delivery,The order arrived very late with no useful update. I am considering another brand.,negative,delivery,0,negative,delivery,0
+FB-02161,2026-06-09,HomeCart Delivery,The flavour was unpleasant and I could not finish it. I am considering another brand.,negative,taste,1,negative,taste,0
+FB-00056,2026-06-09,StayEase Hotel,The container leaked inside the box. I need this resolved soon.,neutral,packaging,0,negative,packaging,0
+FB-00355,2026-06-09,Harvest Crunch Biscuits,This no longer feels worth the money. I am considering another brand. This is urgent and needs immediate attention.,negative,price,1,negative,price,1
+FB-01497,2026-06-09,GlowCare Soap,Packaging quality was poor and wasteful. Please investigate this issue. This is urgent and needs immediate attention.,negative,packaging,1,negative,packaging,1
+FB-00157,2026-06-09,StayEase Hotel,"The taste exceeded my expectations. Please keep this standard. However, support answered after a normal waiting time.",positive,product_quality,0,positive,service,0
+FB-02305,2026-06-09,GlowCare Soap,Support was professional and helpful. Please keep this standard.,positive,service,0,positive,service,0
+FB-00320,2026-06-10,FreshSip Juice,The shipment took the usual amount of time. Overall it was an average experience.,neutral,delivery,0,neutral,delivery,0
+FB-02064,2026-06-10,HomeCart Delivery,The new packaging feels premium and practical. Please keep this standard.,positive,packaging,0,positive,packaging,0
+FB-01537,2026-06-10,FreshSip Juice,Price feels fair and competitive. Please keep this standard.,positive,price,0,positive,price,0
+FB-01780,2026-06-11,GlowCare Soap,Service made the entire experience easy. Highly recommended.,positive,taste,0,positive,service,0
+FB-01827,2026-06-11,FreshSip Juice,"Packaging was secure, clean and easy to open. I plan to purchase again.",positive,packaging,0,positive,packaging,0
+FB-00308,2026-06-11,Harvest Crunch Biscuits,Delivery was faster than promised. I plan to purchase again.,positive,delivery,0,positive,delivery,0
+FB-00103,2026-06-11,PureLeaf Tea,Delivery was adequate. I may try it again.,neutral,delivery,0,neutral,delivery,0
+FB-01751,2026-06-12,FreshSip Juice,"Excellent value for the quality provided. Please keep this standard. However, the order arrived safely and on time.",positive,price,0,positive,price,0
+FB-01369,2026-06-12,StayEase Hotel,Price feels fair and competitive. I plan to purchase again.,positive,price,0,positive,price,0
+FB-01449,2026-06-12,FreshSip Juice,"Support answered after a normal waiting time. Overall it was an average experience. However, price feels fair and competitive.",neutral,service,0,neutral,service,0
+FB-01863,2026-06-12,GlowCare Soap,The price is too high for the quality. I need this resolved soon. Contact me at customer1862@example.com.,negative,price,0,negative,price,0
+FB-00980,2026-06-12,PureLeaf Tea,The offer made this a very good purchase. I plan to purchase again.,positive,price,0,positive,price,0
+FB-00737,2026-06-12,FreshSip Juice,Support ignored my complaint repeatedly. I need this resolved soon.,negative,service,0,negative,service,0
+FB-02142,2026-06-13,GlowCare Soap,"The flavour was acceptable but not memorable. There is room for improvement. However, the recent price increase is disappointing.",neutral,taste,0,neutral,taste,0
+FB-00384,2026-06-13,PureLeaf Tea,"The packaging did its job. There is room for improvement. However, taste was average for this category.",neutral,packaging,0,neutral,packaging,0
+FB-00305,2026-06-13,Harvest Crunch Biscuits,"Excellent value for the quality provided. I plan to purchase again. However, quality was inconsistent with my previous purchase.",neutral,price,0,positive,price,0
+FB-02390,2026-06-13,StayEase Hotel,The packaging did its job. There is room for improvement.,neutral,packaging,0,neutral,packaging,0
+FB-02234,2026-06-13,Harvest Crunch Biscuits,The product was defective and unusable. Please investigate this issue.,negative,packaging,0,negative,product_quality,0
+FB-01677,2026-06-13,StayEase Hotel,The new packaging feels premium and practical. I plan to purchase again.,positive,packaging,0,positive,packaging,0
+FB-00554,2026-06-14,FreshSip Juice,"The shipment is still missing. I am considering another brand. However, the pack design was ordinary. This is urgent and needs immediate attention.",neutral,delivery,1,negative,delivery,1
+FB-01181,2026-06-14,HomeCart Delivery,The price is similar to other brands. There is room for improvement.,neutral,price,0,neutral,price,0
+FB-01551,2026-06-14,HomeCart Delivery,The flavour was fresh and genuinely enjoyable. I plan to purchase again.,positive,taste,0,positive,taste,0
+FB-00281,2026-06-14,HomeCart Delivery,"Loved the balanced taste and would buy it again. Please keep this standard. However, the staff resolved my issue quickly and politely.",positive,taste,0,positive,taste,0
+FB-00250,2026-06-15,PureLeaf Tea,Quality was inconsistent with my previous purchase. I need this resolved soon.,negative,product_quality,0,negative,product_quality,0
+FB-02220,2026-06-15,Harvest Crunch Biscuits,"The response was unhelpful and frustrating. I am considering another brand. However, loved the balanced taste and would buy it again.",negative,service,0,negative,taste,0
+FB-01396,2026-06-15,GlowCare Soap,Service made the entire experience easy. Highly recommended.,positive,taste,0,positive,service,0
+FB-01668,2026-06-16,PureLeaf Tea,Support was professional and helpful. Please keep this standard.,positive,price,0,positive,service,0
+FB-02073,2026-06-16,PureLeaf Tea,The new packaging feels premium and practical. Please keep this standard. Contact me at customer2072@example.com.,positive,packaging,0,positive,packaging,0
+FB-02150,2026-06-16,HomeCart Delivery,"Everything felt fresh and well made. I plan to purchase again. However, support was professional and helpful.",positive,product_quality,0,positive,product_quality,0
+FB-00640,2026-06-16,Harvest Crunch Biscuits,"The packaging did its job. I may try it again. However, delivery was completed within the expected window.",neutral,packaging,0,neutral,packaging,0
+FB-01453,2026-06-16,GlowCare Soap,Delivery was faster than promised. Please keep this standard.,positive,delivery,0,positive,delivery,0
+FB-01905,2026-06-16,FreshSip Juice,The product met basic expectations. There is room for improvement.,negative,product_quality,0,neutral,product_quality,0
+FB-00948,2026-06-16,Harvest Crunch Biscuits,The package was damaged and the seal was broken. I need this resolved soon. This is urgent and needs immediate attention.,negative,packaging,1,negative,packaging,1
+FB-00109,2026-06-17,FreshSip Juice,No one took ownership of the problem. I need this resolved soon. This is urgent and needs immediate attention.,negative,service,1,negative,service,1
+FB-01031,2026-06-17,FreshSip Juice,The container leaked inside the box. I need this resolved soon. This is urgent and needs immediate attention.,negative,packaging,1,negative,packaging,1
+FB-01038,2026-06-17,GlowCare Soap,The response was unhelpful and frustrating. I need this resolved soon.,negative,service,1,negative,service,0
+FB-01944,2026-06-17,PureLeaf Tea,"Support ignored my complaint repeatedly. I need this resolved soon. However, the flavour was fresh and genuinely enjoyable.",negative,service,0,negative,taste,0
+FB-01561,2026-06-17,Harvest Crunch Biscuits,The shipment is still missing. I am considering another brand. This is urgent and needs immediate attention.,negative,delivery,1,negative,delivery,1
+FB-00593,2026-06-18,Harvest Crunch Biscuits,The flavour was unpleasant and I could not finish it. I need this resolved soon. Contact me at customer592@example.com. This is urgent and needs immediate attention.,negative,taste,1,negative,taste,1
+FB-00160,2026-06-18,PureLeaf Tea,Support was professional and helpful. Please keep this standard.,positive,service,0,positive,service,0
+FB-00584,2026-06-18,StayEase Hotel,Price feels fair and competitive. Please keep this standard. Contact me at customer583@example.com.,positive,price,0,positive,price,0
+FB-01141,2026-06-18,GlowCare Soap,Taste quality has clearly declined. I need this resolved soon. This is urgent and needs immediate attention.,negative,taste,1,negative,taste,1
+FB-00724,2026-06-18,Harvest Crunch Biscuits,"Quality was standard for this type of product. I may try it again. However, price feels fair and competitive.",neutral,product_quality,0,neutral,price,0
+FB-00739,2026-06-18,Harvest Crunch Biscuits,"The flavour was fresh and genuinely enjoyable. Highly recommended. However, product quality was consistent and excellent.",positive,taste,0,positive,taste,0
+FB-01858,2026-06-18,GlowCare Soap,The pack arrived perfectly sealed. Highly recommended.,positive,packaging,0,positive,packaging,0
+FB-02336,2026-06-19,GlowCare Soap,The flavour was acceptable but not memorable. There is room for improvement.,neutral,delivery,0,neutral,taste,0
+FB-01578,2026-06-19,Harvest Crunch Biscuits,Support answered after a normal waiting time. Overall it was an average experience.,neutral,service,0,neutral,service,0
+FB-00711,2026-06-19,PureLeaf Tea,The flavour was unpleasant and I could not finish it. I need this resolved soon.,negative,taste,0,negative,taste,0
+FB-00683,2026-06-19,Harvest Crunch Biscuits,Loved the balanced taste and would buy it again. I plan to purchase again.,neutral,taste,0,positive,taste,0
+FB-00714,2026-06-19,GlowCare Soap,The flavour was fresh and genuinely enjoyable. I plan to purchase again.,positive,taste,0,positive,taste,0
+FB-02052,2026-06-19,StayEase Hotel,The response was unhelpful and frustrating. I am considering another brand.,negative,service,0,negative,service,0
+FB-02102,2026-06-20,PureLeaf Tea,The order arrived safely and on time. Highly recommended.,positive,delivery,0,positive,delivery,0
+FB-00036,2026-06-20,StayEase Hotel,"Packaging was secure, clean and easy to open. I plan to purchase again.",positive,packaging,0,positive,packaging,0
+FB-01963,2026-06-20,PureLeaf Tea,Excellent delivery experience and useful updates. I plan to purchase again.,negative,delivery,0,positive,delivery,0
+FB-01113,2026-06-21,StayEase Hotel,Price feels fair and competitive. I plan to purchase again.,positive,price,0,positive,price,0
+FB-00098,2026-06-21,PureLeaf Tea,No one took ownership of the problem. Please investigate this issue.,negative,service,0,negative,service,0
+FB-02090,2026-06-22,HomeCart Delivery,Support was professional and helpful. Please keep this standard. Contact me at customer2089@example.com.,positive,service,0,positive,service,0
+FB-02396,2026-06-22,FreshSip Juice,Support was professional and helpful. Highly recommended.,positive,service,0,positive,service,0
+FB-01505,2026-06-22,StayEase Hotel,"The order arrived safely and on time. Please keep this standard. However, support ignored my complaint repeatedly.",positive,delivery,0,positive,delivery,0
+FB-01517,2026-06-22,GlowCare Soap,The new packaging feels premium and practical. Please keep this standard.,positive,packaging,0,positive,packaging,0
+FB-01712,2026-06-23,Harvest Crunch Biscuits,Support ignored my complaint repeatedly. Please investigate this issue. Contact me at customer1711@example.com. This is urgent and needs immediate attention.,negative,service,1,negative,service,1
+FB-01176,2026-06-23,HomeCart Delivery,The taste exceeded my expectations. Please keep this standard.,positive,taste,1,positive,taste,1
+FB-00503,2026-06-23,PureLeaf Tea,The container leaked inside the box. I am considering another brand. Contact me at customer502@example.com.,negative,packaging,0,negative,packaging,0
+FB-01620,2026-06-23,GlowCare Soap,"The taste felt stale and disappointing. I am considering another brand. However, everything felt fresh and well made.",negative,taste,0,negative,taste,0
+FB-00179,2026-06-23,PureLeaf Tea,Delivery was faster than promised. I plan to purchase again.,positive,delivery,0,positive,delivery,0
+FB-00581,2026-06-23,GlowCare Soap,It is priced around what I expected. I may try it again. Contact me at customer580@example.com.,neutral,price,0,neutral,price,0
+FB-00276,2026-06-23,Harvest Crunch Biscuits,"The package was damaged and the seal was broken. I need this resolved soon. However, the staff resolved my issue quickly and politely. This is urgent and needs immediate attention.",negative,packaging,1,negative,packaging,1
+FB-00760,2026-06-24,FreshSip Juice,Support was professional and helpful. Please keep this standard.,neutral,service,0,positive,service,0
+FB-01170,2026-06-24,PureLeaf Tea,It was neither impressive nor disappointing. I may try it again.,neutral,taste,0,neutral,taste,0
+FB-01385,2026-06-24,Harvest Crunch Biscuits,The shipment is still missing. I am considering another brand. This is urgent and needs immediate attention.,negative,delivery,1,negative,delivery,1
+FB-01210,2026-06-24,HomeCart Delivery,"Packaging quality was poor and wasteful. Please investigate this issue. However, the flavour was unpleasant and i could not finish it.",negative,packaging,0,negative,packaging,0
+FB-00790,2026-06-24,Harvest Crunch Biscuits,Everything felt fresh and well made. Highly recommended. Contact me at customer789@example.com.,positive,product_quality,0,positive,product_quality,0
+FB-01901,2026-06-24,PureLeaf Tea,Excellent value for the quality provided. Please keep this standard. Contact me at customer1900@example.com.,positive,price,0,positive,price,0
+FB-01383,2026-06-25,GlowCare Soap,"The taste exceeded my expectations. Please keep this standard. However, delivery was faster than promised.",positive,taste,0,positive,taste,0
+FB-02157,2026-06-25,HomeCart Delivery,The price is similar to other brands. Overall it was an average experience.,neutral,price,0,neutral,price,0
+FB-00180,2026-06-25,HomeCart Delivery,The packaging did its job. There is room for improvement. Contact me at customer179@example.com.,neutral,packaging,0,neutral,packaging,0
+FB-02134,2026-06-25,PureLeaf Tea,Loved the balanced taste and would buy it again. I plan to purchase again. Contact me at customer2133@example.com.,positive,taste,0,positive,taste,0
+FB-02241,2026-06-26,Harvest Crunch Biscuits,The offer made this a very good purchase. Please keep this standard.,positive,price,0,positive,price,0
+FB-01744,2026-06-26,FreshSip Juice,Product quality was consistent and excellent. I plan to purchase again.,positive,product_quality,0,positive,product_quality,0
+FB-01076,2026-06-26,GlowCare Soap,The taste exceeded my expectations. I plan to purchase again.,positive,taste,0,positive,taste,0
+FB-01726,2026-06-27,StayEase Hotel,Delivery was delayed and support could not help. I am considering another brand. This is urgent and needs immediate attention.,negative,delivery,1,negative,delivery,1
+FB-02022,2026-06-27,GlowCare Soap,This no longer feels worth the money. Please investigate this issue.,negative,price,0,negative,price,0
+FB-01524,2026-06-28,HomeCart Delivery,"Quality was standard for this type of product. Overall it was an average experience. However, support ignored my complaint repeatedly. Contact me at customer1523@example.com.",neutral,product_quality,0,neutral,product_quality,0
+FB-00457,2026-06-28,StayEase Hotel,The order arrived safely and on time. I plan to purchase again.,positive,delivery,0,positive,delivery,0
+FB-00321,2026-06-28,Harvest Crunch Biscuits,The item looked old and poorly handled. Please investigate this issue.,negative,product_quality,0,negative,product_quality,0
+FB-01813,2026-06-28,GlowCare Soap,Product quality was consistent and excellent. I plan to purchase again.,positive,product_quality,1,positive,product_quality,0
+FB-00193,2026-06-28,FreshSip Juice,Taste quality has clearly declined. I am considering another brand. This is urgent and needs immediate attention.,negative,taste,1,negative,taste,1
+FB-01270,2026-06-28,Harvest Crunch Biscuits,The order arrived very late with no useful update. I am considering another brand.,negative,delivery,0,negative,delivery,0
+FB-02139,2026-06-29,FreshSip Juice,The quality has improved noticeably. I plan to purchase again.,positive,product_quality,0,positive,product_quality,0
+FB-01689,2026-06-29,FreshSip Juice,"Packaging was secure, clean and easy to open. Highly recommended.",positive,packaging,0,positive,packaging,0
+FB-02124,2026-06-30,HomeCart Delivery,Quality was inconsistent with my previous purchase. I am considering another brand.,negative,product_quality,0,negative,product_quality,0
+FB-01204,2026-06-30,Harvest Crunch Biscuits,The package was damaged and the seal was broken. Please investigate this issue. This is urgent and needs immediate attention.,negative,delivery,1,negative,packaging,1
+FB-01853,2026-06-30,StayEase Hotel,My basic question was answered. Overall it was an average experience.,neutral,service,0,neutral,service,0
+FB-00723,2026-06-30,FreshSip Juice,Quality was inconsistent with my previous purchase. Please investigate this issue. This is urgent and needs immediate attention.,negative,product_quality,1,negative,product_quality,1
+FB-01511,2026-06-30,PureLeaf Tea,This no longer feels worth the money. I need this resolved soon.,negative,price,0,negative,price,0

@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+node_modules/
+dist/
+data/*.db
+data/*.sqlite*
+data/rewards.json
+workspaces/*
+!workspaces/.gitkeep
+.DS_Store
+coverage.xml
+htmlcov/

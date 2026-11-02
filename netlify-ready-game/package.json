@@ -1,0 +1,17 @@
+{
+  "name": "chaos-arena-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CHAOS ARENA — Netlify-Ready Multiplayer Party Game (Netlify Functions + Netlify Blobs Strong Consistency)",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^10.7.13"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^2.8.2",
+    "@types/node": "^20.19.43",
+    "typescript": "^5.5.4"
+  }
+}

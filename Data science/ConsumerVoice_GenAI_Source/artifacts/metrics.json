@@ -1,0 +1,23 @@
+{
+  "sentiment_accuracy": 0.946218487394958,
+  "sentiment_macro_f1": 0.937831557937378,
+  "topic_accuracy": 0.8857142857142857,
+  "topic_macro_f1": 0.8857120779934889,
+  "urgent_f1": 0.8888888888888888,
+  "training_rows": 1805,
+  "validation_rows": 595,
+  "validation_start": "2026-02-17",
+  "sentiment_per_class_f1": {
+    "negative": 0.9387755102040817,
+    "neutral": 0.9053497942386831,
+    "positive": 0.9693693693693693
+  },
+  "topic_per_class_f1": {
+    "delivery": 0.8720379146919431,
+    "packaging": 0.8469387755102041,
+    "price": 0.9263157894736842,
+    "product_quality": 0.8743169398907104,
+    "service": 0.8855721393034826,
+    "taste": 0.9090909090909091
+  }
+}

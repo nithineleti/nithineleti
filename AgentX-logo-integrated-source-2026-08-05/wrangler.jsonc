@@ -1,0 +1,26 @@
+{
+  // Single source of truth for Cloudflare bindings and deploy settings.
+  //
+  // @cloudflare/vite-plugin auto-discovers this file, so vite.config.ts must NOT
+  // also pass an inline `config` object -- the two would be merged with their
+  // arrays CONCATENATED, silently duplicating the D1 binding.
+  //
+  // Before your first deploy:
+  //   1. wrangler d1 create agentx-db
+  //   2. paste the returned id into `database_id` below
+  //   3. npm run db:migrate
+  "name": "agentx",
+  "main": "./worker/index.ts",
+  "compatibility_date": "2026-05-15",
+  "compatibility_flags": ["nodejs_compat"],
+  "observability": { "enabled": true },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "agentx-db",
+      // Placeholder. Replace with the id from `wrangler d1 create agentx-db`.
+      "database_id": "00000000-0000-4000-8000-000000000000",
+      "migrations_dir": "drizzle"
+    }
+  ]
+}

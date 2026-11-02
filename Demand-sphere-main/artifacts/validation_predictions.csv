@@ -1,0 +1,1345 @@
+date,sku,product_name,category,region,promotion,stockout_flag,units_demand,prediction,lower_80,upper_80,residual,anomaly
+2026-05-06,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,121,97.8,85.8,105.35,23.2,0
+2026-05-07,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,135,100.01,86.14,110.11,34.99,0
+2026-05-08,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,106,97.7,86.53,113.07,8.3,0
+2026-05-09,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,1,0,194,169.61,133.75,201.56,24.39,0
+2026-05-10,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,138,115.72,102.35,129.25,22.28,0
+2026-05-11,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,1,0,164,143.99,125.37,167.51,20.01,0
+2026-05-12,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,120,112.57,92.86,129.1,7.43,0
+2026-05-13,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,94,106.77,93.06,125.02,-12.77,0
+2026-05-14,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,113,98.99,86.97,118.98,14.01,0
+2026-05-15,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,1,115,113.16,93.25,127.2,1.84,0
+2026-05-16,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,103,109.08,95.24,132.2,-6.08,0
+2026-05-17,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,112,116.35,95.99,131.03,-4.35,0
+2026-05-18,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,1,0,139,142.08,122.42,163.32,-3.08,0
+2026-05-19,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,100,103.04,93.32,116.87,-3.04,0
+2026-05-20,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,112,97.98,86.29,115.95,14.02,0
+2026-05-21,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,108,104.89,93.19,120.47,3.11,0
+2026-05-22,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,116,106.39,91.98,120.72,9.61,0
+2026-05-23,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,114,121.66,109.03,131.62,-7.66,0
+2026-05-24,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,1,0,206,184.54,138.82,212.87,21.46,0
+2026-05-25,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,98,101.88,93.64,121.11,-3.88,0
+2026-05-26,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,100,99.66,88.2,116.23,0.34,0
+2026-05-27,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,1,118,100.93,90.87,115.13,17.07,0
+2026-05-28,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,108,106.78,95.12,122.03,1.22,0
+2026-05-29,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,1,0,137,145.73,122.74,163.38,-8.73,0
+2026-05-30,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,122,118.93,101.57,136.05,3.07,0
+2026-05-31,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,128,117.61,98.54,134.89,10.39,0
+2026-06-01,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,129,115.13,99.85,130.24,13.87,0
+2026-06-02,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,107,106.24,93.36,120.21,0.76,0
+2026-06-03,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,126,122.21,102.03,140.19,3.79,0
+2026-06-04,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,100,109.1,98.47,126.17,-9.1,0
+2026-06-05,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,1,0,141,158.37,129.03,185.89,-17.37,0
+2026-06-06,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,126,123.51,105.18,139.33,2.49,0
+2026-06-07,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,137,128.63,112.41,141.25,8.37,0
+2026-06-08,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,122,119.05,101.91,136.23,2.95,0
+2026-06-09,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,97,111.18,95.73,130.97,-14.18,0
+2026-06-10,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,97,109.25,93.41,123.95,-12.25,0
+2026-06-11,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,99,106.83,95.37,121.82,-7.83,0
+2026-06-12,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,98,98.23,90.39,113.53,-0.23,0
+2026-06-13,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,122,114.76,97.91,126.08,7.24,0
+2026-06-14,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,128,113.84,97.01,124.2,14.16,0
+2026-06-15,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,105,108.27,94.67,124.81,-3.27,0
+2026-06-16,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,1,0,151,147.57,132.19,164.76,3.43,0
+2026-06-17,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,1,0,165,155.36,132.46,173.59,9.64,0
+2026-06-18,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,1,0,223,174.01,133.28,206.01,48.99,1
+2026-06-19,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,89,104.96,93.13,123.04,-15.96,0
+2026-06-20,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,107,121.94,103.9,144.55,-14.94,0
+2026-06-21,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,115,130.36,109.3,148.57,-15.36,0
+2026-06-22,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,1,0,141,152.91,126.55,174.35,-11.91,0
+2026-06-23,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,109,101.52,91.89,124.93,7.48,0
+2026-06-24,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,91,106.2,90.26,128.01,-15.2,0
+2026-06-25,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,1,0,150,145.21,120.01,164.74,4.79,0
+2026-06-26,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,106,112.25,95.72,125.98,-6.25,0
+2026-06-27,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,100,118.61,101.34,131.44,-18.61,0
+2026-06-28,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,113,112.11,98.85,130.15,0.89,0
+2026-06-29,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,100,106.94,93.19,124.13,-6.94,0
+2026-06-30,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,East,0,0,104,102.53,90.85,119.4,1.47,0
+2026-05-06,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,124,121.51,103.73,146.64,2.49,0
+2026-05-07,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,1,0,185,179.55,144.61,194.62,5.45,0
+2026-05-08,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,103,125.28,104.48,154.49,-22.28,0
+2026-05-09,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,133,136.36,115.37,168.22,-3.36,0
+2026-05-10,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,1,0,204,197.84,146.84,221.19,6.16,0
+2026-05-11,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,132,115.86,103.49,130.01,16.14,0
+2026-05-12,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,1,0,234,196.53,150.61,215.78,37.47,1
+2026-05-13,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,124,129.46,108.06,151.6,-5.46,0
+2026-05-14,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,111,124.3,105.6,149.16,-13.3,0
+2026-05-15,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,91,117.96,110.62,131.76,-26.96,0
+2026-05-16,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,1,0,177,197.91,153.31,219.12,-20.91,0
+2026-05-17,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,133,142.94,122.65,160.14,-9.94,0
+2026-05-18,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,119,126.49,108.5,139.58,-7.49,0
+2026-05-19,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,121,113.12,98.09,131.53,7.88,0
+2026-05-20,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,114,114.6,100.18,126.88,-0.6,0
+2026-05-21,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,124,121.13,105.84,132.58,2.87,0
+2026-05-22,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,130,130.13,108.82,139.86,-0.13,0
+2026-05-23,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,148,131.57,111.69,158.3,16.43,0
+2026-05-24,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,116,135.25,115.88,154.04,-19.25,0
+2026-05-25,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,114,126.76,108.85,137.53,-12.76,0
+2026-05-26,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,131,122.98,104.93,138.3,8.02,0
+2026-05-27,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,118,122.41,107.46,135.22,-4.41,0
+2026-05-28,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,1,143,120.42,103.0,139.03,22.58,1
+2026-05-29,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,121,126.86,110.34,141.44,-5.86,0
+2026-05-30,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,125,138.57,123.15,155.56,-13.57,0
+2026-05-31,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,1,138,129.24,109.98,144.65,8.76,0
+2026-06-01,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,1,134,119.2,101.31,134.19,14.8,0
+2026-06-02,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,1,0,194,185.51,150.57,205.61,8.49,0
+2026-06-03,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,125,125.14,107.42,141.86,-0.14,0
+2026-06-04,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,130,115.07,102.99,134.88,14.93,0
+2026-06-05,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,107,119.41,100.97,136.73,-12.41,0
+2026-06-06,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,134,138.01,113.06,157.42,-4.01,0
+2026-06-07,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,137,139.5,113.13,155.32,-2.5,0
+2026-06-08,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,116,127.41,105.7,143.15,-11.41,0
+2026-06-09,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,136,116.74,98.85,138.56,19.26,0
+2026-06-10,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,109,115.62,101.44,135.52,-6.62,0
+2026-06-11,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,108,115.08,99.92,131.05,-7.08,0
+2026-06-12,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,121,116.93,101.29,134.85,4.07,0
+2026-06-13,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,129,126.39,105.7,142.11,2.61,0
+2026-06-14,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,134,128.91,110.8,145.98,5.09,0
+2026-06-15,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,123,113.65,99.61,123.63,9.35,0
+2026-06-16,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,118,112.83,99.09,129.28,5.17,0
+2026-06-17,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,1,0,147,169.73,139.3,189.26,-22.73,0
+2026-06-18,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,1,0,180,188.63,141.37,221.85,-8.63,0
+2026-06-19,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,114,111.68,101.63,133.5,2.32,0
+2026-06-20,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,139,132.31,114.21,155.04,6.69,0
+2026-06-21,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,1,0,174,184.64,149.75,198.92,-10.64,0
+2026-06-22,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,115,120.85,105.56,135.95,-5.85,0
+2026-06-23,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,1,131,114.79,100.39,136.04,16.21,0
+2026-06-24,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,120,122.26,105.56,138.33,-2.26,0
+2026-06-25,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,110,121.36,99.74,138.63,-11.36,0
+2026-06-26,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,106,112.98,98.76,129.68,-6.98,0
+2026-06-27,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,1,0,194,190.9,148.67,227.01,3.1,0
+2026-06-28,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,128,138.67,115.55,158.35,-10.67,0
+2026-06-29,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,108,115.04,98.21,131.06,-7.04,0
+2026-06-30,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,North,0,0,123,110.46,94.51,128.24,12.54,0
+2026-05-06,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,119,117.57,102.62,135.3,1.43,0
+2026-05-07,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,1,0,220,197.82,158.31,213.15,22.18,1
+2026-05-08,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,122,131.17,109.33,142.77,-9.17,0
+2026-05-09,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,135,129.71,112.18,153.59,5.29,0
+2026-05-10,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,1,0,213,183.35,149.74,194.65,29.65,0
+2026-05-11,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,116,123.12,112.86,137.29,-7.12,0
+2026-05-12,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,153,140.1,122.07,152.34,12.9,0
+2026-05-13,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,99,134.25,117.04,150.69,-35.25,0
+2026-05-14,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,1,0,173,202.49,148.23,220.07,-29.49,0
+2026-05-15,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,131,129.67,115.07,146.86,1.33,0
+2026-05-16,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,153,143.19,122.37,162.68,9.81,0
+2026-05-17,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,145,134.48,117.83,160.46,10.52,0
+2026-05-18,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,123,121.62,108.4,140.51,1.38,0
+2026-05-19,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,103,117.28,101.23,137.35,-14.28,0
+2026-05-20,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,143,126.88,107.71,142.57,16.12,0
+2026-05-21,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,126,137.43,112.95,149.48,-11.43,0
+2026-05-22,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,1,0,167,191.01,150.57,199.08,-24.01,0
+2026-05-23,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,113,138.25,119.85,168.71,-25.25,0
+2026-05-24,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,152,139.21,119.1,160.1,12.79,0
+2026-05-25,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,115,119.32,106.63,137.46,-4.32,0
+2026-05-26,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,129,124.52,107.31,144.0,4.48,0
+2026-05-27,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,140,132.48,109.59,145.65,7.52,0
+2026-05-28,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,147,133.26,110.82,146.51,13.74,0
+2026-05-29,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,138,124.77,105.78,143.24,13.23,0
+2026-05-30,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,106,129.43,112.05,155.63,-23.43,0
+2026-05-31,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,170,133.12,114.8,156.17,36.88,0
+2026-06-01,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,116,124.82,106.99,140.55,-8.82,0
+2026-06-02,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,1,0,179,189.88,150.27,208.15,-10.88,0
+2026-06-03,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,136,137.92,114.43,149.33,-1.92,0
+2026-06-04,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,106,130.09,110.46,145.17,-24.09,0
+2026-06-05,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,132,130.75,109.82,144.58,1.25,0
+2026-06-06,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,146,137.21,113.73,159.77,8.79,0
+2026-06-07,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,132,138.24,117.95,156.93,-6.24,0
+2026-06-08,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,124,117.01,98.66,138.49,6.99,0
+2026-06-09,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,142,128.47,105.26,144.75,13.53,0
+2026-06-10,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,124,123.69,107.69,143.91,0.31,0
+2026-06-11,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,147,123.95,105.83,136.74,23.05,0
+2026-06-12,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,114,118.59,99.28,136.78,-4.59,0
+2026-06-13,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,1,135,137.97,110.15,160.18,-2.97,0
+2026-06-14,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,143,127.99,106.25,150.7,15.01,0
+2026-06-15,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,146,123.84,101.6,139.66,22.16,0
+2026-06-16,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,133,126.17,107.53,143.22,6.83,0
+2026-06-17,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,1,136,127.23,105.86,145.27,8.77,0
+2026-06-18,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,123,126.69,103.66,143.54,-3.69,0
+2026-06-19,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,135,123.11,99.96,143.65,11.89,0
+2026-06-20,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,142,141.91,116.35,160.51,0.09,0
+2026-06-21,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,141,132.93,111.06,159.65,8.07,0
+2026-06-22,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,127,113.98,98.25,131.04,13.02,0
+2026-06-23,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,1,0,163,171.34,137.73,195.75,-8.34,0
+2026-06-24,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,120,132.58,106.97,149.98,-12.58,0
+2026-06-25,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,131,120.81,100.08,144.2,10.19,0
+2026-06-26,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,125,124.93,103.02,143.35,0.07,0
+2026-06-27,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,148,138.73,114.26,160.18,9.27,0
+2026-06-28,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,155,142.16,116.29,160.66,12.84,0
+2026-06-29,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,0,0,118,113.35,101.24,131.86,4.65,0
+2026-06-30,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,South,1,0,173,182.34,151.81,198.71,-9.34,0
+2026-05-06,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,1,0,179,179.38,133.44,206.49,-0.38,1
+2026-05-07,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,1,0,160,161.7,118.03,163.65,-1.7,0
+2026-05-08,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,1,0,136,180.86,134.21,194.32,-44.86,1
+2026-05-09,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,124,123.18,113.83,144.57,0.82,0
+2026-05-10,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,136,119.66,103.87,140.67,16.34,0
+2026-05-11,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,1,0,176,174.35,140.1,193.93,1.65,0
+2026-05-12,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,115,116.16,104.53,134.23,-1.16,0
+2026-05-13,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,1,0,166,172.08,130.92,196.36,-6.08,0
+2026-05-14,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,130,112.51,98.16,132.67,17.49,0
+2026-05-15,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,1,0,156,189.44,144.84,205.57,-33.44,0
+2026-05-16,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,1,0,154,174.46,150.7,184.66,-20.46,0
+2026-05-17,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,137,141.54,116.82,158.18,-4.54,0
+2026-05-18,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,96,110.93,100.3,128.64,-14.93,0
+2026-05-19,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,108,126.97,105.73,142.4,-18.97,0
+2026-05-20,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,102,118.48,101.84,136.57,-16.48,0
+2026-05-21,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,120,116.21,100.77,128.62,3.79,0
+2026-05-22,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,108,118.69,102.52,131.04,-10.69,0
+2026-05-23,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,129,129.47,107.71,145.84,-0.47,0
+2026-05-24,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,143,136.17,113.02,150.96,6.83,0
+2026-05-25,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,112,115.72,98.13,131.95,-3.72,0
+2026-05-26,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,113,119.41,100.37,131.75,-6.41,0
+2026-05-27,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,115,111.61,98.71,121.27,3.39,0
+2026-05-28,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,108,121.83,101.06,136.67,-13.83,0
+2026-05-29,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,114,125.77,104.83,139.12,-11.77,0
+2026-05-30,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,141,132.32,109.55,143.13,8.68,0
+2026-05-31,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,144,136.94,115.29,151.21,7.06,0
+2026-06-01,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,115,122.9,104.64,137.7,-7.9,0
+2026-06-02,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,113,115.04,99.1,130.73,-2.04,0
+2026-06-03,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,133,117.42,102.0,134.44,15.58,0
+2026-06-04,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,133,108.22,95.55,125.19,24.78,0
+2026-06-05,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,111,105.73,96.17,122.01,5.27,0
+2026-06-06,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,135,127.84,110.65,146.43,7.16,0
+2026-06-07,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,1,0,219,213.4,146.71,241.73,5.6,0
+2026-06-08,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,116,114.6,99.99,135.89,1.4,0
+2026-06-09,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,1,128,116.17,96.92,134.55,11.83,0
+2026-06-10,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,113,111.73,94.45,134.6,1.27,0
+2026-06-11,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,116,113.29,95.61,132.99,2.71,0
+2026-06-12,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,112,99.7,88.0,123.44,12.3,0
+2026-06-13,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,1,0,177,179.0,133.26,209.01,-2.0,0
+2026-06-14,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,121,111.61,99.64,139.78,9.39,0
+2026-06-15,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,86,110.66,96.47,125.36,-24.66,0
+2026-06-16,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,129,108.72,95.64,127.33,20.28,0
+2026-06-17,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,1,0,214,175.99,134.18,206.81,38.01,1
+2026-06-18,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,120,117.5,100.6,136.77,2.5,0
+2026-06-19,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,111,110.7,96.07,128.64,0.3,0
+2026-06-20,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,128,139.63,115.91,161.73,-11.63,0
+2026-06-21,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,107,121.07,107.47,141.86,-14.07,0
+2026-06-22,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,114,111.24,96.74,125.93,2.76,0
+2026-06-23,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,120,102.63,90.31,121.39,17.37,0
+2026-06-24,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,1,0,191,177.61,138.72,214.99,13.39,0
+2026-06-25,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,1,0,164,173.27,154.56,187.43,-9.27,0
+2026-06-26,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,112,117.91,101.6,135.91,-5.91,0
+2026-06-27,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,153,129.33,111.22,152.21,23.67,0
+2026-06-28,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,1,0,183,176.62,131.57,197.99,6.38,0
+2026-06-29,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,138,128.64,106.0,143.9,9.36,0
+2026-06-30,BEV-FRUIT-1L,Fruit Beverage 1 L,Beverages,West,0,0,105,122.89,108.12,142.23,-17.89,0
+2026-05-06,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,87,84.91,77.31,96.26,2.09,0
+2026-05-07,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,1,0,141,131.44,116.06,143.56,9.56,0
+2026-05-08,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,88,89.14,81.84,102.57,-1.14,0
+2026-05-09,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,104,101.6,95.03,108.55,2.4,0
+2026-05-10,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,1,0,176,145.75,126.21,169.47,30.25,0
+2026-05-11,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,83,85.49,77.71,100.51,-2.49,0
+2026-05-12,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,96,89.06,82.06,105.97,6.94,0
+2026-05-13,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,85,83.09,76.82,98.68,1.91,0
+2026-05-14,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,81,89.57,79.81,107.27,-8.57,0
+2026-05-15,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,1,0,124,130.32,119.12,148.33,-6.32,0
+2026-05-16,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,77,96.6,88.9,109.14,-19.6,0
+2026-05-17,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,76,94.28,89.58,105.6,-18.28,0
+2026-05-18,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,84,78.86,70.33,92.44,5.14,0
+2026-05-19,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,65,77.31,67.31,92.29,-12.31,0
+2026-05-20,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,98,81.98,73.4,93.2,16.02,0
+2026-05-21,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,83,84.78,76.23,97.41,-1.78,0
+2026-05-22,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,81,83.23,75.55,96.9,-2.23,0
+2026-05-23,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,1,0,152,132.65,110.64,146.48,19.35,0
+2026-05-24,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,1,0,106,129.29,114.29,146.35,-23.29,0
+2026-05-25,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,1,0,135,122.01,119.93,147.78,12.99,0
+2026-05-26,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,95,86.07,75.46,102.19,8.93,0
+2026-05-27,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,95,90.19,82.04,103.19,4.81,0
+2026-05-28,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,1,0,122,136.06,125.51,148.97,-14.06,0
+2026-05-29,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,92,94.96,87.76,107.55,-2.96,0
+2026-05-30,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,88,97.06,87.56,108.4,-9.06,0
+2026-05-31,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,104,97.33,85.35,106.69,6.67,0
+2026-06-01,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,76,85.63,74.05,101.54,-9.63,0
+2026-06-02,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,77,83.98,74.53,95.39,-6.98,0
+2026-06-03,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,69,86.18,76.05,97.02,-17.18,0
+2026-06-04,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,1,98,84.69,74.96,99.1,13.31,0
+2026-06-05,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,92,86.83,79.29,98.66,5.17,0
+2026-06-06,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,95,103.56,88.74,112.26,-8.56,0
+2026-06-07,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,91,93.27,83.69,103.94,-2.27,0
+2026-06-08,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,87,83.56,74.09,94.8,3.44,0
+2026-06-09,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,80,78.39,69.62,91.99,1.61,0
+2026-06-10,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,105,80.97,73.21,93.92,24.03,0
+2026-06-11,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,86,88.43,81.8,101.3,-2.43,0
+2026-06-12,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,93,86.38,76.77,101.49,6.62,0
+2026-06-13,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,96,95.88,84.99,103.33,0.12,0
+2026-06-14,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,107,99.27,89.37,109.64,7.73,0
+2026-06-15,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,89,87.23,78.66,99.59,1.77,0
+2026-06-16,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,61,87.75,77.22,98.1,-26.75,0
+2026-06-17,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,75,83.16,74.76,93.79,-8.16,0
+2026-06-18,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,80,78.44,71.25,91.56,1.56,0
+2026-06-19,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,85,78.96,72.13,93.09,6.04,0
+2026-06-20,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,99,98.21,88.81,105.45,0.79,0
+2026-06-21,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,81,91.71,80.87,100.47,-10.71,0
+2026-06-22,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,92,79.76,73.19,93.88,12.24,0
+2026-06-23,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,78,81.49,70.13,90.96,-3.49,0
+2026-06-24,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,81,78.26,72.34,93.15,2.74,0
+2026-06-25,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,81,80.05,71.44,95.79,0.95,0
+2026-06-26,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,92,84.74,78.61,96.93,7.26,0
+2026-06-27,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,97,88.79,78.2,99.61,8.21,0
+2026-06-28,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,82,93.93,84.18,104.19,-11.93,0
+2026-06-29,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,77,73.66,65.16,90.44,3.34,0
+2026-06-30,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,East,0,0,70,75.49,67.94,88.59,-5.49,0
+2026-05-06,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,93,105.8,92.9,121.89,-12.8,0
+2026-05-07,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,88,97.39,86.17,116.66,-9.39,0
+2026-05-08,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,115,95.15,85.38,112.4,19.85,0
+2026-05-09,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,1,0,144,166.12,130.95,193.86,-22.12,0
+2026-05-10,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,116,111.75,97.22,127.47,4.25,0
+2026-05-11,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,101,101.33,87.41,116.35,-0.33,0
+2026-05-12,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,98,94.77,82.89,114.48,3.23,0
+2026-05-13,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,88,92.28,82.54,108.41,-4.28,0
+2026-05-14,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,94,94.05,81.92,113.8,-0.05,0
+2026-05-15,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,98,105.28,93.23,120.42,-7.28,0
+2026-05-16,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,89,111.05,93.8,125.89,-22.05,0
+2026-05-17,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,94,107.17,90.78,123.1,-13.17,0
+2026-05-18,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,102,99.82,87.21,107.83,2.18,0
+2026-05-19,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,98,93.16,80.44,106.14,4.84,0
+2026-05-20,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,92,91.2,81.21,105.13,0.8,0
+2026-05-21,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,1,0,140,136.97,123.02,156.11,3.03,0
+2026-05-22,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,98,97.56,85.62,113.67,0.44,0
+2026-05-23,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,112,111.08,96.29,118.11,0.92,0
+2026-05-24,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,1,0,171,153.11,128.14,176.01,17.89,0
+2026-05-25,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,101,100.59,90.17,114.67,0.41,0
+2026-05-26,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,110,95.82,84.82,111.11,14.18,0
+2026-05-27,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,78,94.14,82.62,107.88,-16.14,0
+2026-05-28,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,1,0,159,161.85,124.89,195.53,-2.85,1
+2026-05-29,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,101,102.78,89.6,117.48,-1.78,0
+2026-05-30,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,110,107.09,96.58,124.68,2.91,0
+2026-05-31,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,1,0,134,154.81,125.26,187.58,-20.81,0
+2026-06-01,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,93,100.22,91.35,113.96,-7.22,0
+2026-06-02,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,1,0,146,142.39,127.18,167.61,3.61,0
+2026-06-03,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,102,99.96,86.93,114.07,2.04,0
+2026-06-04,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,106,97.35,88.04,115.28,8.65,0
+2026-06-05,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,87,91.48,84.87,106.29,-4.48,0
+2026-06-06,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,106,105.3,95.57,124.9,0.7,0
+2026-06-07,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,123,103.18,93.19,117.19,19.82,0
+2026-06-08,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,84,88.47,80.93,104.61,-4.47,0
+2026-06-09,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,78,89.63,81.02,110.15,-11.63,0
+2026-06-10,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,80,86.0,79.02,99.67,-6.0,0
+2026-06-11,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,103,88.89,81.2,103.54,14.11,0
+2026-06-12,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,87,88.99,80.13,101.92,-1.99,0
+2026-06-13,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,104,104.56,95.35,116.86,-0.56,0
+2026-06-14,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,109,109.68,96.23,114.59,-0.68,0
+2026-06-15,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,1,0,139,120.68,105.17,144.13,18.32,0
+2026-06-16,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,77,91.51,80.95,107.63,-14.51,0
+2026-06-17,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,103,88.27,77.64,102.86,14.73,0
+2026-06-18,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,92,90.68,79.13,113.38,1.32,0
+2026-06-19,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,110,86.83,76.4,102.1,23.17,0
+2026-06-20,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,1,0,149,145.3,122.58,169.54,3.7,0
+2026-06-21,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,87,104.33,93.99,118.27,-17.33,0
+2026-06-22,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,105,86.88,76.85,103.79,18.12,0
+2026-06-23,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,86,84.24,74.01,102.34,1.76,0
+2026-06-24,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,82,85.86,75.74,102.14,-3.86,0
+2026-06-25,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,98,86.02,76.83,105.89,11.98,0
+2026-06-26,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,101,92.94,85.07,102.8,8.06,0
+2026-06-27,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,107,105.24,96.01,118.43,1.76,0
+2026-06-28,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,1,0,171,141.82,124.93,163.45,29.18,0
+2026-06-29,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,81,89.59,81.79,109.34,-8.59,0
+2026-06-30,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,North,0,0,75,84.92,74.2,104.45,-9.92,0
+2026-05-06,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,97,108.99,92.1,124.97,-11.99,0
+2026-05-07,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,107,104.07,88.8,120.89,2.93,0
+2026-05-08,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,102,110.74,95.25,122.51,-8.74,0
+2026-05-09,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,130,117.77,101.65,134.06,12.23,0
+2026-05-10,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,113,122.98,103.51,138.64,-9.98,0
+2026-05-11,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,108,113.93,93.78,125.83,-5.93,0
+2026-05-12,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,130,109.81,92.34,123.78,20.19,0
+2026-05-13,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,92,107.27,88.7,119.1,-15.27,0
+2026-05-14,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,90,108.63,94.02,121.13,-18.63,0
+2026-05-15,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,92,106.23,89.64,120.94,-14.23,0
+2026-05-16,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,117,120.03,100.3,134.33,-3.03,0
+2026-05-17,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,137,124.67,103.33,134.95,12.33,0
+2026-05-18,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,91,108.45,94.56,122.33,-17.45,0
+2026-05-19,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,99,94.29,80.08,114.94,4.71,0
+2026-05-20,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,95,101.35,86.75,115.84,-6.35,0
+2026-05-21,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,98,98.71,81.79,118.15,-0.71,0
+2026-05-22,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,1,0,144,152.84,128.32,173.07,-8.84,0
+2026-05-23,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,107,114.06,97.69,132.6,-7.06,0
+2026-05-24,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,94,108.25,95.33,123.49,-14.25,0
+2026-05-25,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,98,97.95,84.39,112.32,0.05,0
+2026-05-26,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,106,96.07,81.47,115.75,9.93,0
+2026-05-27,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,107,99.92,82.85,110.43,7.08,0
+2026-05-28,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,97,97.81,83.76,111.44,-0.81,0
+2026-05-29,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,106,102.3,89.69,115.68,3.7,0
+2026-05-30,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,123,108.55,92.34,119.83,14.45,0
+2026-05-31,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,116,112.94,96.76,121.56,3.06,0
+2026-06-01,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,96,98.33,84.62,113.84,-2.33,0
+2026-06-02,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,86,93.14,85.13,105.49,-7.14,0
+2026-06-03,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,108,92.38,81.48,106.59,15.62,0
+2026-06-04,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,94,99.35,86.22,111.22,-5.35,0
+2026-06-05,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,109,91.35,81.81,107.31,17.65,0
+2026-06-06,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,101,103.15,90.33,116.57,-2.15,0
+2026-06-07,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,117,108.56,95.35,122.94,8.44,0
+2026-06-08,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,100,99.21,87.05,111.9,0.79,0
+2026-06-09,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,134,97.79,87.11,111.48,36.21,0
+2026-06-10,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,106,97.88,87.03,113.61,8.12,0
+2026-06-11,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,1,0,131,140.79,126.19,152.7,-9.79,0
+2026-06-12,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,114,102.35,89.42,116.66,11.65,0
+2026-06-13,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,108,111.85,96.45,129.02,-3.85,0
+2026-06-14,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,1,108,112.67,98.6,130.93,-4.67,0
+2026-06-15,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,108,104.06,93.61,117.13,3.94,0
+2026-06-16,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,95,100.18,88.75,113.68,-5.18,0
+2026-06-17,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,74,97.53,85.92,113.29,-23.53,0
+2026-06-18,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,95,92.21,79.0,104.85,2.79,0
+2026-06-19,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,1,0,137,141.17,121.41,156.82,-4.17,0
+2026-06-20,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,1,1,106,150.28,125.79,170.8,-44.28,1
+2026-06-21,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,128,108.55,95.67,122.44,19.45,0
+2026-06-22,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,104,102.72,91.55,115.19,1.28,0
+2026-06-23,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,108,101.25,86.6,114.81,6.75,0
+2026-06-24,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,121,98.35,85.25,112.14,22.65,0
+2026-06-25,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,1,108,104.22,92.01,116.25,3.78,0
+2026-06-26,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,1,0,141,164.46,135.07,186.91,-23.46,0
+2026-06-27,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,1,110,118.6,105.4,134.26,-8.6,0
+2026-06-28,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,102,113.83,104.15,129.99,-11.83,0
+2026-06-29,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,98,101.26,90.85,114.36,-3.26,0
+2026-06-30,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,South,0,0,101,96.11,88.07,108.72,4.89,0
+2026-05-06,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,88,94.08,80.0,108.39,-6.08,0
+2026-05-07,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,1,101,97.1,86.3,107.06,3.9,0
+2026-05-08,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,108,89.7,77.45,101.45,18.3,0
+2026-05-09,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,103,102.78,91.16,115.11,0.22,0
+2026-05-10,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,115,101.24,90.24,110.28,13.76,0
+2026-05-11,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,108,98.96,85.71,108.56,9.04,0
+2026-05-12,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,91,92.13,81.16,103.21,-1.13,0
+2026-05-13,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,99,97.39,83.89,106.42,1.61,0
+2026-05-14,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,91,93.75,80.15,108.25,-2.75,0
+2026-05-15,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,97,95.99,84.58,108.14,1.01,0
+2026-05-16,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,139,107.11,96.26,118.97,31.89,0
+2026-05-17,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,122,101.16,87.45,107.95,20.84,0
+2026-05-18,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,90,92.92,81.6,110.34,-2.92,0
+2026-05-19,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,85,93.36,81.83,105.05,-8.36,0
+2026-05-20,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,104,89.61,76.53,104.91,14.39,0
+2026-05-21,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,95,88.24,76.54,104.04,6.76,0
+2026-05-22,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,95,93.9,83.23,105.94,1.1,0
+2026-05-23,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,69,107.27,96.66,115.1,-38.27,0
+2026-05-24,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,1,0,159,137.07,118.52,150.78,21.93,0
+2026-05-25,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,1,0,147,132.94,125.94,144.63,14.06,0
+2026-05-26,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,113,96.56,85.05,109.63,16.44,0
+2026-05-27,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,111,99.02,91.86,119.74,11.98,0
+2026-05-28,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,87,89.78,81.32,105.7,-2.78,0
+2026-05-29,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,91,89.22,81.1,104.96,1.78,0
+2026-05-30,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,102,98.71,90.57,113.67,3.29,0
+2026-05-31,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,107,97.68,87.3,115.43,9.32,0
+2026-06-01,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,1,0,135,141.42,127.26,157.26,-6.42,0
+2026-06-02,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,84,90.93,80.35,104.94,-6.93,0
+2026-06-03,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,107,91.35,80.59,107.13,15.65,0
+2026-06-04,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,82,88.41,77.33,102.76,-6.41,0
+2026-06-05,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,89,94.47,85.8,107.73,-5.47,0
+2026-06-06,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,98,98.31,87.55,114.32,-0.31,0
+2026-06-07,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,105,98.21,88.87,113.08,6.79,0
+2026-06-08,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,92,82.97,76.53,100.83,9.03,0
+2026-06-09,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,90,89.33,76.8,100.94,0.67,0
+2026-06-10,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,73,85.25,77.87,98.0,-12.25,0
+2026-06-11,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,113,94.44,82.54,102.99,18.56,0
+2026-06-12,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,1,103,88.07,79.03,101.61,14.93,0
+2026-06-13,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,94,103.89,92.83,115.59,-9.89,0
+2026-06-14,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,104,100.07,89.4,110.39,3.93,0
+2026-06-15,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,89,85.88,77.09,96.68,3.12,0
+2026-06-16,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,85,87.63,75.75,97.5,-2.63,0
+2026-06-17,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,105,91.14,80.69,102.71,13.86,0
+2026-06-18,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,89,93.22,79.69,102.66,-4.22,0
+2026-06-19,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,1,0,121,130.14,120.35,149.44,-9.14,0
+2026-06-20,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,107,107.23,95.13,114.84,-0.23,0
+2026-06-21,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,117,101.31,88.68,115.78,15.69,0
+2026-06-22,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,114,96.16,86.24,110.63,17.84,0
+2026-06-23,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,100,95.12,80.77,110.68,4.88,0
+2026-06-24,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,91,97.84,87.28,112.36,-6.84,0
+2026-06-25,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,99,96.0,83.64,108.76,3.0,0
+2026-06-26,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,95,96.57,86.94,110.05,-1.57,0
+2026-06-27,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,111,106.06,94.77,113.3,4.94,0
+2026-06-28,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,105,108.36,96.97,116.76,-3.36,0
+2026-06-29,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,94,92.21,79.97,108.83,1.79,0
+2026-06-30,FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,Staples,West,0,0,82,93.26,79.16,102.96,-11.26,0
+2026-05-06,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,1,1,167,213.11,177.14,234.41,-46.11,1
+2026-05-07,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,168,146.37,131.08,165.86,21.63,0
+2026-05-08,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,171,151.3,132.6,169.82,19.7,0
+2026-05-09,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,1,0,228,217.2,184.08,249.39,10.8,0
+2026-05-10,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,139,157.51,136.36,176.21,-18.51,0
+2026-05-11,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,1,166,141.19,125.87,164.51,24.81,1
+2026-05-12,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,164,143.13,125.24,166.85,20.87,0
+2026-05-13,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,141,152.27,131.81,175.31,-11.27,0
+2026-05-14,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,150,144.04,129.69,171.12,5.96,0
+2026-05-15,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,1,0,220,207.88,183.25,236.55,12.12,0
+2026-05-16,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,1,0,271,271.26,186.22,303.88,-0.26,0
+2026-05-17,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,158,158.58,144.9,179.43,-0.58,0
+2026-05-18,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,117,136.64,119.86,160.49,-19.64,0
+2026-05-19,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,149,137.64,114.58,162.49,11.36,0
+2026-05-20,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,1,0,205,231.61,184.17,264.54,-26.61,0
+2026-05-21,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,140,145.79,130.54,170.76,-5.79,0
+2026-05-22,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,143,140.95,124.09,165.49,2.05,0
+2026-05-23,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,1,161,165.71,141.03,177.51,-4.71,0
+2026-05-24,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,1,0,234,221.53,179.11,243.58,12.47,0
+2026-05-25,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,1,0,259,208.85,178.12,247.79,50.15,1
+2026-05-26,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,147,149.75,134.0,169.81,-2.75,0
+2026-05-27,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,157,149.35,131.89,165.26,7.65,0
+2026-05-28,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,1,0,258,229.36,188.68,259.36,28.64,0
+2026-05-29,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,1,0,194,239.27,188.19,270.13,-45.27,1
+2026-05-30,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,183,173.03,148.79,197.17,9.97,0
+2026-05-31,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,149,168.19,146.17,184.65,-19.19,0
+2026-06-01,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,175,150.33,136.32,172.1,24.67,0
+2026-06-02,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,1,0,282,248.61,191.17,277.04,33.39,1
+2026-06-03,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,161,150.54,144.57,178.75,10.46,0
+2026-06-04,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,156,154.13,141.05,182.17,1.87,0
+2026-06-05,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,125,149.25,138.68,171.68,-24.25,0
+2026-06-06,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,162,164.48,143.83,177.7,-2.48,0
+2026-06-07,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,1,0,232,241.35,186.09,266.43,-9.35,0
+2026-06-08,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,132,142.67,133.68,167.07,-10.67,0
+2026-06-09,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,1,180,151.71,136.05,168.41,28.29,1
+2026-06-10,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,132,145.09,135.54,161.5,-13.09,0
+2026-06-11,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,146,148.21,135.77,164.83,-2.21,0
+2026-06-12,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,1,0,263,226.72,183.37,256.96,36.28,1
+2026-06-13,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,160,160.79,150.19,188.52,-0.79,0
+2026-06-14,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,148,165.43,146.85,177.5,-17.43,0
+2026-06-15,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,131,144.33,131.75,164.81,-13.33,0
+2026-06-16,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,148,144.54,131.16,167.35,3.46,0
+2026-06-17,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,166,144.48,132.09,164.85,21.52,0
+2026-06-18,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,142,143.3,129.58,166.26,-1.3,0
+2026-06-19,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,1,176,144.0,130.31,166.5,32.0,1
+2026-06-20,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,164,160.82,145.72,175.88,3.18,0
+2026-06-21,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,163,159.81,145.61,172.84,3.19,0
+2026-06-22,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,126,155.16,135.25,177.6,-29.16,0
+2026-06-23,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,135,144.09,126.74,162.99,-9.09,0
+2026-06-24,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,154,147.15,132.1,164.13,6.85,0
+2026-06-25,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,112,140.83,127.12,161.23,-28.83,0
+2026-06-26,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,183,144.49,129.75,164.65,38.51,0
+2026-06-27,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,179,159.43,144.29,175.46,19.57,0
+2026-06-28,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,161,155.38,139.87,174.38,5.62,0
+2026-06-29,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,0,0,147,140.39,128.54,163.0,6.61,0
+2026-06-30,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,East,1,0,229,216.91,182.36,243.04,12.09,0
+2026-05-06,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,207,164.6,145.59,180.34,42.4,1
+2026-05-07,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,154,161.28,143.68,175.78,-7.28,0
+2026-05-08,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,141,167.05,147.61,177.67,-26.05,0
+2026-05-09,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,203,173.82,154.27,187.52,29.18,0
+2026-05-10,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,1,0,299,261.03,186.6,279.78,37.97,0
+2026-05-11,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,175,169.95,152.64,185.7,5.05,0
+2026-05-12,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,158,172.46,153.88,189.51,-14.46,0
+2026-05-13,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,186,165.36,149.56,181.79,20.64,0
+2026-05-14,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,177,170.75,149.47,184.38,6.25,0
+2026-05-15,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,156,173.69,153.22,188.72,-17.69,0
+2026-05-16,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,168,182.65,156.23,200.51,-14.65,0
+2026-05-17,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,183,180.89,155.53,201.65,2.11,0
+2026-05-18,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,199,162.4,146.76,183.3,36.6,0
+2026-05-19,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,166,163.86,145.42,179.53,2.14,0
+2026-05-20,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,176,163.04,145.97,183.85,12.96,0
+2026-05-21,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,170,162.3,144.21,179.43,7.7,0
+2026-05-22,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,1,0,238,249.04,186.52,264.73,-11.04,0
+2026-05-23,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,185,187.63,159.81,220.27,-2.63,0
+2026-05-24,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,187,199.42,169.77,214.01,-12.42,0
+2026-05-25,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,162,161.5,144.19,178.79,0.5,0
+2026-05-26,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,1,0,226,216.7,180.41,241.31,9.3,0
+2026-05-27,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,204,176.35,148.46,183.48,27.65,0
+2026-05-28,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,159,162.09,147.28,178.59,-3.09,0
+2026-05-29,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,162,168.88,150.65,183.9,-6.88,0
+2026-05-30,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,201,186.92,156.17,198.43,14.08,0
+2026-05-31,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,164,178.71,153.41,195.61,-14.71,0
+2026-06-01,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,1,0,279,242.32,188.87,271.12,36.68,1
+2026-06-02,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,159,157.77,147.47,179.16,1.23,0
+2026-06-03,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,183,158.55,145.74,178.37,24.45,0
+2026-06-04,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,179,174.04,147.28,183.63,4.96,0
+2026-06-05,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,1,0,251,262.46,190.83,286.81,-11.46,0
+2026-06-06,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,216,186.49,159.71,206.81,29.51,0
+2026-06-07,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,209,191.59,161.46,219.95,17.41,0
+2026-06-08,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,177,160.97,149.1,183.76,16.03,0
+2026-06-09,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,1,0,211,229.73,179.55,253.74,-18.73,0
+2026-06-10,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,157,157.93,148.85,175.19,-0.93,0
+2026-06-11,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,1,0,259,248.04,189.28,279.69,10.96,1
+2026-06-12,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,182,164.04,153.09,183.8,17.96,0
+2026-06-13,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,153,190.17,162.56,213.99,-37.17,0
+2026-06-14,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,1,0,277,256.29,189.18,284.37,20.71,0
+2026-06-15,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,125,166.59,154.77,187.8,-41.59,1
+2026-06-16,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,157,159.92,145.79,179.86,-2.92,0
+2026-06-17,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,1,0,225,212.57,186.29,241.35,12.43,0
+2026-06-18,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,145,157.68,147.67,178.83,-12.68,0
+2026-06-19,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,157,160.79,149.36,186.19,-3.79,0
+2026-06-20,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,172,173.47,159.49,194.91,-1.47,0
+2026-06-21,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,1,0,276,259.79,188.8,280.92,16.21,0
+2026-06-22,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,149,156.12,147.75,172.14,-7.12,0
+2026-06-23,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,183,179.53,151.69,190.34,3.47,0
+2026-06-24,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,163,160.77,149.61,176.76,2.23,0
+2026-06-25,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,162,168.83,166.58,182.25,-6.83,0
+2026-06-26,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,170,162.14,150.07,179.5,7.86,0
+2026-06-27,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,1,0,264,275.82,189.14,297.5,-11.82,0
+2026-06-28,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,163,180.17,154.77,202.69,-17.17,0
+2026-06-29,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,0,0,166,170.33,148.5,189.81,-4.33,0
+2026-06-30,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,North,1,0,240,237.95,188.34,266.86,2.05,1
+2026-05-06,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,203,180.29,153.8,202.96,22.71,0
+2026-05-07,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,175,165.93,147.0,186.12,9.07,0
+2026-05-08,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,188,176.78,150.94,202.9,11.22,0
+2026-05-09,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,1,0,304,290.13,192.02,311.97,13.87,0
+2026-05-10,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,1,0,308,296.33,192.93,321.85,11.67,0
+2026-05-11,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,189,177.95,154.77,205.66,11.05,0
+2026-05-12,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,178,175.13,154.35,207.98,2.87,0
+2026-05-13,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,1,0,259,267.22,190.73,293.04,-8.22,0
+2026-05-14,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,1,1,210,249.07,184.09,270.22,-39.07,1
+2026-05-15,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,160,174.06,153.49,193.42,-14.06,0
+2026-05-16,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,1,0,361,261.49,192.19,289.68,99.51,1
+2026-05-17,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,222,195.76,160.26,229.33,26.24,0
+2026-05-18,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,170,174.04,153.44,203.6,-4.04,0
+2026-05-19,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,181,169.19,148.12,187.02,11.81,0
+2026-05-20,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,1,0,282,260.36,189.6,278.35,21.64,0
+2026-05-21,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,170,171.24,150.23,203.54,-1.24,0
+2026-05-22,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,172,181.61,156.18,207.87,-9.61,0
+2026-05-23,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,200,195.77,160.52,217.55,4.23,0
+2026-05-24,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,193,206.48,166.27,225.01,-13.48,0
+2026-05-25,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,196,173.6,153.37,197.77,22.4,0
+2026-05-26,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,197,177.9,153.01,204.69,19.1,0
+2026-05-27,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,183,177.72,152.72,199.99,5.28,0
+2026-05-28,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,151,177.23,155.08,188.45,-26.23,0
+2026-05-29,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,170,177.32,154.31,190.87,-7.32,0
+2026-05-30,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,219,196.15,161.56,218.85,22.85,0
+2026-05-31,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,191,189.39,159.19,205.67,1.61,0
+2026-06-01,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,159,165.27,152.49,184.78,-6.27,0
+2026-06-02,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,173,165.88,151.01,182.38,7.12,0
+2026-06-03,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,179,166.68,150.83,188.55,12.32,0
+2026-06-04,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,171,167.59,150.34,180.8,3.41,0
+2026-06-05,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,178,168.18,151.38,183.68,9.82,0
+2026-06-06,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,206,189.64,158.24,217.92,16.36,0
+2026-06-07,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,1,0,255,288.97,191.69,313.91,-33.97,1
+2026-06-08,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,178,178.4,154.33,198.86,-0.4,0
+2026-06-09,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,179,171.37,153.21,197.97,7.63,0
+2026-06-10,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,187,170.22,151.7,194.02,16.78,0
+2026-06-11,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,159,171.66,147.75,195.38,-12.66,0
+2026-06-12,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,149,166.25,152.74,184.44,-17.25,0
+2026-06-13,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,218,194.29,165.04,211.22,23.71,0
+2026-06-14,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,194,189.53,157.46,211.57,4.47,0
+2026-06-15,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,1,188,161.4,146.79,177.44,26.6,1
+2026-06-16,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,184,162.1,145.65,180.98,21.9,0
+2026-06-17,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,158,170.24,152.85,197.99,-12.24,0
+2026-06-18,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,173,161.5,142.93,181.46,11.5,0
+2026-06-19,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,198,164.93,145.32,187.9,33.07,0
+2026-06-20,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,217,183.25,154.82,206.48,33.75,0
+2026-06-21,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,161,187.05,154.85,217.21,-26.05,0
+2026-06-22,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,164,160.82,148.93,185.12,3.18,0
+2026-06-23,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,155,167.47,157.01,178.73,-12.47,0
+2026-06-24,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,1,0,250,244.57,184.52,270.11,5.43,0
+2026-06-25,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,153,161.42,143.4,181.24,-8.42,0
+2026-06-26,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,177,155.32,142.3,171.21,21.68,0
+2026-06-27,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,203,179.88,157.46,203.49,23.12,0
+2026-06-28,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,197,182.13,159.53,193.33,14.87,0
+2026-06-29,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,179,159.02,145.35,182.42,19.98,0
+2026-06-30,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,South,0,0,175,155.24,143.19,179.41,19.76,0
+2026-05-06,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,1,0,211,228.95,180.56,248.45,-17.95,0
+2026-05-07,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,133,156.95,137.97,177.39,-23.95,0
+2026-05-08,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,156,156.77,137.34,171.79,-0.77,0
+2026-05-09,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,192,178.81,149.31,187.88,13.19,0
+2026-05-10,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,185,171.43,151.28,184.92,13.57,0
+2026-05-11,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,168,163.45,142.6,178.89,4.55,0
+2026-05-12,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,189,162.27,142.53,182.98,26.73,0
+2026-05-13,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,165,167.61,144.95,186.29,-2.61,0
+2026-05-14,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,194,167.4,141.33,181.56,26.6,0
+2026-05-15,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,117,161.6,143.67,180.28,-44.6,1
+2026-05-16,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,174,165.92,139.37,176.33,8.08,0
+2026-05-17,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,179,175.39,148.97,189.83,3.61,0
+2026-05-18,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,196,154.71,133.87,173.03,41.29,0
+2026-05-19,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,192,153.34,135.63,174.06,38.66,0
+2026-05-20,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,181,160.98,137.38,180.01,20.02,0
+2026-05-21,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,1,174,154.94,136.31,173.26,19.06,0
+2026-05-22,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,157,150.09,133.47,164.82,6.91,0
+2026-05-23,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,162,172.85,149.31,184.3,-10.85,0
+2026-05-24,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,147,177.05,150.58,191.55,-30.05,0
+2026-05-25,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,157,152.35,131.83,169.99,4.65,0
+2026-05-26,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,132,155.12,132.88,173.9,-23.12,0
+2026-05-27,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,179,145.06,129.72,164.84,33.94,0
+2026-05-28,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,149,149.9,130.42,164.91,-0.9,0
+2026-05-29,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,140,157.38,135.53,174.27,-17.38,0
+2026-05-30,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,185,159.16,140.2,173.16,25.84,0
+2026-05-31,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,148,167.81,143.58,179.69,-19.81,0
+2026-06-01,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,177,149.45,131.57,167.98,27.55,0
+2026-06-02,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,186,154.03,131.7,171.59,31.97,0
+2026-06-03,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,207,157.85,134.15,181.72,49.15,1
+2026-06-04,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,170,145.37,125.92,160.87,24.63,0
+2026-06-05,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,139,152.26,132.92,172.33,-13.26,0
+2026-06-06,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,156,159.75,137.49,176.74,-3.75,0
+2026-06-07,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,178,166.14,141.16,177.24,11.86,0
+2026-06-08,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,1,0,237,213.0,182.52,251.71,24.0,0
+2026-06-09,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,166,145.09,131.5,165.7,20.91,0
+2026-06-10,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,1,169,148.08,134.23,171.24,20.92,1
+2026-06-11,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,166,140.44,123.65,162.76,25.56,0
+2026-06-12,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,151,149.91,132.0,170.51,1.09,0
+2026-06-13,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,1,0,210,221.78,178.25,254.82,-11.78,0
+2026-06-14,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,152,171.8,149.31,191.06,-19.8,0
+2026-06-15,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,171,146.31,134.87,168.34,24.69,0
+2026-06-16,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,180,149.47,131.84,173.54,30.53,0
+2026-06-17,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,163,151.96,132.25,174.74,11.04,0
+2026-06-18,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,144,146.56,126.76,165.13,-2.56,0
+2026-06-19,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,145,147.94,130.15,168.42,-2.94,0
+2026-06-20,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,163,158.67,143.4,176.61,4.33,0
+2026-06-21,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,163,157.88,142.86,177.44,5.12,0
+2026-06-22,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,153,150.14,131.93,170.83,2.86,0
+2026-06-23,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,1,0,249,228.52,187.85,266.31,20.48,0
+2026-06-24,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,152,155.07,134.07,178.43,-3.07,0
+2026-06-25,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,121,149.53,130.23,171.42,-28.53,0
+2026-06-26,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,141,144.09,129.29,165.38,-3.09,0
+2026-06-27,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,163,165.54,143.68,178.81,-2.54,0
+2026-06-28,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,1,0,306,225.53,185.46,256.84,80.47,1
+2026-06-29,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,140,148.52,133.62,169.68,-8.52,0
+2026-06-30,FOOD-BISC-300G,Premium Biscuits 300 g,Foods,West,0,0,170,146.91,136.83,168.3,23.09,0
+2026-05-06,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,139,134.36,116.52,150.77,4.64,0
+2026-05-07,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,132,130.26,114.6,148.68,1.74,0
+2026-05-08,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,124,134.85,116.82,150.39,-10.85,0
+2026-05-09,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,1,0,196,182.79,148.92,203.66,13.21,0
+2026-05-10,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,181,137.7,124.22,158.41,43.3,1
+2026-05-11,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,166,135.39,120.32,149.63,30.61,0
+2026-05-12,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,129,139.75,120.11,156.5,-10.75,0
+2026-05-13,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,130,133.18,118.6,149.98,-3.18,0
+2026-05-14,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,123,134.04,116.35,149.42,-11.04,0
+2026-05-15,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,128,124.14,112.08,143.14,3.86,0
+2026-05-16,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,1,0,218,194.98,166.94,219.12,23.02,0
+2026-05-17,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,1,146,145.22,127.15,165.97,0.78,0
+2026-05-18,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,1,146,130.15,117.38,148.04,15.85,0
+2026-05-19,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,1,0,189,189.22,163.56,201.79,-0.22,0
+2026-05-20,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,128,127.72,113.92,148.11,0.28,0
+2026-05-21,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,126,140.51,118.69,155.48,-14.51,0
+2026-05-22,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,148,137.33,119.77,153.91,10.67,0
+2026-05-23,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,1,145,138.65,125.38,163.29,6.35,0
+2026-05-24,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,140,152.26,132.46,172.0,-12.26,0
+2026-05-25,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,126,127.59,116.76,146.51,-1.59,0
+2026-05-26,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,135,127.54,119.86,144.74,7.46,0
+2026-05-27,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,116,122.33,109.37,139.13,-6.33,0
+2026-05-28,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,103,127.29,111.99,143.07,-24.29,0
+2026-05-29,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,138,123.21,113.37,137.94,14.79,0
+2026-05-30,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,1,0,187,179.31,152.88,208.08,7.69,0
+2026-05-31,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,165,135.92,119.82,159.44,29.08,0
+2026-06-01,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,114,120.27,106.94,137.11,-6.27,0
+2026-06-02,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,112,122.15,108.48,142.86,-10.15,0
+2026-06-03,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,162,127.67,109.85,144.17,34.33,0
+2026-06-04,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,139,124.98,112.67,146.14,14.02,0
+2026-06-05,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,140,133.02,120.03,148.46,6.98,0
+2026-06-06,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,120,142.52,128.83,159.62,-22.52,0
+2026-06-07,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,152,146.41,127.48,164.71,5.59,0
+2026-06-08,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,105,123.02,105.09,143.0,-18.02,0
+2026-06-09,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,104,128.5,108.84,144.7,-24.5,0
+2026-06-10,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,111,122.91,110.5,141.42,-11.91,0
+2026-06-11,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,133,127.84,110.22,141.21,5.16,0
+2026-06-12,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,113,122.72,107.32,138.59,-9.72,0
+2026-06-13,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,167,141.11,122.33,151.05,25.89,0
+2026-06-14,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,128,131.76,113.53,145.0,-3.76,0
+2026-06-15,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,1,0,188,182.18,162.96,195.93,5.82,0
+2026-06-16,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,1,0,184,172.89,164.98,186.06,11.11,0
+2026-06-17,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,149,131.44,114.64,146.95,17.56,0
+2026-06-18,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,128,128.93,114.37,146.95,-0.93,0
+2026-06-19,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,131,119.15,107.98,139.7,11.85,0
+2026-06-20,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,156,148.83,125.11,166.72,7.17,0
+2026-06-21,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,131,141.77,124.21,159.8,-10.77,0
+2026-06-22,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,1,0,190,173.67,156.69,186.04,16.33,0
+2026-06-23,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,128,119.89,109.35,144.33,8.11,0
+2026-06-24,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,124,124.46,110.33,140.19,-0.46,0
+2026-06-25,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,115,127.35,112.54,141.8,-12.35,0
+2026-06-26,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,109,127.12,108.62,141.84,-18.12,0
+2026-06-27,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,1,0,188,184.36,164.85,203.37,3.64,0
+2026-06-28,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,1,0,227,219.21,169.54,237.25,7.79,0
+2026-06-29,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,112,125.61,118.56,147.54,-13.61,0
+2026-06-30,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,East,0,0,115,120.85,106.79,135.82,-5.85,0
+2026-05-06,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,143,148.24,130.4,169.54,-5.24,0
+2026-05-07,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,157,136.35,125.42,159.99,20.65,0
+2026-05-08,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,147,152.27,131.53,173.87,-5.27,0
+2026-05-09,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,1,0,177,205.46,167.49,228.0,-28.46,0
+2026-05-10,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,156,153.99,138.02,170.79,2.01,0
+2026-05-11,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,160,135.76,125.86,165.48,24.24,0
+2026-05-12,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,138,143.38,131.46,169.18,-5.38,0
+2026-05-13,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,179,143.41,130.1,165.84,35.59,0
+2026-05-14,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,1,0,213,228.53,178.02,266.64,-15.53,0
+2026-05-15,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,1,0,174,232.06,174.73,268.22,-58.06,1
+2026-05-16,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,163,165.77,142.4,184.65,-2.77,0
+2026-05-17,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,155,155.17,137.63,175.82,-0.17,0
+2026-05-18,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,151,149.54,131.49,172.13,1.46,0
+2026-05-19,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,129,136.14,122.18,160.75,-7.14,0
+2026-05-20,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,143,134.09,125.46,159.38,8.91,0
+2026-05-21,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,133,143.11,127.03,166.24,-10.11,0
+2026-05-22,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,135,131.56,123.81,158.06,3.44,0
+2026-05-23,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,1,0,239,234.33,177.17,262.42,4.67,0
+2026-05-24,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,170,162.22,142.4,176.15,7.78,0
+2026-05-25,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,156,134.67,120.97,157.74,21.33,0
+2026-05-26,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,1,162,151.08,129.2,172.88,10.92,0
+2026-05-27,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,145,142.4,127.97,166.31,2.6,0
+2026-05-28,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,1,0,195,206.76,180.29,231.23,-11.76,0
+2026-05-29,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,140,150.45,127.69,173.46,-10.45,0
+2026-05-30,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,152,166.24,142.22,181.24,-14.24,0
+2026-05-31,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,1,0,206,199.85,166.08,226.23,6.15,0
+2026-06-01,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,161,134.6,127.59,159.18,26.4,0
+2026-06-02,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,163,133.65,124.91,161.54,29.35,0
+2026-06-03,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,155,136.97,122.01,163.83,18.03,0
+2026-06-04,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,140,139.43,123.81,170.74,0.57,0
+2026-06-05,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,138,141.97,125.61,168.14,-3.97,0
+2026-06-06,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,178,156.49,139.51,174.3,21.51,0
+2026-06-07,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,162,163.78,142.72,186.18,-1.78,0
+2026-06-08,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,133,147.93,130.79,170.44,-14.93,0
+2026-06-09,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,163,134.5,123.87,162.24,28.5,0
+2026-06-10,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,1,162,134.68,125.94,164.87,27.32,1
+2026-06-11,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,147,142.9,128.51,171.03,4.1,0
+2026-06-12,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,1,0,238,225.31,177.51,257.13,12.69,0
+2026-06-13,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,148,163.0,140.73,192.96,-15.0,0
+2026-06-14,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,172,158.67,139.13,177.49,13.33,0
+2026-06-15,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,183,150.56,127.54,178.65,32.44,0
+2026-06-16,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,133,142.04,127.34,168.35,-9.04,0
+2026-06-17,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,144,132.28,123.15,160.89,11.72,0
+2026-06-18,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,152,148.69,127.52,174.0,3.31,0
+2026-06-19,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,1,0,244,223.31,176.0,261.0,20.69,0
+2026-06-20,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,149,170.81,144.86,198.48,-21.81,0
+2026-06-21,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,171,165.49,145.54,181.98,5.51,0
+2026-06-22,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,1,0,179,188.47,155.96,222.37,-9.47,0
+2026-06-23,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,158,146.89,130.57,170.88,11.11,0
+2026-06-24,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,140,147.9,130.85,169.27,-7.9,0
+2026-06-25,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,146,146.23,128.38,167.99,-0.23,0
+2026-06-26,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,145,139.11,125.95,164.92,5.89,0
+2026-06-27,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,162,169.96,141.51,188.79,-7.96,0
+2026-06-28,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,1,0,233,241.84,180.99,278.39,-8.84,0
+2026-06-29,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,132,146.25,132.04,177.21,-14.25,0
+2026-06-30,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,North,0,0,111,140.15,125.05,167.31,-29.15,0
+2026-05-06,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,153,159.44,133.39,172.18,-6.44,0
+2026-05-07,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,1,0,247,244.95,179.07,270.65,2.05,0
+2026-05-08,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,1,173,156.54,131.43,176.33,16.46,0
+2026-05-09,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,184,179.33,150.38,199.46,4.67,0
+2026-05-10,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,209,169.19,146.23,189.97,39.81,0
+2026-05-11,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,159,158.03,136.87,174.44,0.97,0
+2026-05-12,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,138,147.85,130.93,166.45,-9.85,0
+2026-05-13,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,1,0,206,220.4,177.34,241.03,-14.4,0
+2026-05-14,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,148,153.24,134.87,176.29,-5.24,0
+2026-05-15,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,1,0,220,221.27,174.94,240.2,-1.27,0
+2026-05-16,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,166,178.47,149.57,201.82,-12.47,0
+2026-05-17,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,214,175.58,150.77,186.82,38.42,0
+2026-05-18,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,1,0,242,236.28,179.47,255.47,5.72,0
+2026-05-19,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,1,0,215,238.93,177.26,259.15,-23.93,0
+2026-05-20,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,143,157.93,141.13,176.93,-14.93,0
+2026-05-21,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,153,166.58,145.42,180.01,-13.58,0
+2026-05-22,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,164,163.25,143.66,179.45,0.75,0
+2026-05-23,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,1,0,248,264.0,184.66,289.69,-16.0,0
+2026-05-24,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,1,0,303,283.06,183.49,299.01,19.94,0
+2026-05-25,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,155,154.03,141.17,178.36,0.97,0
+2026-05-26,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,137,151.17,132.22,170.37,-14.17,0
+2026-05-27,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,135,155.86,136.99,174.21,-20.86,0
+2026-05-28,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,188,159.95,141.24,176.96,28.05,0
+2026-05-29,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,142,162.25,145.07,185.7,-20.25,0
+2026-05-30,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,165,179.86,152.13,190.53,-14.86,0
+2026-05-31,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,1,0,259,254.66,179.7,280.98,4.34,0
+2026-06-01,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,156,167.13,142.6,186.96,-11.13,0
+2026-06-02,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,164,150.59,133.5,170.75,13.41,0
+2026-06-03,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,1,0,235,226.44,175.84,246.68,8.56,0
+2026-06-04,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,145,153.52,140.52,173.73,-8.52,0
+2026-06-05,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,162,157.43,141.54,173.58,4.57,0
+2026-06-06,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,190,180.97,152.4,202.29,9.03,0
+2026-06-07,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,152,186.76,153.73,209.38,-34.76,0
+2026-06-08,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,1,182,156.79,137.94,174.53,25.21,1
+2026-06-09,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,137,162.2,136.66,181.4,-25.2,0
+2026-06-10,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,194,150.67,131.18,172.21,43.33,1
+2026-06-11,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,163,154.67,137.01,172.12,8.33,0
+2026-06-12,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,136,157.18,137.55,175.03,-21.18,0
+2026-06-13,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,206,167.84,147.06,181.39,38.16,0
+2026-06-14,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,187,185.35,149.67,202.83,1.65,0
+2026-06-15,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,148,155.73,138.16,178.71,-7.73,0
+2026-06-16,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,142,150.13,133.96,170.79,-8.13,0
+2026-06-17,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,129,150.12,132.37,171.3,-21.12,0
+2026-06-18,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,1,0,200,214.66,159.69,227.93,-14.66,0
+2026-06-19,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,175,149.99,134.31,172.95,25.01,0
+2026-06-20,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,170,167.5,145.54,190.62,2.5,0
+2026-06-21,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,153,174.39,145.77,194.81,-21.39,0
+2026-06-22,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,181,151.51,131.07,174.74,29.49,0
+2026-06-23,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,165,149.45,127.08,173.02,15.55,0
+2026-06-24,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,137,146.82,126.36,166.72,-9.82,0
+2026-06-25,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,161,158.58,132.91,173.65,2.42,0
+2026-06-26,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,1,169,155.53,131.42,177.05,13.47,0
+2026-06-27,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,154,161.67,138.2,182.45,-7.67,0
+2026-06-28,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,145,179.73,152.44,192.34,-34.73,0
+2026-06-29,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,165,146.13,130.23,169.01,18.87,0
+2026-06-30,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,South,0,0,156,141.59,125.22,163.75,14.41,0
+2026-05-06,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,146,141.2,125.34,164.7,4.8,0
+2026-05-07,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,126,137.64,116.08,164.16,-11.64,0
+2026-05-08,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,1,0,232,195.08,161.87,214.25,36.92,0
+2026-05-09,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,145,154.82,137.53,184.98,-9.82,0
+2026-05-10,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,146,168.49,144.32,187.4,-22.49,0
+2026-05-11,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,167,148.55,125.38,172.78,18.45,0
+2026-05-12,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,128,131.86,116.52,155.26,-3.86,0
+2026-05-13,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,135,134.58,122.84,160.53,0.42,0
+2026-05-14,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,151,146.36,125.77,162.8,4.64,0
+2026-05-15,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,134,144.6,124.7,168.79,-10.6,0
+2026-05-16,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,142,147.72,132.07,166.3,-5.72,0
+2026-05-17,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,153,150.87,135.19,167.68,2.13,0
+2026-05-18,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,130,145.11,128.68,165.16,-15.11,0
+2026-05-19,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,144,144.5,127.43,161.89,-0.5,0
+2026-05-20,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,141,129.26,118.13,147.57,11.74,0
+2026-05-21,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,1,157,132.47,118.52,150.69,24.53,1
+2026-05-22,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,149,140.03,125.15,159.85,8.97,0
+2026-05-23,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,157,151.84,135.43,171.51,5.16,0
+2026-05-24,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,1,0,225,239.08,171.81,263.21,-14.08,0
+2026-05-25,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,130,138.19,122.73,165.59,-8.19,0
+2026-05-26,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,1,0,202,202.57,176.38,234.47,-0.57,0
+2026-05-27,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,130,140.45,123.62,166.03,-10.45,0
+2026-05-28,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,138,144.98,126.15,166.13,-6.98,0
+2026-05-29,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,137,143.08,137.57,164.98,-6.08,0
+2026-05-30,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,186,159.09,135.92,173.26,26.91,0
+2026-05-31,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,165,152.27,136.24,173.65,12.73,0
+2026-06-01,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,138,130.11,118.44,158.65,7.89,0
+2026-06-02,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,130,131.34,119.63,159.58,-1.34,0
+2026-06-03,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,150,133.72,119.03,157.21,16.28,0
+2026-06-04,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,142,142.07,125.82,159.99,-0.07,0
+2026-06-05,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,1,0,204,210.6,175.28,234.19,-6.6,0
+2026-06-06,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,148,148.88,132.61,178.26,-0.88,0
+2026-06-07,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,164,140.49,133.46,163.66,23.51,0
+2026-06-08,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,136,132.53,118.72,157.09,3.47,0
+2026-06-09,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,140,133.99,130.51,157.99,6.01,0
+2026-06-10,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,158,135.52,130.37,158.03,22.48,0
+2026-06-11,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,139,129.1,115.22,154.42,9.9,0
+2026-06-12,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,1,0,194,217.73,174.58,245.37,-23.73,0
+2026-06-13,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,1,0,228,220.18,177.75,256.15,7.82,0
+2026-06-14,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,149,162.2,140.73,188.35,-13.2,0
+2026-06-15,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,131,129.42,117.34,155.26,1.58,0
+2026-06-16,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,133,128.75,112.16,154.67,4.25,0
+2026-06-17,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,162,141.24,125.63,165.58,20.76,0
+2026-06-18,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,138,141.18,124.67,166.19,-3.18,0
+2026-06-19,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,105,133.77,123.51,163.26,-28.77,0
+2026-06-20,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,157,150.05,135.08,164.37,6.95,0
+2026-06-21,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,155,155.02,135.7,175.92,-0.02,0
+2026-06-22,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,141,143.76,123.33,162.05,-2.76,0
+2026-06-23,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,161,138.97,122.33,157.91,22.03,0
+2026-06-24,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,117,140.07,125.37,157.61,-23.07,0
+2026-06-25,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,145,130.29,112.51,151.05,14.71,0
+2026-06-26,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,141,134.72,117.84,153.53,6.28,0
+2026-06-27,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,1,0,238,202.72,161.8,228.67,35.28,0
+2026-06-28,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,150,146.35,129.82,167.27,3.65,0
+2026-06-29,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,0,0,136,136.79,119.24,160.44,-0.79,0
+2026-06-30,FOOD-NOOD-280G,Instant Noodles 280 g,Foods,West,1,0,230,198.05,172.59,227.72,31.95,0
+2026-05-06,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,69,77.14,71.46,93.89,-8.14,0
+2026-05-07,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,86,80.61,76.08,96.28,5.39,0
+2026-05-08,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,74,77.94,69.86,93.17,-3.94,0
+2026-05-09,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,109,79.21,71.7,96.59,29.79,0
+2026-05-10,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,94,86.53,77.6,100.71,7.47,0
+2026-05-11,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,74,79.99,72.23,96.02,-5.99,0
+2026-05-12,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,1,0,114,123.31,102.85,137.35,-9.31,0
+2026-05-13,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,77,77.0,67.6,91.74,0.0,0
+2026-05-14,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,67,74.87,66.55,91.5,-7.87,0
+2026-05-15,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,69,72.91,63.48,88.13,-3.91,0
+2026-05-16,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,90,83.45,76.1,96.53,6.55,0
+2026-05-17,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,1,0,133,130.9,105.18,139.12,2.1,0
+2026-05-18,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,77,76.82,67.56,94.24,0.18,0
+2026-05-19,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,80,79.14,75.31,95.57,0.86,0
+2026-05-20,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,78,74.39,68.5,92.01,3.61,0
+2026-05-21,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,76,72.89,65.86,91.65,3.11,0
+2026-05-22,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,78,72.69,65.24,88.26,5.31,0
+2026-05-23,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,77,81.95,75.51,99.08,-4.95,0
+2026-05-24,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,88,80.87,72.19,96.02,7.13,0
+2026-05-25,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,82,78.81,69.04,88.79,3.19,0
+2026-05-26,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,1,0,107,120.31,104.16,136.86,-13.31,0
+2026-05-27,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,1,87,77.89,72.63,92.18,9.11,0
+2026-05-28,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,1,0,113,112.31,95.37,128.69,0.69,0
+2026-05-29,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,81,77.61,69.81,93.09,3.39,0
+2026-05-30,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,80,84.41,74.6,102.59,-4.41,0
+2026-05-31,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,80,87.49,75.29,100.7,-7.49,0
+2026-06-01,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,77,74.38,67.02,92.63,2.62,0
+2026-06-02,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,78,80.91,76.56,95.47,-2.91,0
+2026-06-03,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,75,77.04,72.66,92.74,-2.04,0
+2026-06-04,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,81,74.99,68.61,88.8,6.01,0
+2026-06-05,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,1,0,106,108.52,92.69,125.49,-2.52,0
+2026-06-06,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,90,84.77,79.48,96.6,5.23,0
+2026-06-07,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,83,84.1,77.03,96.99,-1.1,0
+2026-06-08,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,63,76.72,70.53,91.43,-13.72,0
+2026-06-09,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,81,76.56,72.15,87.03,4.44,0
+2026-06-10,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,77,76.51,72.54,89.74,0.49,0
+2026-06-11,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,74,75.63,71.66,89.63,-1.63,0
+2026-06-12,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,1,1,84,119.19,102.95,133.83,-35.19,1
+2026-06-13,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,86,80.0,74.42,94.04,6.0,0
+2026-06-14,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,87,84.29,75.42,97.42,2.71,0
+2026-06-15,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,71,71.52,63.87,86.52,-0.52,0
+2026-06-16,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,68,70.78,68.33,86.2,-2.78,0
+2026-06-17,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,105,75.81,71.42,85.14,29.19,0
+2026-06-18,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,66,75.89,68.57,88.7,-9.89,0
+2026-06-19,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,1,0,128,114.39,102.48,131.79,13.61,0
+2026-06-20,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,1,85,86.56,80.78,101.96,-1.56,0
+2026-06-21,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,80,78.78,72.03,94.82,1.22,0
+2026-06-22,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,87,75.57,69.91,89.34,11.43,0
+2026-06-23,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,80,77.63,68.53,89.72,2.37,0
+2026-06-24,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,78,72.5,64.31,90.27,5.5,0
+2026-06-25,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,77,76.36,66.39,88.55,0.64,0
+2026-06-26,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,81,73.89,69.15,89.6,7.11,0
+2026-06-27,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,78,81.99,76.39,93.47,-3.99,0
+2026-06-28,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,78,75.87,68.89,92.97,2.13,0
+2026-06-29,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,88,77.09,70.6,89.42,10.91,0
+2026-06-30,HOME-INC-100,Incense Sticks 100 pack,Home Care,East,0,0,71,71.61,67.06,87.65,-0.61,0
+2026-05-06,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,90,90.63,81.53,103.71,-0.63,0
+2026-05-07,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,88,90.41,81.32,103.44,-2.41,0
+2026-05-08,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,85,89.08,79.33,104.1,-4.08,0
+2026-05-09,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,89,88.57,81.29,102.73,0.43,0
+2026-05-10,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,97,89.5,81.53,106.39,7.5,0
+2026-05-11,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,88,86.49,73.48,99.69,1.51,0
+2026-05-12,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,1,97,80.77,71.41,94.08,16.23,0
+2026-05-13,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,83,85.87,74.46,99.67,-2.87,0
+2026-05-14,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,99,87.31,76.9,99.86,11.69,0
+2026-05-15,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,82,89.98,79.63,100.72,-7.98,0
+2026-05-16,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,1,0,164,153.17,114.29,171.91,10.83,0
+2026-05-17,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,87,91.87,86.4,105.44,-4.87,0
+2026-05-18,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,79,81.43,73.44,95.88,-2.43,0
+2026-05-19,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,96,89.59,81.5,99.4,6.41,0
+2026-05-20,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,1,0,137,133.98,119.52,145.75,3.02,0
+2026-05-21,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,90,91.88,81.91,105.9,-1.88,0
+2026-05-22,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,120,93.75,82.04,104.02,26.25,0
+2026-05-23,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,101,98.33,88.23,115.37,2.67,0
+2026-05-24,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,1,0,138,145.94,121.33,166.95,-7.94,0
+2026-05-25,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,83,90.12,78.87,106.72,-7.12,0
+2026-05-26,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,70,88.88,81.83,104.14,-18.88,0
+2026-05-27,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,100,95.17,82.33,108.27,4.83,0
+2026-05-28,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,96,87.1,77.04,99.51,8.9,0
+2026-05-29,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,79,88.27,78.75,101.51,-9.27,0
+2026-05-30,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,77,92.95,85.13,104.34,-15.95,0
+2026-05-31,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,1,0,150,143.73,112.79,158.21,6.27,1
+2026-06-01,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,82,88.78,77.31,101.13,-6.78,0
+2026-06-02,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,73,80.89,71.71,95.98,-7.89,0
+2026-06-03,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,95,83.04,77.55,94.66,11.96,0
+2026-06-04,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,1,0,125,128.13,112.11,146.72,-3.13,0
+2026-06-05,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,84,85.47,75.92,99.25,-1.47,0
+2026-06-06,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,84,87.58,77.38,102.23,-3.58,0
+2026-06-07,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,107,90.93,81.7,105.49,16.07,0
+2026-06-08,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,1,0,118,125.76,109.78,144.19,-7.76,0
+2026-06-09,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,1,100,80.95,74.02,94.7,19.05,0
+2026-06-10,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,94,86.52,77.56,98.58,7.48,0
+2026-06-11,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,92,87.58,79.44,99.67,4.42,0
+2026-06-12,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,1,0,115,123.58,113.87,144.84,-8.58,0
+2026-06-13,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,95,104.28,90.12,115.59,-9.28,0
+2026-06-14,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,100,97.52,87.15,109.15,2.48,0
+2026-06-15,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,79,85.59,77.86,99.14,-6.59,0
+2026-06-16,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,95,87.13,77.7,98.27,7.87,0
+2026-06-17,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,63,88.03,79.01,100.51,-25.03,0
+2026-06-18,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,96,83.69,75.76,94.57,12.31,0
+2026-06-19,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,80,84.41,73.83,97.93,-4.41,0
+2026-06-20,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,95,85.38,74.2,98.42,9.62,0
+2026-06-21,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,75,90.6,78.59,102.52,-15.6,0
+2026-06-22,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,1,0,118,123.21,106.07,132.34,-5.21,0
+2026-06-23,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,76,80.52,70.66,93.83,-4.52,0
+2026-06-24,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,92,79.98,75.56,94.03,12.02,0
+2026-06-25,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,83,85.26,76.61,98.09,-2.26,0
+2026-06-26,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,96,79.19,70.64,92.86,16.81,0
+2026-06-27,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,91,89.59,79.12,99.97,1.41,0
+2026-06-28,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,98,91.33,79.29,106.59,6.67,0
+2026-06-29,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,99,87.8,80.11,99.39,11.2,0
+2026-06-30,HOME-INC-100,Incense Sticks 100 pack,Home Care,North,0,0,84,86.43,77.44,99.37,-2.43,0
+2026-05-06,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,88,94.0,85.83,105.56,-6.0,0
+2026-05-07,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,113,102.81,88.2,115.29,10.19,0
+2026-05-08,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,1,0,148,141.61,122.03,154.57,6.39,0
+2026-05-09,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,1,1,144,159.08,125.84,187.4,-15.08,1
+2026-05-10,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,111,101.45,91.53,123.33,9.55,0
+2026-05-11,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,98,94.09,84.89,108.33,3.91,0
+2026-05-12,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,100,94.86,85.67,110.78,5.14,0
+2026-05-13,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,113,102.83,90.81,117.72,10.17,0
+2026-05-14,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,1,104,98.19,87.67,114.37,5.81,0
+2026-05-15,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,96,95.89,85.88,114.58,0.11,0
+2026-05-16,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,121,108.99,95.77,123.85,12.01,0
+2026-05-17,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,110,104.8,92.54,122.53,5.2,0
+2026-05-18,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,94,93.74,81.09,107.61,0.26,0
+2026-05-19,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,91,92.64,79.33,105.03,-1.64,0
+2026-05-20,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,109,97.57,83.71,109.61,11.43,0
+2026-05-21,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,80,93.75,81.23,109.64,-13.75,0
+2026-05-22,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,99,93.33,83.87,104.43,5.67,0
+2026-05-23,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,100,105.25,92.7,119.07,-5.25,0
+2026-05-24,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,112,104.28,90.33,118.97,7.72,0
+2026-05-25,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,1,0,144,142.61,124.82,149.78,1.39,0
+2026-05-26,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,1,0,146,148.43,128.66,165.09,-2.43,0
+2026-05-27,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,99,95.94,86.95,113.98,3.06,0
+2026-05-28,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,100,94.04,84.07,108.75,5.96,0
+2026-05-29,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,85,95.91,82.52,111.25,-10.91,0
+2026-05-30,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,1,0,173,149.5,129.13,172.4,23.5,0
+2026-05-31,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,118,114.31,100.34,133.55,3.69,0
+2026-06-01,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,1,0,132,152.37,130.5,179.48,-20.37,0
+2026-06-02,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,76,95.03,82.89,114.5,-19.03,0
+2026-06-03,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,93,94.21,82.05,107.96,-1.21,0
+2026-06-04,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,99,91.89,80.86,107.55,7.11,0
+2026-06-05,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,109,92.75,81.34,111.63,16.25,0
+2026-06-06,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,128,111.08,97.63,132.48,16.92,0
+2026-06-07,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,117,105.87,93.68,121.8,11.13,0
+2026-06-08,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,113,91.21,82.48,109.93,21.79,0
+2026-06-09,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,97,101.32,86.78,117.45,-4.32,0
+2026-06-10,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,97,102.26,91.45,114.2,-5.26,0
+2026-06-11,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,102,97.53,85.0,111.56,4.47,0
+2026-06-12,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,99,99.96,88.06,114.55,-0.96,0
+2026-06-13,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,1,109,112.51,99.26,124.51,-3.51,0
+2026-06-14,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,90,104.63,89.38,118.2,-14.63,0
+2026-06-15,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,92,91.99,82.29,105.32,0.01,0
+2026-06-16,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,1,0,118,132.64,120.27,147.26,-14.64,0
+2026-06-17,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,1,108,93.84,81.75,107.72,14.16,0
+2026-06-18,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,104,97.37,85.63,112.62,6.63,0
+2026-06-19,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,93,97.03,87.26,113.42,-4.03,0
+2026-06-20,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,93,103.94,90.43,118.79,-10.94,0
+2026-06-21,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,91,102.58,90.33,118.37,-11.58,0
+2026-06-22,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,86,92.71,81.83,108.16,-6.71,0
+2026-06-23,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,84,87.28,80.13,104.1,-3.28,0
+2026-06-24,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,82,85.63,77.73,99.15,-3.63,0
+2026-06-25,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,108,87.32,76.67,101.07,20.68,0
+2026-06-26,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,88,97.58,86.38,107.9,-9.58,0
+2026-06-27,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,91,96.86,82.86,115.3,-5.86,0
+2026-06-28,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,0,102,100.2,83.11,112.08,1.8,0
+2026-06-29,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,1,99,90.8,77.72,102.29,8.2,0
+2026-06-30,HOME-INC-100,Incense Sticks 100 pack,Home Care,South,0,1,98,92.09,80.74,100.48,5.91,0
+2026-05-06,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,71,83.23,75.95,94.62,-12.23,0
+2026-05-07,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,76,80.22,71.33,94.23,-4.22,0
+2026-05-08,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,84,81.81,73.6,95.64,2.19,0
+2026-05-09,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,94,84.5,75.59,97.39,9.5,0
+2026-05-10,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,98,90.01,80.27,100.62,7.99,0
+2026-05-11,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,1,0,142,129.58,104.91,147.37,12.42,0
+2026-05-12,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,91,78.75,68.47,94.78,12.25,0
+2026-05-13,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,97,80.23,74.05,93.31,16.77,0
+2026-05-14,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,88,82.25,74.09,96.19,5.75,0
+2026-05-15,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,89,80.5,71.74,95.03,8.5,0
+2026-05-16,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,107,89.22,82.12,104.88,17.78,0
+2026-05-17,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,88,91.5,83.95,106.49,-3.5,0
+2026-05-18,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,98,83.34,71.28,97.84,14.66,0
+2026-05-19,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,87,81.95,74.62,96.33,5.05,0
+2026-05-20,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,83,83.39,75.39,95.38,-0.39,0
+2026-05-21,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,73,82.64,73.9,95.61,-9.64,0
+2026-05-22,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,1,91,80.24,69.22,94.22,10.76,0
+2026-05-23,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,86,92.19,80.42,104.51,-6.19,0
+2026-05-24,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,100,88.91,77.46,100.5,11.09,0
+2026-05-25,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,94,80.45,69.06,92.91,13.55,0
+2026-05-26,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,84,85.49,77.28,97.79,-1.49,0
+2026-05-27,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,89,81.48,74.06,95.18,7.52,0
+2026-05-28,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,71,82.24,71.08,92.78,-11.24,0
+2026-05-29,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,76,79.95,68.44,94.19,-3.95,0
+2026-05-30,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,99,87.72,78.83,99.67,11.28,0
+2026-05-31,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,85,84.58,72.3,98.78,0.42,0
+2026-06-01,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,92,82.04,76.33,95.18,9.96,0
+2026-06-02,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,1,90,78.62,70.35,93.43,11.38,0
+2026-06-03,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,91,83.54,76.05,96.39,7.46,0
+2026-06-04,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,1,0,142,116.63,97.59,132.08,25.37,0
+2026-06-05,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,1,0,129,124.91,117.93,137.74,4.09,0
+2026-06-06,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,103,92.21,82.77,105.58,10.79,0
+2026-06-07,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,88,97.48,90.31,109.62,-9.48,0
+2026-06-08,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,78,85.91,73.33,106.35,-7.91,0
+2026-06-09,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,82,85.04,79.86,101.92,-3.04,0
+2026-06-10,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,79,78.28,70.94,96.7,0.72,0
+2026-06-11,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,85,80.24,70.83,95.85,4.76,0
+2026-06-12,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,79,82.13,76.08,94.14,-3.13,0
+2026-06-13,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,83,84.82,73.65,98.06,-1.82,0
+2026-06-14,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,1,90,88.46,79.12,96.98,1.54,0
+2026-06-15,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,74,79.32,71.93,92.72,-5.32,0
+2026-06-16,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,84,75.59,68.87,89.96,8.41,0
+2026-06-17,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,1,89,78.52,71.39,91.85,10.48,0
+2026-06-18,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,76,75.47,70.07,91.7,0.53,0
+2026-06-19,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,70,73.25,70.4,90.77,-3.25,0
+2026-06-20,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,84,81.68,76.1,92.83,2.32,0
+2026-06-21,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,1,0,167,133.44,103.97,145.39,33.56,0
+2026-06-22,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,90,76.76,67.86,93.61,13.24,0
+2026-06-23,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,1,0,145,128.07,113.27,149.04,16.93,0
+2026-06-24,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,99,88.26,77.71,108.18,10.74,0
+2026-06-25,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,1,0,109,131.46,115.27,150.73,-22.46,0
+2026-06-26,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,79,91.56,82.64,104.9,-12.56,0
+2026-06-27,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,88,98.2,89.85,115.1,-10.2,0
+2026-06-28,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,81,91.47,81.42,109.61,-10.47,0
+2026-06-29,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,79,77.58,71.54,93.49,1.42,0
+2026-06-30,HOME-INC-100,Incense Sticks 100 pack,Home Care,West,0,0,104,87.22,79.42,101.63,16.78,0
+2026-05-06,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,1,0,208,180.3,138.72,211.48,27.7,0
+2026-05-07,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,91,101.86,96.5,119.61,-10.86,0
+2026-05-08,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,1,0,156,170.78,144.02,189.17,-14.78,0
+2026-05-09,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,103,134.76,114.47,153.31,-31.76,0
+2026-05-10,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,133,127.24,110.97,148.05,5.76,0
+2026-05-11,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,106,110.62,98.7,130.06,-4.62,0
+2026-05-12,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,101,107.89,96.83,125.55,-6.89,0
+2026-05-13,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,1,0,151,167.09,140.97,191.2,-16.09,0
+2026-05-14,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,121,113.63,99.14,128.28,7.37,0
+2026-05-15,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,114,114.98,100.88,128.04,-0.98,0
+2026-05-16,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,148,129.3,107.56,142.6,18.7,0
+2026-05-17,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,113,120.83,103.01,136.05,-7.83,0
+2026-05-18,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,1,0,183,157.53,136.98,174.88,25.47,0
+2026-05-19,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,94,106.63,94.97,124.57,-12.63,0
+2026-05-20,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,143,115.52,105.02,133.02,27.48,0
+2026-05-21,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,122,117.09,102.79,130.11,4.91,0
+2026-05-22,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,128,117.51,105.39,132.72,10.49,0
+2026-05-23,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,113,129.77,112.61,149.32,-16.77,0
+2026-05-24,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,121,120.91,101.68,135.55,0.09,0
+2026-05-25,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,95,100.11,89.41,116.05,-5.11,0
+2026-05-26,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,120,120.87,100.74,131.05,-0.87,0
+2026-05-27,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,111,113.66,101.54,128.16,-2.66,0
+2026-05-28,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,104,113.56,100.08,126.05,-9.56,0
+2026-05-29,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,1,0,181,158.62,140.15,180.28,22.38,0
+2026-05-30,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,125,131.44,111.93,142.05,-6.44,0
+2026-05-31,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,127,125.18,104.58,139.78,1.82,0
+2026-06-01,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,129,107.09,92.78,122.21,21.91,0
+2026-06-02,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,102,111.0,98.06,125.96,-9.0,0
+2026-06-03,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,112,112.12,99.28,127.46,-0.12,0
+2026-06-04,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,118,113.8,99.05,128.86,4.2,0
+2026-06-05,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,99,106.02,94.15,125.95,-7.02,0
+2026-06-06,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,111,117.44,101.62,130.1,-6.44,0
+2026-06-07,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,117,126.37,108.59,137.31,-9.37,0
+2026-06-08,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,1,122,111.07,98.26,122.61,10.93,0
+2026-06-09,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,104,114.27,98.52,126.93,-10.27,0
+2026-06-10,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,1,0,167,155.27,135.15,183.07,11.73,0
+2026-06-11,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,101,99.89,83.53,118.38,1.11,0
+2026-06-12,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,1,122,111.9,99.2,126.74,10.1,0
+2026-06-13,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,117,123.84,107.85,139.79,-6.84,0
+2026-06-14,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,142,127.19,105.47,139.78,14.81,0
+2026-06-15,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,120,107.0,92.16,125.38,13.0,0
+2026-06-16,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,118,109.37,94.99,124.71,8.63,0
+2026-06-17,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,130,110.91,98.8,128.27,19.09,0
+2026-06-18,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,99,111.61,96.2,130.41,-12.61,0
+2026-06-19,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,117,104.09,94.24,120.21,12.91,0
+2026-06-20,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,134,120.98,103.36,133.89,13.02,0
+2026-06-21,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,120,125.18,108.2,144.09,-5.18,0
+2026-06-22,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,119,116.42,100.85,133.8,2.58,0
+2026-06-23,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,123,117.38,101.41,132.56,5.62,0
+2026-06-24,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,111,112.79,98.95,129.92,-1.79,0
+2026-06-25,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,134,116.71,101.34,130.23,17.29,0
+2026-06-26,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,99,115.57,102.79,131.72,-16.57,0
+2026-06-27,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,109,120.14,102.74,137.55,-11.14,0
+2026-06-28,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,130,120.03,104.59,134.83,9.97,0
+2026-06-29,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,124,113.8,99.26,129.29,10.2,0
+2026-06-30,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,East,0,0,80,108.24,95.15,124.16,-28.24,0
+2026-05-06,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,154,127.17,109.97,143.29,26.83,0
+2026-05-07,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,1,0,152,190.72,158.18,196.78,-38.72,1
+2026-05-08,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,142,131.08,113.69,146.61,10.92,0
+2026-05-09,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,155,142.04,122.68,161.09,12.96,0
+2026-05-10,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,1,142,135.96,122.86,159.65,6.04,0
+2026-05-11,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,117,129.11,110.97,147.48,-12.11,0
+2026-05-12,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,1,0,181,171.55,147.69,184.75,9.45,0
+2026-05-13,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,1,0,224,203.93,163.02,223.66,20.07,0
+2026-05-14,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,128,128.15,113.28,153.32,-0.15,0
+2026-05-15,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,133,122.94,109.79,145.39,10.06,0
+2026-05-16,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,170,149.23,129.05,162.13,20.77,0
+2026-05-17,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,146,135.61,122.49,157.23,10.39,0
+2026-05-18,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,1,0,167,205.11,158.37,220.35,-38.11,1
+2026-05-19,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,116,124.18,115.45,152.57,-8.18,0
+2026-05-20,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,112,140.52,122.19,153.85,-28.52,0
+2026-05-21,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,128,137.18,117.46,150.82,-9.18,0
+2026-05-22,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,1,1,169,210.62,154.59,232.77,-41.62,1
+2026-05-23,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,141,147.64,130.04,162.08,-6.64,0
+2026-05-24,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,156,130.19,119.02,156.7,25.81,0
+2026-05-25,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,98,113.8,100.9,136.67,-15.8,0
+2026-05-26,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,126,122.88,109.22,137.46,3.12,0
+2026-05-27,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,135,125.47,109.66,139.85,9.53,0
+2026-05-28,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,116,123.2,111.29,142.25,-7.2,0
+2026-05-29,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,1,0,187,190.4,157.01,211.71,-3.4,0
+2026-05-30,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,1,0,252,216.06,162.27,249.06,35.94,0
+2026-05-31,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,131,150.66,131.28,169.2,-19.66,0
+2026-06-01,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,151,136.87,118.29,148.84,14.13,0
+2026-06-02,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,122,135.5,120.9,151.37,-13.5,0
+2026-06-03,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,113,142.04,121.22,154.52,-29.04,0
+2026-06-04,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,121,128.61,110.39,146.65,-7.61,0
+2026-06-05,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,111,122.19,111.66,145.41,-11.19,0
+2026-06-06,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,130,128.58,119.36,155.76,1.42,0
+2026-06-07,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,122,138.36,119.7,154.98,-16.36,0
+2026-06-08,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,151,126.98,113.7,138.71,24.02,0
+2026-06-09,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,146,128.18,114.72,140.85,17.82,0
+2026-06-10,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,145,130.1,115.38,142.18,14.9,0
+2026-06-11,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,104,122.38,108.82,139.82,-18.38,0
+2026-06-12,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,106,110.94,100.71,128.1,-4.94,0
+2026-06-13,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,1,0,174,175.65,149.45,199.29,-1.65,0
+2026-06-14,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,1,0,239,201.25,156.64,225.41,37.75,1
+2026-06-15,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,158,128.86,114.17,146.84,29.14,0
+2026-06-16,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,125,127.94,115.4,143.56,-2.94,0
+2026-06-17,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,143,132.46,115.45,146.59,10.54,0
+2026-06-18,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,117,125.82,117.4,142.64,-8.82,0
+2026-06-19,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,141,119.6,107.9,140.7,21.4,0
+2026-06-20,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,1,0,224,200.82,159.99,233.6,23.18,0
+2026-06-21,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,116,152.46,129.54,176.36,-36.46,0
+2026-06-22,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,123,123.5,117.46,138.15,-0.5,0
+2026-06-23,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,123,133.79,117.77,147.03,-10.79,0
+2026-06-24,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,1,0,248,195.44,157.61,216.91,52.56,1
+2026-06-25,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,125,145.15,119.0,159.52,-20.15,0
+2026-06-26,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,1,0,198,210.33,158.83,231.15,-12.33,0
+2026-06-27,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,138,148.61,129.93,177.68,-10.61,0
+2026-06-28,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,129,143.13,126.98,161.98,-14.13,0
+2026-06-29,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,107,137.16,117.38,152.58,-30.16,0
+2026-06-30,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,North,0,0,100,126.11,115.46,143.79,-26.11,0
+2026-05-06,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,135,129.01,125.09,145.33,5.99,0
+2026-05-07,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,150,131.87,119.5,148.92,18.13,0
+2026-05-08,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,135,132.62,120.39,147.38,2.38,0
+2026-05-09,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,154,154.49,132.61,175.04,-0.49,0
+2026-05-10,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,146,138.06,129.94,157.93,7.94,0
+2026-05-11,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,142,130.15,115.09,144.75,11.85,0
+2026-05-12,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,123,134.66,119.45,148.46,-11.66,0
+2026-05-13,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,1,146,126.1,113.42,143.22,19.9,1
+2026-05-14,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,130,127.03,113.33,141.31,2.97,0
+2026-05-15,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,160,133.15,119.49,145.89,26.85,0
+2026-05-16,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,186,151.73,129.81,168.02,34.27,0
+2026-05-17,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,150,153.8,132.35,169.69,-3.8,0
+2026-05-18,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,135,126.96,114.59,145.09,8.04,0
+2026-05-19,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,1,0,217,205.07,162.75,220.82,11.93,0
+2026-05-20,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,111,133.33,121.4,156.94,-22.33,0
+2026-05-21,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,136,128.94,119.43,151.6,7.06,0
+2026-05-22,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,146,138.1,123.73,158.04,7.9,0
+2026-05-23,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,1,0,276,224.12,163.2,251.11,51.88,1
+2026-05-24,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,155,152.31,132.63,187.0,2.69,0
+2026-05-25,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,124,134.29,118.96,166.6,-10.29,0
+2026-05-26,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,134,131.96,114.78,163.82,2.04,0
+2026-05-27,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,164,134.53,121.82,154.41,29.47,0
+2026-05-28,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,125,130.53,114.65,156.11,-5.53,0
+2026-05-29,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,142,125.96,112.97,154.11,16.04,0
+2026-05-30,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,185,155.96,135.43,181.18,29.04,0
+2026-05-31,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,158,150.43,131.58,168.31,7.57,0
+2026-06-01,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,140,132.66,121.29,155.09,7.34,0
+2026-06-02,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,1,0,143,174.53,137.03,193.49,-31.53,0
+2026-06-03,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,153,134.18,120.87,154.99,18.82,0
+2026-06-04,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,144,132.19,120.4,158.18,11.81,0
+2026-06-05,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,144,133.75,123.57,156.63,10.25,0
+2026-06-06,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,148,141.47,132.88,163.99,6.53,0
+2026-06-07,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,165,158.69,134.06,177.11,6.31,0
+2026-06-08,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,138,141.07,126.06,162.96,-3.07,0
+2026-06-09,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,105,136.03,124.86,157.06,-31.03,0
+2026-06-10,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,139,128.29,117.67,151.57,10.71,0
+2026-06-11,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,130,125.02,112.17,144.26,4.98,0
+2026-06-12,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,127,138.21,120.06,156.61,-11.21,0
+2026-06-13,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,157,149.64,129.13,169.85,7.36,0
+2026-06-14,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,164,132.92,124.59,159.9,31.08,0
+2026-06-15,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,171,135.44,119.68,153.75,35.56,0
+2026-06-16,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,151,137.23,120.91,155.59,13.77,0
+2026-06-17,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,140,127.14,120.02,145.84,12.86,0
+2026-06-18,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,139,142.33,126.89,156.73,-3.33,0
+2026-06-19,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,115,139.47,136.34,157.25,-24.47,0
+2026-06-20,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,145,149.83,131.56,168.03,-4.83,0
+2026-06-21,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,161,143.4,125.84,161.12,17.6,0
+2026-06-22,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,128,129.12,116.69,149.62,-1.12,0
+2026-06-23,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,132,126.34,114.68,142.57,5.66,0
+2026-06-24,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,116,135.2,116.13,151.09,-19.2,0
+2026-06-25,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,137,132.78,115.64,148.68,4.22,0
+2026-06-26,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,126,127.73,113.76,146.92,-1.73,0
+2026-06-27,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,145,144.67,127.0,166.29,0.33,0
+2026-06-28,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,1,0,174,187.25,146.82,202.99,-13.25,0
+2026-06-29,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,150,128.95,111.22,145.58,21.05,0
+2026-06-30,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,South,0,0,139,128.42,111.27,144.7,10.58,0
+2026-05-06,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,100,108.41,93.13,127.76,-8.41,0
+2026-05-07,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,123,116.67,104.27,134.88,6.33,0
+2026-05-08,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,125,115.77,101.4,134.56,9.23,0
+2026-05-09,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,155,133.37,110.73,150.09,21.63,0
+2026-05-10,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,160,140.63,117.3,163.12,19.37,0
+2026-05-11,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,115,118.27,115.18,138.27,-3.27,0
+2026-05-12,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,120,119.56,104.33,132.94,0.44,0
+2026-05-13,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,113,113.23,96.03,129.32,-0.23,0
+2026-05-14,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,129,116.49,104.9,134.12,12.51,0
+2026-05-15,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,117,121.03,105.31,135.88,-4.03,0
+2026-05-16,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,138,135.04,116.18,147.98,2.96,0
+2026-05-17,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,113,137.4,118.18,150.04,-24.4,0
+2026-05-18,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,111,114.36,101.11,134.07,-3.36,0
+2026-05-19,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,1,0,209,177.9,150.63,201.68,31.1,0
+2026-05-20,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,1,0,182,174.25,150.28,187.59,7.75,0
+2026-05-21,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,1,0,212,194.96,159.64,215.0,17.04,0
+2026-05-22,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,125,124.83,109.94,141.22,0.17,0
+2026-05-23,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,154,150.44,127.14,170.07,3.56,0
+2026-05-24,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,143,152.27,127.88,172.77,-9.27,0
+2026-05-25,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,128,133.33,115.87,151.44,-5.33,0
+2026-05-26,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,141,134.92,114.71,158.01,6.08,0
+2026-05-27,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,1,138,126.11,111.9,144.6,11.89,0
+2026-05-28,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,118,115.9,110.79,133.12,2.1,0
+2026-05-29,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,1,0,194,194.64,159.68,219.9,-0.64,0
+2026-05-30,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,1,0,215,222.25,159.58,244.14,-7.25,0
+2026-05-31,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,134,150.01,129.51,169.34,-16.01,0
+2026-06-01,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,104,125.59,112.84,144.34,-21.59,0
+2026-06-02,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,119,123.94,111.64,136.9,-4.94,0
+2026-06-03,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,1,0,179,183.17,155.02,199.32,-4.17,0
+2026-06-04,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,94,135.11,120.85,150.11,-41.11,1
+2026-06-05,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,112,124.43,113.14,140.28,-12.43,0
+2026-06-06,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,135,129.99,114.69,155.73,5.01,0
+2026-06-07,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,1,0,195,204.74,164.21,213.09,-9.74,0
+2026-06-08,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,101,119.12,104.44,137.0,-18.12,0
+2026-06-09,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,137,119.27,104.22,138.03,17.73,0
+2026-06-10,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,101,122.44,106.01,139.16,-21.44,0
+2026-06-11,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,1,142,122.48,108.19,134.28,19.52,0
+2026-06-12,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,108,123.74,110.79,142.05,-15.74,0
+2026-06-13,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,1,0,205,171.2,156.33,193.54,33.8,0
+2026-06-14,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,154,144.61,124.19,163.5,9.39,0
+2026-06-15,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,119,127.58,112.81,143.0,-8.58,0
+2026-06-16,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,130,127.48,112.59,142.61,2.52,0
+2026-06-17,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,137,133.92,117.4,149.99,3.08,0
+2026-06-18,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,124,131.94,112.24,144.93,-7.94,0
+2026-06-19,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,1,0,172,183.51,157.09,196.32,-11.51,0
+2026-06-20,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,142,136.81,122.96,158.66,5.19,0
+2026-06-21,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,134,131.84,117.3,157.41,2.16,0
+2026-06-22,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,129,128.89,110.44,143.89,0.11,0
+2026-06-23,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,142,130.22,112.2,146.22,11.78,0
+2026-06-24,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,112,128.92,114.04,142.35,-16.92,0
+2026-06-25,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,115,127.91,110.71,143.96,-12.91,0
+2026-06-26,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,109,117.34,104.03,139.66,-8.34,0
+2026-06-27,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,1,135,140.33,119.52,152.26,-5.33,0
+2026-06-28,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,1,0,205,206.63,159.86,232.44,-1.63,1
+2026-06-29,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,116,116.27,99.83,134.75,-0.27,0
+2026-06-30,PC-SOAP-125G,Bathing Soap 125 g,Personal Care,West,0,0,94,117.57,100.42,135.69,-23.57,0

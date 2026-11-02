@@ -1,0 +1,8 @@
+CodePilot controlled benchmark
+========================================================================================
+Case                   Base fail  Retrieve   Verify     Review     Seconds 
+Loyalty threshold      True       True       True       True       4.198   
+Minimum age            True       True       True       True       4.243   
+Maximum retries        True       True       True       True       4.72    
+----------------------------------------------------------------------------------------
+Successful controlled cases: 3/3 (100%)

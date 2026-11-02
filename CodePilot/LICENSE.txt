@@ -1,0 +1,8 @@
+CodePilot Academic Project License
+
+Copyright (c) 2026 CodePilot Project Authors.
+All rights reserved.
+
+This project package is provided for academic development, demonstration,
+evaluation, and portfolio use by its project authors. Third-party dependencies
+remain subject to their own licenses and notices.

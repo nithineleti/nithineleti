@@ -1,0 +1,27 @@
+# Production Checklist
+
+- [x] FastAPI application and browser frontend.
+- [x] Database migrations.
+- [x] JWT authentication and password hashing.
+- [x] User document ownership checks.
+- [x] Hybrid RAG and GraphRAG.
+- [x] Grounding/citation verification.
+- [x] Financial analytics, forecasting and evaluation.
+- [x] Health checks and Prometheus metrics.
+- [x] Docker and Docker Compose.
+- [x] GitHub Actions tests.
+- [x] PDF/Markdown report generation.
+- [ ] Replace development `SECRET_KEY`.
+- [ ] Configure managed PostgreSQL/pgvector.
+- [ ] Configure production Redis.
+- [ ] Configure S3-compatible object storage and bucket policies.
+- [ ] Connect approved live SEC/news/transcript data sources.
+- [ ] Activate and benchmark desired neural models.
+- [ ] Add TLS/WAF/reverse proxy.
+- [ ] Add malware scanning for uploads.
+- [ ] Add full tenant-level authorization tests.
+- [ ] Add load/soak testing and SLOs.
+- [ ] Add backups, restore drills and disaster recovery.
+- [ ] Add centralized secret management.
+- [ ] Add production model/data governance.
+- [ ] Complete security/legal review for financial use.

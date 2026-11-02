@@ -1,0 +1,62 @@
+[
+  {
+    "step": "POST /jobs normal",
+    "response": {
+      "id": "d4d68771",
+      "name": "image-resize",
+      "payload": {},
+      "priority": 6,
+      "scheduled_at": 1787678957.7653143,
+      "max_retries": 2,
+      "attempts": 0,
+      "fail_first": false,
+      "status": "PENDING",
+      "result": null
+    }
+  },
+  {
+    "step": "POST /jobs fail-first",
+    "response": {
+      "id": "5024cb66",
+      "name": "email-retry",
+      "payload": {},
+      "priority": 10,
+      "scheduled_at": 1787678957.7667933,
+      "max_retries": 2,
+      "attempts": 0,
+      "fail_first": true,
+      "status": "PENDING",
+      "result": null
+    }
+  },
+  {
+    "step": "POST /workers/run-next",
+    "response": {
+      "id": "5024cb66",
+      "name": "email-retry",
+      "payload": {},
+      "priority": 10,
+      "scheduled_at": 1787678958.7683692,
+      "max_retries": 2,
+      "attempts": 1,
+      "fail_first": true,
+      "status": "RETRY",
+      "result": "temporary provider failure"
+    }
+  },
+  {
+    "step": "POST /workers/run-next again",
+    "response": {
+      "id": "5024cb66",
+      "name": "email-retry",
+      "payload": {},
+      "priority": 10,
+      "scheduled_at": 1787678958.7683692,
+      "max_retries": 2,
+      "attempts": 2,
+      "fail_first": true,
+      "status": "COMPLETED",
+      "result": "processed email-retry"
+    }
+  }
+]

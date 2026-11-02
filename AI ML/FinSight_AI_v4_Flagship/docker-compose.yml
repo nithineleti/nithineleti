@@ -1,0 +1,50 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_DB: finsight
+      POSTGRES_USER: finsight
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-finsight-local-password}
+    volumes:
+      - finsight_pg:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U finsight -d finsight"]
+      interval: 5s
+      timeout: 5s
+      retries: 15
+
+  redis:
+    image: redis:7-alpine
+    command: redis-server --appendonly yes
+    volumes:
+      - finsight_redis:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 15
+
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      APP_ENV: production
+      DATABASE_URL: postgresql+psycopg://finsight:${POSTGRES_PASSWORD:-finsight-local-password}@db:5432/finsight
+      SECRET_KEY: ${SECRET_KEY:-development-only-secret-change-before-production-1234}
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:8000}
+      REDIS_URL: redis://redis:6379/0
+      EMBEDDING_BACKEND: ${EMBEDDING_BACKEND:-local_hashing}
+      RERANKER_BACKEND: ${RERANKER_BACKEND:-feature}
+      GENERATOR_BACKEND: ${GENERATOR_BACKEND:-extractive}
+      LLM_BASE_URL: ${LLM_BASE_URL:-http://host.docker.internal:11434}
+      LLM_MODEL: ${LLM_MODEL:-llama3.2:3b}
+      SEC_USER_AGENT: ${SEC_USER_AGENT:-FinSightAI your-email@example.com}
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+volumes:
+  finsight_pg:
+  finsight_redis:

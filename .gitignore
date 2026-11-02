@@ -1,0 +1,55 @@
+# ---- Dependencies / environments ----
+node_modules/
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# ---- Secrets (never commit) ----
+.env
+.env.*
+!.env.example
+!.env.*.example
+.dev.vars
+*.pem
+*.key
+*.p12
+credentials/google_service_account.json
+
+# ---- Infra state / provider binaries ----
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# ---- Build output & local runtime state ----
+.next/
+.wrangler/
+.sites-runtime/
+.netlify/
+.dist/
+AgentX-logo-integrated-source-2026-08-05/dist/
+*.db
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.log
+
+# ---- Local-only folders ----
+# Raw .git backup of Lucid-Focus (not source code)
+Lucid-Focus/Lucid-Focus-old-git-backup/
+# CodePilot runtime clones created while the app runs
+CodePilot/workspaces/
+# Identical copies of Agro-vision--main and Demand-sphere-main (kept locally as separate git repos)
+Data science/AgroVision_AI_Source/
+Data science/DemandSphere_AI_v2_Source/
+
+# ---- OS / editor ----
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,1 @@
+ALTER TABLE `created_agents` ADD `owner_email` text DEFAULT '' NOT NULL;

@@ -1,0 +1,14 @@
+[
+  {"question":"What drove cloud security revenue growth?","expected_document":"aster_systems_q4.txt","relevant_documents":["aster_systems_q4.txt","aster_systems_investor_day.txt"]},
+  {"question":"What are the risks from permitting and equipment lead times?","expected_document":"meridian_energy_q4.txt","relevant_documents":["meridian_energy_q4.txt","meridian_energy_storage_update.txt"]},
+  {"question":"What is causing inventory markdown risk?","expected_document":"northstar_retail_q4.txt","relevant_documents":["northstar_retail_q4.txt","northstar_retail_inventory_update.txt"]},
+  {"question":"Which company expanded renewable generation capacity?","expected_document":"meridian_energy_q4.txt","relevant_documents":["meridian_energy_q4.txt","meridian_energy_storage_update.txt"]},
+  {"question":"Which company has longer enterprise sales cycles in Europe?","expected_document":"aster_systems_q4.txt","relevant_documents":["aster_systems_q4.txt","aster_systems_risk_update.txt"]},
+  {"question":"What supports margin improvement through logistics automation?","expected_document":"northstar_retail_q4.txt","relevant_documents":["northstar_retail_q4.txt","northstar_retail_automation_brief.txt"]},
+  {"question":"Which business is investing in automated threat detection and channel partnerships?","expected_document":"aster_systems_investor_day.txt","relevant_documents":["aster_systems_investor_day.txt","aster_systems_q4.txt"]},
+  {"question":"Where could project execution be disrupted by regulatory timing and supplier lead times?","expected_document":"meridian_energy_storage_update.txt","relevant_documents":["meridian_energy_storage_update.txt","meridian_energy_q4.txt"]},
+  {"question":"Which retailer is using automation and private label to improve profitability?","expected_document":"northstar_retail_automation_brief.txt","relevant_documents":["northstar_retail_automation_brief.txt","northstar_retail_q4.txt"]},
+  {"question":"What concerns management about customer acquisition efficiency?","expected_document":"aster_systems_risk_update.txt","relevant_documents":["aster_systems_risk_update.txt","aster_systems_q4.txt"]},
+  {"question":"What is Meridian's expected role for grid storage?","expected_document":"meridian_energy_q4.txt","relevant_documents":["meridian_energy_q4.txt","meridian_energy_storage_update.txt"]},
+  {"question":"What could force Northstar to discount merchandise?","expected_document":"northstar_retail_inventory_update.txt","relevant_documents":["northstar_retail_inventory_update.txt","northstar_retail_q4.txt"]}
+]

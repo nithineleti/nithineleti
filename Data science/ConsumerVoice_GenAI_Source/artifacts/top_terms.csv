@@ -1,0 +1,109 @@
+task,class,term,weight
+sentiment,negative,word__purchase highly,1.0373
+sentiment,negative,word__soon,0.9958
+sentiment,negative,word__this resolved,0.9958
+sentiment,negative,word__need this,0.9958
+sentiment,negative,word__resolved soon,0.9958
+sentiment,negative,word__need,0.9958
+sentiment,negative,word__please investigate,0.95
+sentiment,negative,word__investigate this,0.95
+sentiment,negative,word__investigate,0.95
+sentiment,negative,word__this issue,0.95
+sentiment,negative,word__soon however,0.9428
+sentiment,negative,word__practical please,0.8605
+sentiment,neutral,word__may try,1.0472
+sentiment,neutral,word__may,1.0472
+sentiment,neutral,word__try,1.0472
+sentiment,neutral,word__try it,1.0472
+sentiment,neutral,word__it,0.9387
+sentiment,neutral,word__it again,0.9312
+sentiment,neutral,word__provided highly,0.8492
+sentiment,neutral,word__helpful highly,0.7784
+sentiment,neutral,word__again however,0.7706
+sentiment,neutral,word__help please,0.7513
+sentiment,neutral,word__expectations highly,0.7024
+sentiment,neutral,word__it was,0.6694
+sentiment,positive,word__standard however,1.6491
+sentiment,positive,word__recommended contact,1.1513
+sentiment,positive,word__please keep,1.0578
+sentiment,positive,word__this standard,1.0578
+sentiment,positive,word__keep,1.0578
+sentiment,positive,word__keep this,1.0578
+sentiment,positive,word__standard,0.9881
+sentiment,positive,word__highly,0.9387
+sentiment,positive,word__highly recommended,0.9387
+sentiment,positive,word__recommended,0.9387
+sentiment,positive,word__helpful plan,0.9367
+sentiment,positive,word__easy highly,0.9313
+topic,delivery,word__delivery,2.1319
+topic,delivery,word__delivery was,1.9797
+topic,delivery,word__time plan,1.474
+topic,delivery,word__update please,1.335
+topic,delivery,word__promised highly,1.2966
+topic,delivery,word__updates highly,1.1673
+topic,delivery,word__the shipment,1.0474
+topic,delivery,word__shipment,1.0474
+topic,delivery,char__ del,0.9994
+topic,delivery,char__del,0.9994
+topic,delivery,word__missing please,0.9714
+topic,delivery,word__time please,0.8807
+topic,packaging,word__wasteful please,1.8697
+topic,packaging,word__packaging,1.6478
+topic,packaging,word__practical highly,1.4129
+topic,packaging,word__box am,1.2013
+topic,packaging,word__open highly,1.1885
+topic,packaging,word__box need,1.1769
+topic,packaging,word__sealed please,1.0938
+topic,packaging,word__the pack,1.0675
+topic,packaging,word__pack,1.0675
+topic,packaging,word__ordinary overall,1.0372
+topic,packaging,char__ pac,1.0355
+topic,packaging,char__ pack,1.0355
+topic,price,word__price,1.6075
+topic,price,word__purchase highly,1.5485
+topic,price,word__quality please,1.483
+topic,price,word__competitive highly,1.4603
+topic,price,word__provided plan,1.3895
+topic,price,word__for the,1.2387
+topic,price,word__made this,1.0612
+topic,price,word__feels,1.0459
+topic,price,word__wasteful am,1.0334
+topic,price,word__disappointing please,1.0238
+topic,price,char__ pric,0.9704
+topic,price,char__pri,0.9704
+topic,product_quality,word__product,1.3738
+topic,product_quality,word__however delivery,1.3074
+topic,product_quality,word__made highly,1.2513
+topic,product_quality,word__noticeably highly,1.2282
+topic,product_quality,word__the product,1.146
+topic,product_quality,word__purchase need,1.1344
+topic,product_quality,word__quality was,1.041
+topic,product_quality,word__everything,0.9836
+topic,product_quality,word__well made,0.9836
+topic,product_quality,word__everything felt,0.9836
+topic,product_quality,word__felt fresh,0.9836
+topic,product_quality,word__and well,0.9836
+topic,service,word__politely highly,1.5769
+topic,service,word__again however,1.4293
+topic,service,word__however taste,1.4097
+topic,service,word__service,1.3733
+topic,service,word__however the,1.2943
+topic,service,word__frustrating am,1.1885
+topic,service,word__service was,1.1376
+topic,service,word__the service,1.1376
+topic,service,word__promised please,1.1194
+topic,service,word__support,1.1093
+topic,service,word__answered,1.1075
+topic,service,word__politely plan,1.0502
+topic,taste,word__taste,2.2035
+topic,taste,word__however support,1.3498
+topic,taste,word__the flavour,1.2557
+topic,taste,word__flavour,1.2557
+topic,taste,word__flavour was,1.2557
+topic,taste,word__enjoyable plan,1.1591
+topic,taste,word__the taste,1.0582
+topic,taste,word__disappointing there,1.045
+topic,taste,word__category overall,1.0315
+topic,taste,word__promised plan,1.0281
+topic,taste,word__recommended however,0.9726
+topic,taste,word__practical plan,0.9713

@@ -1,0 +1,41 @@
+{
+  "bug_report": "Checkout rejects a valid 100% discount coupon. A full discount should return 0.",
+  "retrieved": [
+    {
+      "file": "pricing.py",
+      "score": 0.081,
+      "preview": "def calculate_discount(price: float, percent: float) -> float:\n    \"\"\"Return discounted price.\"\"\"\n    if price < 0:\n        raise ValueError(\"price must be non-negative\")\n    # BUG: 100% should be valid, but this condition rejects it.\n    if percent < 0 or percent >= 100:\n        raise ValueError(\"percent must be between 0 and 100\")\n    return round(price * (1 - percent / 100), 2)\n"
+    },
+    {
+      "file": "tests/test_pricing.py",
+      "score": 0.038,
+      "preview": "from pricing import calculate_discount\n\ndef test_regular_discount():\n    assert calculate_discount(200, 25) == 150.0\n\ndef test_full_discount_is_allowed():\n    assert calculate_discount(250, 100) == 0.0\n"
+    },
+    {
+      "file": "cart.py",
+      "score": 0.017,
+      "preview": "from pricing import calculate_discount\n\ndef checkout_total(items, coupon_percent=0):\n    subtotal = sum(float(item[\"price\"]) * int(item.get(\"qty\", 1)) for item in items)\n    return calculate_discount(subtotal, coupon_percent)\n"
+    }
+  ],
+  "plan": [
+    "Index repository files",
+    "Retrieve likely files",
+    "Generate a minimal patch",
+    "Run tests before and after",
+    "Return diff for human review"
+  ],
+  "target_file": "pricing.py",
+  "rationale": "Allow 100% as a valid boundary while still rejecting values above 100%.",
+  "diff": "--- a/pricing.py\n+++ b/pricing.py\n@@ -3,6 +3,6 @@\n     if price < 0:\n         raise ValueError(\"price must be non-negative\")\n     # BUG: 100% should be valid, but this condition rejects it.\n-    if percent < 0 or percent >= 100:\n+    if percent < 0 or percent > 100:\n         raise ValueError(\"percent must be between 0 and 100\")\n     return round(price * (1 - percent / 100), 2)\n",
+  "tests_before": {
+    "passed": false,
+    "returncode": 1,
+    "output": ".F                                                                       [100%]\n=================================== FAILURES ===================================\n________________________ test_full_discount_is_allowed _________________________\n\n    def test_full_discount_is_allowed():\n>       assert calculate_discount(250, 100) == 0.0\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\ntests/test_pricing.py:7: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nprice = 250, percent = 100\n\n    def calculate_discount(price: float, percent: float) -> float:\n        \"\"\"Return discounted price.\"\"\"\n        if price < 0:\n            raise ValueError(\"price must be non-negative\")\n        # BUG: 100% should be valid, but this condition rejects it.\n        if percent < 0 or percent >= 100:\n>           raise ValueError(\"percent must be between 0 and 100\")\nE           ValueError: percent must be between 0 and 100\n\npricing.py:7: ValueError\n=========================== short test summary info ============================\nFAILED tests/test_pricing.py::test_full_discount_is_allowed - ValueError: percent must be between 0 and 100\n1 failed, 1 passed in 0.05s"
+  },
+  "tests_after": {
+    "passed": true,
+    "returncode": 0,
+    "output": "..                                                                       [100%]\n2 passed in 0.03s"
+  },
+  "status": "validated"
+}
