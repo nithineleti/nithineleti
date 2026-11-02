@@ -86,10 +86,8 @@ MSc AI & ML student at **IIIT Lucknow**. I build **AI agents, machine-learning s
 ## 📊 GitHub Activity & Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nithineleti&theme=tokyonight_duo&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nithineleti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithineleti&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nithineleti&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nithineleti&theme=tokyonight" height="150" />
 </p>
 
 ---
