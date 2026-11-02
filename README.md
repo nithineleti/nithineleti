@@ -1,147 +1,115 @@
+<!-- Animated Typing Intro -->
 <div align="center">
-
-# Pavan Kumar Eleti — Projects Portfolio
-
-**M.Sc. (Data Science) @ IIIT Lucknow · Data Science Intern @ ITC Limited · India 🇮🇳**
-
-I build ML systems, time-series models, AI agents and full-stack data products that deliver business impact.
-
-<a href="https://pavaneleti.me"><img src="https://img.shields.io/badge/Portfolio-pavaneleti.me-8A2BE2?style=for-the-badge" /></a>
-<a href="mailto:pavaneletisj@gmail.com"><img src="https://img.shields.io/badge/Email-pavaneletisj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/eleti-pavan-kumar-800a48305"><img src="https://img.shields.io/badge/LinkedIn-Pavan%20Kumar%20Eleti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/nithineleti"><img src="https://img.shields.io/badge/GitHub-nithineleti-000?style=for-the-badge&logo=github" /></a>
-<a href="https://github.com/PAVANKUMARELETI"><img src="https://img.shields.io/badge/GitHub-PAVANKUMARELETI-000?style=for-the-badge&logo=github" /></a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=760&lines=Hey+there+%F0%9F%91%8B+I'm+Eleti+Nithin+Pious;MSc+AI+%26+ML+%40+IIIT+Lucknow;AI+Agents+%7C+Machine+Learning+%7C+Full-Stack" alt="Typing SVG" />
+  <br>
+  <img src="https://avatars.githubusercontent.com/u/202224330?v=4" width="160" style="border-radius:50%;" />
+  <h3>🎓 MSc (Artificial Intelligence & Machine Learning) @ IIIT Lucknow | India 🇮🇳</h3>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/nithin-eleti-8b240628b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/nithineleti"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=nithineleti&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
 </div>
 
 ---
 
-This repository collects all of my projects in one place: **AI/ML systems, software-engineering (SDE) backends, data-science products, full-stack apps and BI dashboards**. Every project folder has its own README with setup steps, architecture notes and a demo guide.
+## 👨‍💻 About Me
+MSc AI & ML student at **IIIT Lucknow**. I build **AI agents, machine-learning systems, forecasting models and full-stack products**, from data pipelines and model training through APIs, dashboards and cloud deployment.
 
-> Folders marked 🔗 are **git submodules** that point to their own standalone repositories. Clone with
-> `git clone --recurse-submodules <this-repo-url>` to pull them too.
-
-## 📑 Index
-
-| # | Project | Area | Stack | Folder |
-|---|---|---|---|---|
-| 1 | CodePilot AI | AI agent | FastAPI · scikit-learn · pytest | [AI ML/01_CodePilot_AI](AI%20ML/01_CodePilot_AI) |
-| 2 | VisionGuard AI | Computer vision | FastAPI · Pillow · scikit-learn | [AI ML/02_VisionGuard_AI](AI%20ML/02_VisionGuard_AI) |
-| 3 | RecSysX | Recommender systems | FastAPI · scikit-learn | [AI ML/03_RecSysX](AI%20ML/03_RecSysX) |
-| 4 | ML Sentinel | MLOps / drift | FastAPI · scikit-learn · MLflow/Airflow adapters | [AI ML/04_ML_Sentinel](AI%20ML/04_ML_Sentinel) |
-| 5 | FinSight AI v4 | RAG / FinTech | FastAPI · SQLAlchemy · statsmodels · NetworkX | [AI ML/FinSight_AI_v4_Flagship](AI%20ML/FinSight_AI_v4_Flagship) |
-| 6 | Distributed E-Commerce Order System | Backend / SDE | FastAPI · Docker | [SDE/01_distributed_ecommerce_order_system](SDE/01_distributed_ecommerce_order_system) |
-| 7 | Distributed Task Queue & Scheduler | Backend / SDE | FastAPI · Docker | [SDE/02_distributed_task_queue_scheduler](SDE/02_distributed_task_queue_scheduler) |
-| 8 | Distributed Key-Value Store | Distributed systems | FastAPI · Docker | [SDE/03_distributed_key_value_store](SDE/03_distributed_key_value_store) |
-| 9 | CodePilot Agent (SDE edition) | Developer tooling | FastAPI · Docker | [SDE/04_codepilot_ai_autonomous_agent](SDE/04_codepilot_ai_autonomous_agent) |
-| 10 | Real-Time Notification System | Event-driven backend | FastAPI · Docker | [SDE/05_scalable_realtime_notification_system](SDE/05_scalable_realtime_notification_system) |
-| 11 | Deep Research AI Assistant 🔗 | Multi-agent LLM | Streamlit · CrewAI · Firecrawl | [SDE/Deep-Research-AI-Assistant-main](SDE/Deep-Research-AI-Assistant-main) |
-| 12 | DevConnector 🔗 | Full-stack web | Node.js · Express · MongoDB · JWT | [SDE/DevConnector-main](SDE/DevConnector-main) |
-| 13 | CodePilot (platform) | AI dev platform | FastAPI · React/Vite · PostgreSQL · Nginx | [CodePilot](CodePilot) |
-| 14 | AgroVision AI | Computer vision / Agri | Gradio · FastAPI · scikit-learn · SciPy | [Agro-vision--main](Agro-vision--main) |
-| 15 | DemandSphere AI v2 | Forecasting / FMCG | Gradio · FastAPI · scikit-learn | [Demand-sphere-main](Demand-sphere-main) |
-| 16 | ConsumerVoice GenAI | NLP / GenAI | Gradio · FastAPI · scikit-learn | [Data science/ConsumerVoice_GenAI_Source](Data%20science/ConsumerVoice_GenAI_Source) |
-| 17 | Ola Driver Churn Prediction | Classification / Ensembles | scikit-learn · CatBoost · Streamlit | [ola_churn_Prediction-main](ola_churn_Prediction-main) |
-| 18 | AgentX Voice Agent Platform | SaaS / Voice AI | Next.js · Vite · Cloudflare Workers · Drizzle | [AgentX-logo-integrated-source-2026-08-05](AgentX-logo-integrated-source-2026-08-05) |
-| 19 | Lucid Focus 🔗 | Analytics & control hub | React · Vite · TypeScript · Tailwind · Python | [Lucid-Focus/Lucid-Focus](Lucid-Focus/Lucid-Focus) |
-| 20 | Chaos Arena | Multiplayer web game | TypeScript · Netlify Functions · Netlify Blobs | [netlify-ready-game](netlify-ready-game) |
-| 21 | Power BI Sales Dashboard 🔗 | BI dashboard | Power BI · Excel | [PowerBI-Sales-Dashboard-main](PowerBI-Sales-Dashboard-main) |
-| 22 | Costa Cafe Retail Analytics 🔗 | BI + SQL | MySQL · Power BI | [Costa-Cafe-Retail-Analytics-Dashboard-main](Costa-Cafe-Retail-Analytics-Dashboard-main) |
-| 23 | E-commerce Data Analysis Dashboard | BI dashboard | Excel | [Ecommerce-Data-Analysis-Dashboard-Using-Excel-main](Ecommerce-Data-Analysis-Dashboard-Using-Excel-main) |
-| 24 | GitHub Profile README | Profile | Markdown | [PAVANKUMARELETI-main](PAVANKUMARELETI-main) |
+- 🤖 Multi-agent LLM workflows (CrewAI, OpenAI, RAG)
+- 📈 ML and forecasting: XGBoost, LightGBM, ensembles, probabilistic demand forecasting
+- 🛠️ Full-stack engineering: React, Next.js, FastAPI, Spring Boot, Express, PostgreSQL, Redis
+- ☁️ MLOps and deployment: MLflow, DVC, Docker, AWS, Vercel
 
 ---
 
-## 🤖 AI / ML
+## 🚀 All Repositories
 
-### 1. CodePilot AI — Autonomous Bug-Resolution Agent
-Bug report → repository retrieval → patch → automated tests → human-review diff. TF-IDF code retrieval, a deterministic patch planner, a temporary repo sandbox and a pytest validator, all behind a FastAPI backend and browser UI. A provider-neutral LLM adapter is included. Runs fully locally with no API key.
-`cd "AI ML/01_CodePilot_AI" && ./run.sh` → http://localhost:8000
-
-### 2. VisionGuard AI — Visual Defect Inspection
-Upload an image (or use the bundled normal/scratch/spot/chip samples) and get the defect class, confidence, severity and bounding box. Lightweight engine that runs without a GPU, plus optional PyTorch/YOLO extension points in `ml/`.
-
-### 3. RecSysX — Hybrid Recommendation Engine
-Combines content similarity, user-user collaborative signals and popularity, with explainable score components in the UI. Includes top-K serving, metrics, an API, Docker and tests. Optional two-tower + FAISS modules.
-
-### 4. ML Sentinel — Model Lifecycle & Drift Monitoring
-Trains a classifier, serves predictions, detects feature drift with PSI, versions retraining runs and shows everything in a monitoring dashboard. Optional MLflow and Airflow adapters.
-
-### 5. FinSight AI v4 — Agentic Financial Intelligence (Flagship)
-Evidence-grounded financial research. Hybrid RAG (BM25 + dense + GraphRAG + reranking), a persisted financial knowledge graph, SEC/XBRL adapters, earnings-call intelligence, forecasting with rolling backtests, anomaly and scenario analysis, a citation-verifying agent, and PDF/Markdown report generation. Runs without paid APIs; production adapters for pgvector, Redis, S3 and FinBERT.
+> 🔓 = public repo (click to open) · 🔒 = private repo (available on request)
 
 ---
 
-## 🛠️ Software Engineering (SDE)
-
-Every SDE demo includes `./run_demo.sh`, `pytest` tests, Docker and a browser UI at http://localhost:8000.
-
-| Project | What it demonstrates |
-|---|---|
-| **Distributed E-Commerce Order System** | Order placement, inventory reservation, idempotent APIs, payment capture, event logging, cache simulation |
-| **Distributed Task Queue & Scheduler** | Priority scheduling, retries, dead-letter queue, worker processing, observable job state transitions |
-| **Distributed Key-Value Store** | Consistent hashing, replication, TTL expiry, simulated node failure, key routing |
-| **CodePilot Agent (SDE edition)** | Bug analysis → code retrieval → safe patch → automated validation → review-ready diff |
-| **Real-Time Notification System** | Idempotency keys, queued delivery, provider retries, per-recipient rate limiting, delivery events |
-| **Deep Research AI Assistant** 🔗 | Streamlit + CrewAI multi-agent research (Research / Summarization / Presentation agents), Firecrawl web search, PDF report export |
-| **DevConnector** 🔗 | Developer portfolio platform: JWT auth, profiles, projects, likes/comments, Multer uploads, admin moderation, Mocha/Chai tests |
-
-### CodePilot — Repository-to-PR-Preview Platform
-A production-style version of CodePilot: React + Vite dashboard, FastAPI + Swagger, scrypt auth, PostgreSQL (SQLite fallback), a separate worker, and multi-agent orchestration (triage, retrieval, test, repair, review, delivery). Also includes AST-aware chunking, hashed embeddings with RAG retrieval, a UCB1 repair-strategy policy, a review gate, and PR previews that require human approval. Deploys with Docker Compose + Nginx.
+### 🤖 AI Agents & Generative AI
+- 🔒 **Deep-Research-AI-Assistant**: Multi-agent research assistant (Research, Summarization and Presentation agents) that runs web research and exports a cleaned PDF report. *Tech: Python, Streamlit, CrewAI, Firecrawl.*
+- 🔒 **Deep_Research_Through_an_AI_Agent_Using_OpenAI**: CrewAI agents with OpenAI models and Firecrawl search that write a research report with sources, behind a Streamlit UI and a FastAPI endpoint. *Tech: Python, CrewAI, OpenAI, FastAPI.*
+- 🔒 **AI_Financial_Analyst_Assistant_application**: AI-powered financial analyst assistant web app. *Tech: Python, DSPy, Flask.*
+- 🔒 **Lucid-Focus**: Analytics, AI calls, payments and security in one dashboard, with real-time SDK tracking, AI call intelligence, an AI receptionist fallback and payment-gateway control. *Tech: React, Vite, TypeScript, Tailwind, Python.*
 
 ---
 
-## 📊 Data Science
-
-| Project | Highlights | Key result |
-|---|---|---|
-| **AgroVision AI** | Crop-health CV: image-quality gates, 4-class pattern classification (Healthy / Leaf Spot / Rust / Blight), lesion segmentation with overlay, severity scoring, expert-review routing | Synthetic macro-F1 **96.7%** |
-| **DemandSphere AI v2** | FMCG demand intelligence: leakage-safe features, quantile gradient boosting (P10/P50/P90), promotion uplift, inventory optimisation, drift monitoring, planning copilot | Validation wMAPE **8.58%** |
-| **ConsumerVoice GenAI** | Offline-first consumer intelligence: sentiment, 6-topic classification, urgent-case escalation, PII redaction, evidence-cited answers, optional FLAN-T5 | Sentiment macro-F1 **93.8%** |
-| **Ola Driver Churn Prediction** | Ensemble churn model with dashboard and full submission notebooks | AUC-ROC **0.895**, Recall **0.762** |
-
-Each Gradio app runs with `pip install -r requirements.txt && python app.py`. All data is synthetic or public, with no company data.
-
----
-
-## 🌐 Full-Stack & Product
-
-- **AgentX Voice Agent Platform**: multi-tenant, no-code voice-agent studio covering agent types, voices, guardrails, browser conversations, website widget, subscription plans and a Twilio calling foundation. Built on Next.js (vinext) + Vite on Cloudflare Workers with Drizzle ORM.
-- **Lucid Focus** 🔗: an enterprise telemetry and control hub with real-time SDK tracking, AI call intelligence, an AI receptionist fallback, payment-gateway control and a unified command center. React + Vite + TypeScript + Tailwind frontend, Python backend, Docker/Nginx/Terraform infra.
-- **Chaos Arena**: a real-time multiplayer party game for up to 8 players, with an authoritative server-side game engine on Netlify Functions v2 and Netlify Blobs using ETag conditional writes.
+### 📊 Machine Learning & Data Science
+- 🔒 **Demand-sphere**: DemandSphere AI v2, an FMCG demand-intelligence and inventory-optimisation platform with quantile forecasts, promotion uplift, anomaly and drift detection. *Validation wMAPE 8.58%.* *Tech: scikit-learn, FastAPI, Gradio.*
+- 🔒 **Agro-vision-**: AgroVision AI, explainable crop-health computer vision covering image-quality gates, disease-pattern classification, lesion segmentation, severity scoring and expert-review routing. *Tech: Python, scikit-learn, FastAPI, Gradio, Docker.*
+- 🔒 **Rainfall-Prediction-Project**: Dual-stage rainfall prediction for 75 districts of Uttar Pradesh: an XGBoost threat classifier followed by LightGBM rainfall-volume regression, deployed on AWS. *Tech: XGBoost, LightGBM, Python.*
+- 🔒 **ola_churn_Prediction**: Ensemble driver-churn prediction for Ola. *AUC-ROC 0.895, recall 0.762.* *Tech: scikit-learn, ensembles, Jupyter.*
+- 🔒 **badminton_play_prediction_bot**: Short-term wind forecasting (1h/3h/6h) that decides whether it's safe to play badminton outdoors, through an interactive Telegram bot. *Tech: Python, ML, Telegram Bot API, GitHub Actions.*
+- 🔒 **Housing-Price-Prediction**: California housing EDA and house-price regression. *Tech: StatsModels OLS, scikit-learn.*
+- 🔒 **Analyze-Data-With-Stat-Models**: Housing data analysis with statistical models. *Tech: Statsmodels, pandas, Jupyter.*
+- 🔒 **Netflix-Content-Analysis**: EDA of Netflix's global catalogue covering content type, duration, rating, genre and region. *Tech: pandas, Seaborn.*
 
 ---
 
-## 📈 Business Intelligence
-
-- **Power BI Sales Dashboard** 🔗: CY vs PY Sales / Profit / Quantity across 4 regions, sparklines, bubble map and a YoY summary table. [Live web demo](https://nithineleti.github.io/PowerBI-Sales-Dashboard/)
-- **Costa Cafe Retail Analytics** 🔗: MySQL queries + Power BI covering top products, peak hours and days, and store performance.
-- **E-commerce Data Analysis Dashboard**: an interactive Excel dashboard covering sales trends, customer segmentation, product performance and slicers.
+### ⚙️ MLOps
+- 🔓 [**mlops_project**](https://github.com/nithineleti/mlops_project): End-to-end binary-classification pipeline running ingestion → cleaning → training → evaluation → MLflow registry → FastAPI serving → Docker. *Tech: DVC, MLflow, FastAPI, Docker, scikit-learn.*
 
 ---
 
-## ⚙️ Tech Stack
+### 🛠️ Full-Stack & Software Engineering
+- 🔓 [**DevConnector**](https://github.com/nithineleti/DevConnector): Developer portfolio platform with JWT auth, profiles, projects, likes and comments, screenshot uploads, admin moderation and integration tests. *Tech: Node.js, Express, MongoDB, Mocha/Chai.*
+- 🔒 **IRCTC-redesign**: Railway reservation system with a React UI, a reservation engine with quotas and RAC/WL, waitlist-confirmation forecasting, Redis-synced microservices, a PostgreSQL schema and a payment gateway. *Tech: React, Node.js, Redis, PostgreSQL.*
+- 🔒 **hospital-management-system**: Hospital database management for patients, doctors, staff, appointments, prescriptions and inventory, with RBAC. [Live demo](https://hospital-management-system-lime-phi.vercel.app) *Tech: Spring Boot, Spring Security, Thymeleaf.*
+- 🔒 **Quittobacco-ai**: Game-like, offline-first tobacco-cessation PWA in English and Hindi, with a clinic admin panel. [Live demo](https://quittobacco-ai.vercel.app) *Tech: Next.js 16, React 19, TypeScript, Tailwind v4.*
+- 🔒 **flight_reservation**: Flight reservation web system. *Tech: Python, HTML.*
+- 🔒 **Weather-Vision**: Weather app with a `/api/weather` route. *Tech: Next.js, TypeScript.*
 
+---
+
+### 🏥 Healthcare Apps
+- 🔓 [**CLINICCARE-MOBILE-APP**](https://github.com/nithineleti/CLINICCARE-MOBILE-APP): Clinic management platform with Admin, Doctor and Patient dashboards. [Live app](http://cliniccare-hospital-v1.s3-website-us-east-1.amazonaws.com) *Tech: Expo (React Native), TypeScript, AWS S3.*
+- 🔓 [**Health_Clinic_360-ERGT-**](https://github.com/nithineleti/Health_Clinic_360-ERGT-): Healthcare app with patient management, appointment booking, an AI symptom checker and JWT auth. *Tech: FastAPI, Expo React Native, TypeScript.*
+
+---
+
+### 📈 Business Intelligence & Dashboards
+- 🔓 [**PowerBI-Sales-Dashboard**](https://github.com/nithineleti/PowerBI-Sales-Dashboard): Interactive Power BI dashboard comparing CY vs PY Sales, Profit and Quantity by region. [Live web version](https://nithineleti.github.io/PowerBI-Sales-Dashboard/) *Tech: Power BI, Excel.*
+- 🔓 [**Costa-Cafe-Retail-Analytics-Dashboard**](https://github.com/nithineleti/Costa-Cafe-Retail-Analytics-Dashboard): Retail sales analysis of Costa Cafe covering top products, peak hours and store performance. *Tech: MySQL, Power BI.*
+
+---
+
+## ⚙️ Tech Stack Snapshot
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,fastapi,flask,react,nextjs,ts,js,nodejs,express,mongodb,postgres,sqlite,mysql,redis,docker,nginx,terraform,aws,cloudflare,netlify,tailwind,git,githubactions&perline=13" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,sklearn,fastapi,flask,spring,react,nextjs,nodejs,express,tailwind,mongodb,postgres,mysql,redis,docker,aws,vercel,git,githubactions&perline=12" />
 </p>
 
-**ML / AI:** scikit-learn, CatBoost, LightGBM, statsmodels, Prophet, SHAP, RAG, GraphRAG, CrewAI, LangChain, FAISS
-**Backend:** FastAPI, Express, SQLAlchemy, Alembic, JWT, PostgreSQL, MongoDB
-**Frontend:** React, Next.js, Vite, TypeScript, Tailwind, Gradio, Streamlit
-**DevOps:** Docker, Docker Compose, Nginx, GitHub Actions, Terraform, Cloudflare Workers, Netlify
-**BI:** Power BI, Excel, Tableau, SQL
+---
+
+## 📊 GitHub Activity & Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nithineleti&theme=tokyonight_duo&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nithineleti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithineleti&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 ---
 
-## 🔒 Notes
+## 🏆 Highlights
+- 🎓 MSc AI & ML at IIIT Lucknow
+- 🤖 Multi-agent AI research assistants built with CrewAI and OpenAI
+- 📈 Production-style ML: demand forecasting (wMAPE 8.58%), churn prediction (AUC 0.895), dual-stage rainfall prediction
+- 🌐 25+ repositories across AI, ML, MLOps, full-stack, healthcare apps and BI dashboards
+- ☁️ Live deployments on AWS, Vercel and GitHub Pages
 
-- No secrets are committed. Every project that needs keys ships a `.env.example`; copy it to `.env` and add your own values.
-- Virtual environments, `node_modules`, build output and local databases are excluded. Reinstall with `pip install -r requirements.txt` or `npm install`.
-- Some 🔗 submodule repos are private and only visible to their owner.
+---
 
 ## ✉️ Contact
+- LinkedIn: https://www.linkedin.com/in/nithin-eleti-8b240628b
+- GitHub: https://github.com/nithineleti
 
-**Pavan Kumar Eleti** · [pavaneleti.me](https://pavaneleti.me) · [pavaneletisj@gmail.com](mailto:pavaneletisj@gmail.com) · [LinkedIn](https://www.linkedin.com/in/eleti-pavan-kumar-800a48305)
+---
 
-<div align="center">⭐ If you find something useful here, consider starring the repo!</div>
+<!-- Footer Typing -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1200&color=F94144&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+%E2%AD%90;Let's+connect+and+build+something+amazing!" alt="Footer Typing" />
+</div>

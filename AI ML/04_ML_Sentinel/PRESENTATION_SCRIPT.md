@@ -1,2 +1,0 @@
-# Presentation Script
-“ML Sentinel focuses on the part of machine learning that starts after model training. The service trains a classification pipeline, records quality metrics and a model version, exposes online inference, and compares incoming feature distributions against the training baseline using PSI. I can simulate a stable batch and a shifted batch; once PSI crosses 0.2 the dashboard raises a drift alert. I also included retraining, Docker/CI and optional MLflow/Airflow adapters.”

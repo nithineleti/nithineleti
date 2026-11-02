@@ -1,8 +1,0 @@
-[
-  {"company":"Aster Systems","ticker":"ASTR","headline":"Aster Systems expands automated threat-detection partnership program","event_type":"partnership","sentiment":0.68,"impact_score":0.72,"published_at":"2026-08-18T10:00:00+00:00","source":"DemoWire"},
-  {"company":"Aster Systems","ticker":"ASTR","headline":"European enterprise deal cycles remain extended for Aster Systems","event_type":"guidance","sentiment":-0.42,"impact_score":0.64,"published_at":"2026-08-22T12:30:00+00:00","source":"DemoWire"},
-  {"company":"Meridian Energy","ticker":"MREN","headline":"Meridian Energy commissions second solar project ahead of storage expansion","event_type":"project_launch","sentiment":0.74,"impact_score":0.77,"published_at":"2026-08-20T09:15:00+00:00","source":"DemoWire"},
-  {"company":"Meridian Energy","ticker":"MREN","headline":"Permitting timetable may delay one Meridian storage project","event_type":"regulatory","sentiment":-0.55,"impact_score":0.71,"published_at":"2026-08-25T15:10:00+00:00","source":"DemoWire"},
-  {"company":"Northstar Retail","ticker":"NSTR","headline":"Northstar Retail accelerates logistics automation rollout","event_type":"operations","sentiment":0.61,"impact_score":0.66,"published_at":"2026-08-19T11:20:00+00:00","source":"DemoWire"},
-  {"company":"Northstar Retail","ticker":"NSTR","headline":"Apparel inventory remains elevated ahead of seasonal markdown cycle","event_type":"inventory","sentiment":-0.58,"impact_score":0.69,"published_at":"2026-08-27T13:05:00+00:00","source":"DemoWire"}
-]

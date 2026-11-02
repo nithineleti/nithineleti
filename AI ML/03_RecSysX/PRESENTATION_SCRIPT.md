@@ -1,2 +1,0 @@
-# Presentation Script
-“RecSysX solves personalization using a hybrid ranking strategy. Item metadata is converted into TF-IDF content vectors, while the user-item interaction matrix provides collaborative signals. For each user I build a content profile, estimate collaborative preference from similar users, blend those signals with a small popularity prior, remove items the user already consumed, and return top-K results. The dashboard exposes the score components, which is useful for debugging and explainability.”

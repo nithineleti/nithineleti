@@ -1,6 +1,0 @@
--r requirements.txt
-torch>=2.3,<3
-torchvision>=0.18,<1
-transformers>=4.49,<6
-datasets>=3,<5
-accelerate>=1,<2

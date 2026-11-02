@@ -1,5 +1,0 @@
-[
-  {"company":"Aster Systems","ticker":"ASTR","sector":"Cybersecurity","industry":"Cloud Security Software","products":["Cloud Security","Automated Threat Detection","Enterprise Security"],"competitors":["Northstar Cyber","VectorShield"],"regions":["North America","Europe"]},
-  {"company":"Meridian Energy","ticker":"MREN","sector":"Energy","industry":"Renewable Power","products":["Solar Generation","Grid Storage","Project Development"],"competitors":["HelioGrid","Nova Renewables"],"regions":["North America"]},
-  {"company":"Northstar Retail","ticker":"NSTR","sector":"Consumer","industry":"Omnichannel Retail","products":["Digital Commerce","Private Label","Loyalty Program"],"competitors":["MetroMart","UrbanBasket"],"regions":["North America"]}
-]

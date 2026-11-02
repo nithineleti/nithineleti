@@ -1,7 +1,0 @@
-services:
-  app:
-    build: .
-    ports:
-      - "8000:8000"
-    environment:
-      - APP_NAME=Scalable Real-Time Notification System

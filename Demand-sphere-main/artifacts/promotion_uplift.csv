@@ -1,7 +1,0 @@
-sku,product_name,estimated_uplift_units,estimated_uplift_pct,lower_scenario_pct,upper_scenario_pct,scoring_rows
-BEV-FRUIT-1L,Fruit Beverage 1 L,58.48,51.12,40.15,61.73,364
-FOOD-ATTA-5KG,Whole Wheat Flour 5 kg,51.29,53.68,43.46,63.87,364
-FOOD-BISC-300G,Premium Biscuits 300 g,83.76,51.69,39.04,64.12,364
-FOOD-NOOD-280G,Instant Noodles 280 g,73.83,50.95,39.88,63.99,364
-HOME-INC-100,Incense Sticks 100 pack,49.1,56.49,46.1,67.22,364
-PC-SOAP-125G,Bathing Soap 125 g,64.2,51.42,40.46,61.91,364
